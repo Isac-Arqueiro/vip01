@@ -1,26 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://awtv.com.br/wp-content/uploads/2024/10/LOGO-AWTV-1080X1080-300x300.png" group-title="Classic;Series",AWTV (1080p)
+#EXTINF:-1 tvg-logo="https://awtv.com.br/wp-content/uploads/2024/10/LOGO-AWTV-1080X1080-300x300.png" group-title="Classic;Series",AWTV 
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqhizdP.png" group-title="Religioso",Boas Novas
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/co7TCWC.png" group-title="Religioso",Canal 38 (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/co7TCWC.png" group-title="Religioso",Canal 38 
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k29So6X.png" group-title="Variedade",Canal do Criador (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k29So6X.png" group-title="Variedade",Canal do Criador
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TQFWEIS.png" group-title="Esporte",Canal do Inter
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
-#EXTINF:-1 tvg-id="GospelCartoon.br" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="Animação",Gospel Cartoon (360p)
+#EXTINF:-1 tvg-id="GospelCartoon.br" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="Animação",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-1 tvg-id="GospelCartoon.br" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="Kids",Gospel Cartoon (360p)
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8title="Filme",IMPD TV (720p)
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jWOB0oU.png" group-title="Religioso",KK TV Angola 
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Animation;Kids;Religioso",Kuriakos Kids 
-https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Animation;Kids;Kids",Kuriakos Kids 
+#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Kids",Kuriakos Kids 
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="Filme",MyTime Movie Network Brazil 
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -30,9 +25,9 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Canal aberto",Record News ( B )
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZFN1R4B.png" group-title="Classic;Series",Rede NGT )
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZFN1R4B.png" group-title="Classic;Series",Rede NGT 
 https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" tvg-id="TVCultura.br" group-title="Canal aberto",TV Cultura
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" tvg-id="TVCultura.br" group-title="Variedade",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Unjs1wi.png" group-title="Religioso",RIT TV 
 https://acesso.ecast.site:3648/live/ritlive.m3u8u8
@@ -52,13 +47,13 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 #EXTINF:-1 vg-logo="https://i.imgur.com/C9rxqA5.png" group-title="Variedade",TVI Reality 
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime",RunTime | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Ação | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime",RunTime Ação | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Comédia | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime",RunTime Comédia | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Família | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime",RunTime Família | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:-1 tvg-id="NovoTempo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religioso",Novo Tempo | Brasil
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
@@ -86,3 +81,115 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=465
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Canal aberto",Record News | RunTime Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+#EXTINF:-1 tvg-id="GLBRJHD" tvg-name="GLOBO" tvg-logo="http://p6.vc/VCK" group-title="Canal aberto",GLOBO
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/1.m3u8
+#EXTINF:-1 tvg-id="ZYB517" tvg-name="SBT" tvg-logo="http://p6.vc/VBS" group-title="Canal aberto",SBT
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/2.m3u8
+#EXTINF:-1 tvg-id="ZYB515" tvg-name="BAND" tvg-logo="http://p6.vc/VVI" group-title="Canal aberto",BAND
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/3.m3u8
+#EXTINF:-1 tvg-id="ZYB516" tvg-name="RECORD TV" tvg-logo="http://servidor.vivatele.com/tv/logos/record.png" group-title="Canal aberto",RECORD TV
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/13.m3u8
+#EXTINF:-1 tvg-id="REDERJH" tvg-name="REDE TV" tvg-logo="http://p6.vc/AGY" group-title="Canal aberto",REDE TV
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/16.m3u8
+#EXTINF:-1 tvg-id="RECNEWH" tvg-name="RECORD NEWS" tvg-logo="http://p6.vc/AWX" group-title="Canal aberto",RECORD NEWS
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/23.m3u8
+#EXTINF:-1 tvg-id="JPNEWS" tvg-name="JOVEM PAN NEWS" tvg-logo="http://p6.vc/VPE" group-title="Canal aberto",JOVEM PAN NEWS
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/57.m3u8
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL" tvg-logo="http://p6.vc/AXC" group-title="Variedade",CNN BRASIL
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/74.m3u8
+#EXTINF:-1 tvg-id="CULTUHD" tvg-name="CULTURA" tvg-logo="http://p6.vc/AGR" group-title="Variedade",CULTURA
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/6.m3u8
+#EXTINF:-1 tvg-id="FUTRAHD" tvg-name="FUTURA" tvg-logo="http://p6.vc/VCE" group-title="Variedade",FUTURA
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/9.m3u8
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GAZETA" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/d4/2019/07/17/logo-tv-gazeta-1563401680791_v2_615x300.jpg" group-title="Variedade",GAZETA
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/79.m3u8
+#EXTINF:-1 tvg-id="APARHD" tvg-name="TV APARECIDA" tvg-logo="http://p6.vc/VPS" group-title="Religioso",TV APARECIDA
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/17.m3u8
+#EXTINF:-1 tvg-id="cançãonova.br" tvg-name="CANCAO NOVA" tvg-logo="http://p6.vc/VPV" group-title="Religioso",CANCAO NOVA
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/5.m3u8
+#EXTINF:-1 tvg-id="BSNVSHD" tvg-name="REDE BOAS NOVAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png" group-title="Religioso",REDE BOAS NOVAS
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL" tvg-logo="https://static.wixstatic.com/media/d978d9_81182dc4b4f44be49f3f05c8ba6431a5~mv2.png" group-title="Religioso",REDE GOSPEL
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/81.m3u8
+#EXTINF:-1 tvg-id="rit.br" tvg-name="RIT" tvg-logo="https://yt3.ggpht.com/MaVPp9mWx1wRr3EnlKftZ16KlVocDNWEGH_WBmJJ-ihruJX_76pMfRO2-Clj1fgmmEb5oN14_fg=s512-c-k-c0x00ffffff-no-rj" group-title="Religioso",RIT
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL MOVIES" tvg-logo="http://servidor.vivatele.com/tv/logos/gospel.png" group-title="Filmes",GOSPEL MOVIES
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/52.m3u8
+#EXTINF:-1 tvg-id="CANAGRO" tvg-name="AGRO BRASIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiRJKNiECk38ZiMfH2ubnI2T3Anl53oi3DDS4P2o2U7g&s" group-title="Variedade",AGRO BRASIL
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/59.m3u8
+#EXTINF:-1 tvg-id="canal.rural.br" tvg-name="CANAL RURAL" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT5sodeAokl394_CiT6sMdPVpP54s2hI8ewwyog2Q=s512-c-k-c0x00ffffff-no-rj" group-title="Variedade",CANAL RURAL
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/89.m3u8
+#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="TERRA VIVA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTAd-sBG5wzPZY87XqyHNCzzDzgIR4JQqou-MEs7Q=s512-c-k-c0x00ffffff-no-rj" group-title="Variedade",TERRA VIVA
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/82.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAIS FAMILIA" tvg-logo="http://servidor.vivatele.com/tv/logos/familia.png" group-title="Religioso",MAIS FAMILIA
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/10.m3u8
+#EXTINF:-1 tvg-id="CNLBRSH" tvg-name="TV BRASIL" tvg-logo="http://p6.vc/AIG" group-title="Canal aberto",TV BRASIL
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/18.m3u8
+#EXTINF:-1 tvg-id="SENADOH" tvg-name="TV SENADO" tvg-logo="http://p6.vc/AHP" group-title="News",TV SENADO
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/20.m3u8
+#EXTINF:-1 tvg-id="CAMARAH" tvg-name="TV CAMARA" tvg-logo="http://p6.vc/AHR" group-title="News",TV CAMARA
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/19.m3u8
+#EXTINF:-1 tvg-id="FISHHD" tvg-name="FISH TV" tvg-logo="http://p6.vc/AIR" group-title="Canal aberto",Record
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY TIME MOVIE NETWORK" tvg-logo="http://servidor.vivatele.com/tv/logos/mytime.png" group-title="Filmes",MY TIME MOVIE NETWORK
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/54.m3u8
+#EXTINF:-1 tvg-id="TVBRHD" tvg-name="TVE" tvg-logo="http://servidor.vivatele.com/tv/logos/tve.png" group-title="Canal aberto",TVE
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADRENALIZA FREEZONE" tvg-logo="https://marcasmais.com.br/wp-content/uploads/2021/11/Imagem-de-Corpo-Horizontal-13-1024x576-1.png" group-title="Filmes",ADRENALIZA FREEZONE
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/64.m3u8
+#EXTINF:-1 tvg-id="LONOHDV" tvg-name="LOVE NATURE" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="Variedade",LOVE NATURE
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/72.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIAJANDO PELO BRASIL" tvg-logo="http://servidor.vivatele.com/tv/logos/viajando.png" group-title="Variedade",VIAJANDO PELO BRASIL
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/65.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL  TV" tvg-logo="http://servidor.vivatele.com/tv/logos/redbulltv.png" group-title="Esporte",RED BULL  TV
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO JOVEM PAM FM" tvg-logo="https://w7.pngwing.com/pngs/313/989/png-transparent-teresina-jovem-pan-fm-fm-broadcasting-radio-radio-blue-electronics-logo.png" group-title="News",RADIO JOVEM PAM FM
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO FM O DIA AO VIVO" tvg-logo="https://seeklogo.com/images/F/Fm_O_Dia-logo-F0CD3E93CF-seeklogo.com.png" group-title="News",RADIO FM O DIA AO VIVO
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/42.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URBAN KIDS" tvg-logo="http://servidor.vivatele.com/tv/logos/urbankids.png" group-title="URBAN",URBAN KIDS
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URBAN TURBO" tvg-logo="https://www.urbanplay.com.br/archives/15/retrieve" group-title="URBAN",URBAN TURBO
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URBAN DOCS" tvg-logo="https://www.urbanplay.com.br/archives/18-urban-docs-png_24033-n7svzg0a82k/retrieve" group-title="URBAN",URBAN DOCS
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URBAN MOVIES" tvg-logo="https://www.urbanplay.com.br/archives/20-urban-movies-png_26568-z0cpuj3tmb/retrieve" group-title="URBAN",URBAN MOVIES
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URBAN SERIES" tvg-logo="https://www.urbanplay.com.br/archives/21-urban-series-png_21570-1uxfpsxoedh/retrieve" group-title="URBAN",URBAN SERIES
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URBAN TRAVEL" tvg-logo="https://www.urbanplay.com.br/archives/23-urban-travel-png_22814-vwd27n3oby/retrieve" group-title="URBAN",URBAN TRAVEL
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TURBO TV" tvg-logo="https://imgur.com/CaXWpQX.png" group-title="Esport",TURBO TV
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATUREZA" tvg-logo="https://imgur.com/AgEFqXm.png" group-title="Variedade",NATUREZA
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MASTER CHEF" tvg-logo="https://imgur.com/W6s8vWC.png" group-title="CANAIS ABERTOS",MASTER CHEF
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL CARTOON" tvg-logo="https://imgur.com/5sLv99H.png" group-title="Animação",GOSPEL CARTOON
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="" group-title="kids",BOB ESPONJA
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/86.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="https://imgur.com/MOWXnxd.png" group-title="Animação",BOB ESPONJA
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICK JUNIOR CLUB" tvg-logo="https://imgur.com/BqVNUCU.png" group-title="Animação",NICK JUNIOR CLUB
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VELOCIDADE" tvg-logo="https://imgur.com/0Um60TH.png" group-title="Esporte",VELOCIDADE
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RACING AMERICA" tvg-logo="https://imgur.com/WABqd0v.png" group-title="Variedade",RACING AMERICA
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE MUNDIAL" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTpOxDLl4gF7cW3Hezi6JMk2SkrG2yCvB_xkkchag=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Religioso",REDE MUNDIAL
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/80.m3u8
+#EXTINF:-1 tvg-id="CNTHD" tvg-name="REDE CNT" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWMvbTylUicfXu2_vuyGY5z98uAI3tsW5OuPozWOw=s512-c-k-c0x00ffffff-no-rj" group-title="Canal aberto",REDE CNT
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/90.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIME TV" tvg-logo="http://servidor.vivatele.com/tv/logos/anime_tv.jpg" group-title="Animação",ANIME TV
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/51.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL UOL" tvg-logo="http://servidor.vivatele.com/tv/logos/uol.jpeg" group-title="News",CANAL UOL
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/61.m3u8
+#EXTINF:-1 tvg-id="TMFRE16" tvg-name="TASTEMADE" tvg-logo="http://servidor.vivatele.com/tv/logos/tastemade.jpeg" group-title="Classic;Series",TASTEMADE
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/69.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ISTV" tvg-logo="" group-title="Filmes",ISTV
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/53.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MASTER TV" tvg-logo="" group-title="Variedade",MASTER TV
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/98.m3u8
+#EXTINF:-1 tvg-id="NOVOTHD" tvg-name="TV NOVO TEMPO" tvg-logo="https://yt3.ggpht.com/u3IZ2FVzJ1PWJDgL1w5wDhUxuMDcEuL7ZfwMxkB7aVc5SHmBN2PlTO4cCiqnKjJbFRtdipPZ8w=s512-c-k-c0x00ffffff-no-rj" group-title="Religioso",TV NOVO TEMPO
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/75.m3u8
