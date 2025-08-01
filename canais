@@ -63,6 +63,8 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/79.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/59.m3u8
 #EXTINF:-1 tvg-id="canal.rural.br" tvg-name="CANAL RURAL" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT5sodeAokl394_CiT6sMdPVpP54s2hI8ewwyog2Q=s512-c-k-c0x00ffffff-no-rj" group-title="Variedade",CANAL RURAL
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/89.m3u8
+#EXTINF:-1 tvg-id="canal.rural.br" tvg-name="CANAL RURAL" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT5sodeAokl394_CiT6sMdPVpP54s2hI8ewwyog2Q=s512-c-k-c0x00ffffff-no-rj" group-title="Variedade",CANAL RURAL
+https://brn-crbr-samsungtvplus-br.otteravision.com/brn/crbr/crbr.m3u8
 #EXTINF:-1 tvg-id="terra.viva.br" tvg-name="TERRA VIVA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTAd-sBG5wzPZY87XqyHNCzzDzgIR4JQqou-MEs7Q=s512-c-k-c0x00ffffff-no-rj" group-title="Variedade",TERRA VIVA
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/82.m3u8
 #EXTINF:-1 tvg-id="LONOHDV" tvg-name="LOVE NATURE" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="Variedade",LOVE NATURE
@@ -117,6 +119,8 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/10.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/80.m3u8
 #EXTINF:-1 tvg-id="NOVOTHD" tvg-name="TV NOVO TEMPO" tvg-logo="https://yt3.ggpht.com/u3IZ2FVzJ1PWJDgL1w5wDhUxuMDcEuL7ZfwMxkB7aVc5SHmBN2PlTO4cCiqnKjJbFRtdipPZ8w=s512-c-k-c0x00ffffff-no-rj" group-title="Religioso",TV NOVO TEMPO
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/75.m3u8
+#EXTINF:-1 tvg-name="PFK" tvg-logo="https://lh6.googleusercontent.com/XbPYZhNjJE9YJq675FeT_1x73AuI5Y28JfNhMtk3cnaGbKaqrdKjrD60R1bHd2a_OU9Un0vH02dvQlIzt9LHBTkXVastSh4rb2pXc1Cu3fM_H528cug6TzgNL5NpefE8zUoXltFMHsk=w1280" group-title="Esporte",PFK
+https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal do Inter" tvg-logo="https://i.imgur.com/TQFWEIS.png" group-title="Esporte",Canal do Inter
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TURBO TV" tvg-logo="https://imgur.com/CaXWpQX.png" group-title="Esporte",TURBO TV
@@ -125,6 +129,8 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/113.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/46.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VELOCIDADE" tvg-logo="https://imgur.com/0Um60TH.png" group-title="Esporte",VELOCIDADE
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/123.m3u8
+#EXTINF:-1 tvg-name="De olho na tv" tvg-logo="https://lh6.googleusercontent.com/2Q8FcrvGFCVcqTSUtftMzj5dw6_0GJ1BzrWu5IUoklMDZoTimjP1INwzoAQF3QqXydCiJT0yFQrZXXR25z0dBjX1CXkYOlurL37FAl3KOXQH7EiDUo9YDHks9eVY--abH029K1xupnindch_iC5632wiHz25ZZl0akyK6UhTAL5cD4zfXQJXHA=w1280" group-title="Animação",De olho va tv
+https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist_w1501372909.m3u8
 #EXTINF:-1 tvg-name="Gospel Cartoon" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="Animação",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOSPEL CARTOON" tvg-logo="https://imgur.com/5sLv99H.png" group-title="Animação",GOSPEL CARTOON
@@ -195,3 +201,5 @@ https://streaming.cloudecast.com/hls/awtv/index.m3u8
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:-1 tvg-id="TMFRE16" tvg-name="TASTEMADE" tvg-logo="http://servidor.vivatele.com/tv/logos/tastemade.jpeg" group-title="Classic;Series",TASTEMADE
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/69.m3u8
+#EXTINF:-1 tvg-id="Pluto tv" tvg-name="Pluto tv" tvg-logo="http://servidor.vivatele.com/tv/logos/tastemade.jpeg" group-title="Classic;Series",Pluto tv
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d432d612e50007e56133/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
