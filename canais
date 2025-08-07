@@ -3,6 +3,8 @@
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-name="Record News" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Canal aberto",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+#EXTINF:-1 tvg-name="Record rn" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Canal aberto",Record rn
+https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn_360p.m3u8
 #EXTINF:-1 tvg-name="TV Arapuan" tvg-logo="https://i.imgur.com/3395A2h.png" group-title="Canal aberto",TV Arapuan 
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/320px-TvBrasil2023.png" group-title="Canal aberto",TV Brasil 
@@ -51,8 +53,6 @@ https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafric
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 #EXTINF:-1 tvg-name="Phoenix TV" tvg-logo="https://i.imgur.com/dUdZVhT.png" group-title="Variedade",Phoenix TV
 http://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
-#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL" tvg-logo="http://p6.vc/AXC" group-title="Variedade",CNN BRASIL
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/74.m3u8
 #EXTINF:-1 tvg-id="CULTUHD" tvg-name="CULTURA" tvg-logo="http://p6.vc/AGR" group-title="Variedade",CULTURA
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/6.m3u8
 #EXTINF:-1 tvg-id="FUTRAHD" tvg-name="FUTURA" tvg-logo="http://p6.vc/VCE" group-title="Variedade",FUTURA
@@ -143,8 +143,16 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/121.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/51.m3u8
 #EXTINF:-1 tvg-name="BabyFirst" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+#EXTINF:-1 tvg-name="TV R" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_CERTP_PNG__MOAFOfq.png" group-title="Kids",TV R
+https://video01.soultv.com.br/tvr/tvr/chunklist_w824560309.m3u8
+#EXTINF:-1 tvg-name="Kids mais" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/unnamed_4cMwnRI.png" group-title="Kids",Kids Mais
+https://s1.tvr.ovh/video52119/video52119/chunklist_w1886286333.m3u8
 #EXTINF:-1 tvg-name="Kuriakos Kids" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Kids",Kuriakos Kids 
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanuca tv" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Kanuca_TV_100x100_x8DpnML.png" group-title="Kids",Kanuca tv
+https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logotipo_100x100_vdONDb3.png
+#EXTINF:-1 tvg-name="Rede Família" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logotipo_100x100_vdONDb3.png" group-title="Kids",Rede Família
+https://video09.logicahost.com.br/redefamilia/redefamilia/chunklist_w1863671780.m3u8
 #EXTINF:-1 tvg-name="Toon Googles TG Brasil" tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="Kids",Toon Googles TG Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 #EXTINF:-1 tvg-name="Toon Googles TG Brasil 2" tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="Kids",Toon Googles TG Brasil 2
@@ -153,6 +161,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=465
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/86.m3u8
 #EXTINF:-1 tvg-name="MyTime Movie Network Brazil" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="Filme",MyTime Movie Network Brazil 
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Sonata" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/img/mobile/featured/bgTVSonataMobile_3.jpg" group-title="Filme",Sonata
+https://video04.logicahost.com.br/isonata/isonata/chunklist_w7914586.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOSPEL MOVIES" tvg-logo="http://servidor.vivatele.com/tv/logos/gospel.png" group-title="Filmes",GOSPEL MOVIES
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/52.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY TIME MOVIE NETWORK" tvg-logo="http://servidor.vivatele.com/tv/logos/mytime.png" group-title="Filme",MY TIME MOVIE NETWORK
@@ -161,6 +171,10 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/54.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/64.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ISTV" tvg-logo="" group-title="Filme",ISTV
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/53.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanade" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/326/img_background_image_web.jpg" group-title="Série",Kanade
+https://streams.kanade.cl/webtv/kanadebr-sd/tracks-v1a1/mono.m3u8?token=deM0kanADeweB
+#EXTINF:-1 tvg-name="Sésrie Clássicas" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/240/240_img_bg_image_293x165_small.jpg" group-title="Série",Sésrie Clássicas
+https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w903940777.m3u8
 #EXTINF:-1 tvg-name="RunTime" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime",RunTime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 #EXTINF:-1 tvg-name="RunTime Ação" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime",RunTime Ação
@@ -185,19 +199,31 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/111.m3u8
 https://011news.akamaized.net/011news/011news/playlist.m3u8
 #EXTINF:-1 tvg-id="SENADOH" tvg-name="TV SENADO" tvg-logo="http://p6.vc/AHP" group-title="News",TV SENADO
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/20.m3u8
-#EXTINF:-1 tvg-id="CAMARAH" tvg-name="TV CAMARA" tvg-logo="http://p6.vc/AHR" group-title="News",TV CAMARA
+#EXTINF:-1 tvg-id="CAMARA" tvg-name="TV CAMARA" tvg-logo="http://p6.vc/AHR" group-title="News",TV CAMARA
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/19.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTsLEqfar1btiUIjZMI1nSMMJea_tjLlI6qA&s" group-title="News",CNBC
+https://video02.soultv.com.br/TimesBrasil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADIO JOVEM PAM FM" tvg-logo="https://w7.pngwing.com/pngs/313/989/png-transparent-teresina-jovem-pan-fm-fm-broadcasting-radio-radio-blue-electronics-logo.png" group-title="News",RADIO JOVEM PAM FM
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/47.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADIO FM O DIA AO VIVO" tvg-logo="https://seeklogo.com/images/F/Fm_O_Dia-logo-F0CD3E93CF-seeklogo.com.png" group-title="News",RADIO FM O DIA AO VIVO
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/42.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL UOL" tvg-logo="http://servidor.vivatele.com/tv/logos/uol.jpeg" group-title="News",CANAL UOL
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/61.m3u8
-#EXTINF:-1 tvg-name="AWTV" tvg-logo="https://awtv.com.br/wp-content/uploads/2025/05/AWTV-STREAMING-300x138.png" group-title="Classic;Series",AWTV 
+#EXTINF:-1 tvg-id="" tvg-name="CANAL UOL" tvg-logo="http://servidor.vivatele.com/tv/logos/uol.jpeg" group-title="News",CANAL UOL
+https://video01.soultv.com.br/uoltv/uoltv/chunklist_w78169972.m3u8
+#EXTINF:-1 tvg-name="cnn money" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNn30QCn9VC6fZsBDGH9iSMBZkTkj9qHJAjA&s" group-title="News",cnn money
+https://video03.logicahost.com.br/cnnmoney/cnnmoney/chunklist_w1084057919.m3u8
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL" tvg-logo="http://p6.vc/AXC" group-title="News",CNN BRASIL
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/74.m3u8
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL" tvg-logo="http://p6.vc/AXC" group-title="News",CNN BRASIL
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:-1 tvg-name="AWTV" tvg-logo="https://awtv.com.br/wp-content/uploads/2025/05/AWTV-STREAMING-300x138.png" group-title="Classic",AWTV 
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
-#EXTINF:-1 tvg-name="AWTV" tvg-logo="https://awtv.com.br/wp-content/uploads/2025/05/AWTV-STREAMING-300x138.png" group-title="Classic;Series",AWTV
+#EXTINF:-1 tvg-name="AWTV" tvg-logo="https://awtv.com.br/wp-content/uploads/2025/05/AWTV-STREAMING-300x138.png" group-title="Classic",AWTV
 https://streaming.cloudecast.com/hls/awtv/index.m3u8
-#EXTINF:-1 tvg-name="Rede NGT" tvg-logo="https://i.imgur.com/ZFN1R4B.png" group-title="Classic;Series",Rede NGT 
+#EXTINF:-1 tvg-name="gnt" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO_PNG_DIMENS%C3%A2O_100X100_-_GLN_TV_reduz_zKzqMEP.png" group-title="Classic",gnt
+https://stmv8.samcast.com.br/glnfilmes/glnfilmes/chunklist_w1225319308.m3u8
+#EXTINF:-1 tvg-name="Rede NGT" tvg-logo="https://i.imgur.com/ZFN1R4B.png" group-title="Classic",Rede NGT 
 https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 tvg-id="TMFRE16" tvg-name="TASTEMADE" tvg-logo="http://servidor.vivatele.com/tv/logos/tastemade.jpeg" group-title="Classic;Series",TASTEMADE
+#EXTINF:-1 tvg-id="TMFRE16" tvg-name="TASTEMADE" tvg-logo="http://servidor.vivatele.com/tv/logos/tastemade.jpeg" group-title="Classic",TASTEMADE
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/69.m3u8
