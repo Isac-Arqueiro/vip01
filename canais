@@ -120,9 +120,9 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/80.m3u8
 #EXTINF:-1 tvg-id="NOVOTHD" tvg-name="TV NOVO TEMPO" tvg-logo="https://yt3.ggpht.com/u3IZ2FVzJ1PWJDgL1w5wDhUxuMDcEuL7ZfwMxkB7aVc5SHmBN2PlTO4cCiqnKjJbFRtdipPZ8w=s512-c-k-c0x00ffffff-no-rj" group-title="Religioso",TV NOVO TEMPO
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/75.m3u8
 #EXTINF:-1 tvg-name="PFK" tvg-logo="https://lh6.googleusercontent.com/XbPYZhNjJE9YJq675FeT_1x73AuI5Y28JfNhMtk3cnaGbKaqrdKjrD60R1bHd2a_OU9Un0vH02dvQlIzt9LHBTkXVastSh4rb2pXc1Cu3fM_H528cug6TzgNL5NpefE8zUoXltFMHsk=w1280" group-title="Esporte",PFK
-https://video01.soultv.com.br/paulozorello/paulozorello/chunklist_w231649585.m3u8
+https://video01.soultv.com.br/paulozorello/paulozorello/chunklist_w1444379368.m3u8
 #EXTINF:-1 tvg-name="NSPORTs" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/323/img_background_image_web.jpg" group-title="Esporte",NSPORTs
-https://video01.soultv.com.br/nsports/nsports/chunklist_w576030495.m3u8
+https://video01.soultv.com.br/nsports/nsports/chunklist_w2062411981.m3u8
 #EXTINF:-1 tvg-name="Tv da Pesca" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/311/img_background_image_web.jpg" group-title="Esporte",Tv da Pesca
 https://isaocorp.cloudecast.com/tvdapesca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Canal do Inter" tvg-logo="https://i.imgur.com/TQFWEIS.png" group-title="Esporte",Canal do Inter
@@ -148,13 +148,13 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/51.m3u8
 #EXTINF:-1 tvg-name="BabyFirst" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 #EXTINF:-1 tvg-name="TV R" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_CERTP_PNG__MOAFOfq.png" group-title="Kids",TV R
-https://video01.soultv.com.br/tvr/tvr/chunklist_w1373914473.m3u8
+https://video01.soultv.com.br/tvr/tvr/chunklist_w275179699.m3u8
 #EXTINF:-1 tvg-name="Kids mais" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/unnamed_4cMwnRI.png" group-title="Kids",Kids Mais
 https://s1.tvr.ovh/video52119/video52119/chunklist_w1886286333.m3u8
 #EXTINF:-1 tvg-name="Kuriakos Kids" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Kids",Kuriakos Kids 
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanuca tv" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Kanuca_TV_100x100_x8DpnML.png" group-title="Kids",Kanuca tv
-https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logotipo_100x100_vdONDb3.png
+https://video08.logicahost.com.br/kanucatv/kanucatv/chunklist_w1852778285.m3u8
 #EXTINF:-1 tvg-name="Rede Família" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logotipo_100x100_vdONDb3.png" group-title="Kids",Rede Família
 https://video09.logicahost.com.br/redefamilia/redefamilia/chunklist_w1863671780.m3u8
 #EXTINF:-1 tvg-name="Toon Googles TG Brasil" tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="Kids",Toon Googles TG Brasil
