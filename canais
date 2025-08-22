@@ -101,6 +101,8 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/124.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/98.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/ZqhizdP.png" group-title="Religioso",Boas Novas
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/ZqhizdP.png" group-title="Religioso",Boas Nova
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12960/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="BSNVSHD" tvg-name="REDE BOAS NOVAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png" group-title="Religioso",REDE BOAS NOVAS
 https://video09.logicahost.com.br/redefamilia/redefamilia/index.m3u8
 #EXTINF:-1 tvg-name="Tv life america" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLdJc8oiAJLNgaAtC0rsv188fnRKZ3_H8Vg&s" group-title="Religioso",Tv life
@@ -131,10 +133,16 @@ https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/17.m3u8
 #EXTINF:-1 tvg-id="cançãonova.br" tvg-name="CANCAO NOVA" tvg-logo="http://p6.vc/VPV" group-title="Religioso",CANCAO NOVA
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/5.m3u8
+#EXTINF:-1 tvg-name="TV Pai Eterno" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="Religioso",TV Pai Eterno
+https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
+#EXTINF:-1 tvg-name="IBMC TV" tvg-logo="https://yt3.googleusercontent.com/mOyP38XcmH1ZRgUXXsxis_GDe00jQoYNxeAZLbxegA0INReYsF7tVhLEGYOeZY35STUZZZc8=s900-c-k-c0x00ffffff-no-rj" group-title="Religioso",IBMC TV
+https://stmv1.srvstm.com/igreja9480/igreja9480/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL" tvg-logo="https://static.wixstatic.com/media/d978d9_81182dc4b4f44be49f3f05c8ba6431a5~mv2.png" group-title="Religioso",REDE GOSPEL
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/81.m3u8
 #EXTINF:-1 tvg-id="rit.br" tvg-name="RIT" tvg-logo="https://yt3.ggpht.com/MaVPp9mWx1wRr3EnlKftZ16KlVocDNWEGH_WBmJJ-ihruJX_76pMfRO2-Clj1fgmmEb5oN14_fg=s512-c-k-c0x00ffffff-no-rj" group-title="Religioso",RIT
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/88.m3u8
+#EXTINF:-1 tvg-id="rit.br" tvg-name="RIT" tvg-logo="https://yt3.ggpht.com/MaVPp9mWx1wRr3EnlKftZ16KlVocDNWEGH_WBmJJ-ihruJX_76pMfRO2-Clj1fgmmEb5oN14_fg=s512-c-k-c0x00ffffff-no-rj" group-title="Religioso",RIT
+https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAIS FAMILIA" tvg-logo="http://servidor.vivatele.com/tv/logos/familia.png" group-title="Religioso",MAIS FAMILIA
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="evangelizar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4i0hb0rx94NvA7eJnfUUMVBITBNp3cNCQag&s" group-title="Religioso",Evangelizar
@@ -145,6 +153,8 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/80.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/75.m3u8
 #EXTINF:-1 tvg-name="PFK" tvg-logo="https://lh6.googleusercontent.com/XbPYZhNjJE9YJq675FeT_1x73AuI5Y28JfNhMtk3cnaGbKaqrdKjrD60R1bHd2a_OU9Un0vH02dvQlIzt9LHBTkXVastSh4rb2pXc1Cu3fM_H528cug6TzgNL5NpefE8zUoXltFMHsk=w1280" group-title="Esporte",PFK
 https://video01.soultv.com.br/paulozorello/paulozorello/chunklist_w1444379368.m3u8
+#EXTINF:-1 tvg-name="Bein Sports Xtra" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/Bein.jpg/Zz1mNmExMWMyZWVlNmExMWVmOWJhNjRhYzEwMjk2ODg1YQ==?width=1200" group-title="Esporte",Bein Sports Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="NSPORTs" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/323/img_background_image_web.jpg" group-title="Esporte",NSPORTs
 https://video01.soultv.com.br/nsports/nsports/chunklist_w2062411981.m3u8
 #EXTINF:-1 tvg-name="NSPORTs" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/323/img_background_image_web.jpg" group-title="Esporte",NSPORTs
@@ -175,6 +185,8 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/117.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="https://imgur.com/MOWXnxd.png" group-title="Animação",BOB ESPONJA
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/120.m3u8
+#EXTINF:-1 tvg-name="Ministério Infantil" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Animação",Ministério Infantil
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NICK JUNIOR CLUB" tvg-logo="https://imgur.com/BqVNUCU.png" group-title="Animação",NICK JUNIOR CLUB
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/121.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANIME TV" tvg-logo="http://servidor.vivatele.com/tv/logos/anime_tv.jpg" group-title="Animação",ANIME TV
