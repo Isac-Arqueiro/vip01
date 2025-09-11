@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Record News" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Canal aberto",TESTE
+#EXTINF:-1 tvg-name="TESTE" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Canal aberto",TESTE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=123&deviceId=123&deviceVersion=96&appVersion=1&deviceDNT=0&userId=123
 #EXTINF:-1 tvg-name="Record News" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Canal aberto",Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
