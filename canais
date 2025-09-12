@@ -26,25 +26,25 @@ https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 #EXTINF:-1 tvg-name="Record News | RunTime Brasil" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Canal aberto",Record News | RunTime Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
-#EXTINF:-1 tvg-id="GLBRJHD" tvg-name="GLOBO" tvg-logo="http://p6.vc/VCK" group-title="Canal aberto",GLOBO
+#EXTINF:-1 tvg-id="GLBRJHD" tvg-name="GLOBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ_M2KItC5USgnL9D_j5DkhWbePgntytmCjQ&s" group-title="Canal aberto",GLOBO
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/1.m3u8
-#EXTINF:-1 tvg-id="ZYB517" tvg-name="SBT" tvg-logo="http://p6.vc/VBS" group-title="Canal aberto",SBT
+#EXTINF:-1 tvg-id="ZYB517" tvg-name="SBT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVhQQ1A00oYx99mR1ej3C-LLRXKXV24YSjgw&s" group-title="Canal aberto",SBT
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/2.m3u8
-#EXTINF:-1 tvg-id="ZYB515" tvg-name="BAND" tvg-logo="http://p6.vc/VVI" group-title="Canal aberto",BAND
+#EXTINF:-1 tvg-id="ZYB515" tvg-name="BAND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxZhChiwY44FOb3DEqwTLRY3BOx24KcvkcQ&s" group-title="Canal aberto",BAND
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/3.m3u8
 #EXTINF:-1 tvg-id="ZYB516" tvg-name="RECORD TV" tvg-logo="http://servidor.vivatele.com/tv/logos/record.png" group-title="Canal aberto",RECORD TV
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/13.m3u8
-#EXTINF:-1 tvg-id="REDERJH" tvg-name="REDE TV" tvg-logo="http://p6.vc/AGY" group-title="Canal aberto",REDE TV
+#EXTINF:-1 tvg-id="REDERJH" tvg-name="REDE TV" tvg-logo="https://www.publicitarioscriativos.com/wp-content/uploads/2019/11/redetv1-768x432.png" group-title="Canal aberto",REDE TV
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/16.m3u8
-#EXTINF:-1 tvg-id="redetvparana" tvg-name="REDE TV" tvg-logo="http://p6.vc/AGY" group-title="Canal aberto",REDE TV paraná
+#EXTINF:-1 tvg-id="redetvparana" tvg-name="REDE TV" tvg-logo="https://www.publicitarioscriativos.com/wp-content/uploads/2019/11/redetv1-768x432.png" group-title="Canal aberto",REDE TV paraná
 https://tv01.zas.media:1936/redetvparana/redetvparana/index.m3u8
-#EXTINF:-1 tvg-id="RECNEWH" tvg-name="RECORD NEWS" tvg-logo="http://p6.vc/AWX" group-title="Canal aberto",RECORD NEWS
+#EXTINF:-1 tvg-id="RECNEWH" tvg-name="RECORD NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2-0915xHU1M2H3Aw4z7FqylRNC4FNa47UlQ&s" group-title="Canal aberto",RECORD NEWS
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/23.m3u8
-#EXTINF:-1 tvg-id="JPNEWS" tvg-name="JOVEM PAN NEWS" tvg-logo="http://p6.vc/VPE" group-title="Canal aberto",JOVEM PAN NEWS
+#EXTINF:-1 tvg-id="JPNEWS" tvg-name="JOVEM PAN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Jovem_Pan_logo.svg" group-title="Canal aberto",JOVEM PAN NEWS
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/57.m3u8
-#EXTINF:-1 tvg-id="CNLBRSH" tvg-name="TV BRASIL" tvg-logo="http://p6.vc/AIG" group-title="Canal aberto",TV BRASIL
+#EXTINF:-1 tvg-id="CNLBRSH" tvg-name="TV BRASIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW4vqcd-CpOKheB4c1nKkQSJvTigALw0fsQQ&s" group-title="Canal aberto",TV BRASIL
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/18.m3u8
-#EXTINF:-1 tvg-id="FISHHD" tvg-name="FISH TV" tvg-logo="http://p6.vc/AIR" group-title="Canal aberto",Record
+#EXTINF:-1 tvg-id="FISHHD" tvg-name="FISH TV" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Canal aberto",Record
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/21.m3u8
 #EXTINF:-1 tvg-id="TVBRHD" tvg-name="TVE" tvg-logo="http://servidor.vivatele.com/tv/logos/tve.png" group-title="Canal aberto",TVE
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/55.m3u8
@@ -224,7 +224,7 @@ https://video04.logicahost.com.br/isonata/isonata/chunklist_w7914586.m3u8
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOSPEL MOVIES" tvg-logo="http://servidor.vivatele.com/tv/logos/gospel.png" group-title="Filmes",GOSPEL MOVIES
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/52.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Django" tvg-logo="https://brandlogos.net/wp-content/uploads/2021/11/django-logo.png" group-title="Filmes",Django
+#EXTINF:-1 tvg-id="" tvg-name="Django" tvg-logo="https://www.filmclub.es/wp-content/uploads/2012/12/Django-Unchained_old-header.jpg" group-title="Filmes",Django
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY TIME MOVIE NETWORK" tvg-logo="http://servidor.vivatele.com/tv/logos/mytime.png" group-title="Filme",MY TIME MOVIE NETWORK
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/54.m3u8
