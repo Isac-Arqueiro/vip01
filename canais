@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-name="Sporttv2" tvg-logo="" group-title="Canal aberto",TESTE
+http://facilita.fun:80/TeamKakashi/4321123/9515081.m3u8
 #EXTINF:-1 tvg-name="Record News" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Canal aberto",Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-name="Record News" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Canal aberto",Record
