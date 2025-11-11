@@ -483,3 +483,5 @@ https://stmv5.samcast.com.br/claudio8701/claudio8701/index.m3u8
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:-1 tvg-id="TMFRE16" tvg-name="TASTEMADE" tvg-logo="http://servidor.vivatele.com/tv/logos/tastemade.jpeg" group-title="Classic",TASTEMADE
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/69.m3u8
+#EXTINF:-1 tvg-id="TMFRE16" tvg-name="TASTEMADE" tvg-logo="http://servidor.vivatele.com/tv/logos/tastemade.jpeg" group-title="Classic",TASTEMADE
+http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/307637-000f0947.m3u8
