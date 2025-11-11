@@ -370,6 +370,22 @@ https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8
 https://run-rufb.otteravision.com/run/rufb/rufb.m3u8
 #EXTINF:-1 tvg-name="RunTime Família" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime",RunTime crime
 https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8
+#EXTINF:-1 tvg-name="RunTime" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 tvg-name="RunTime" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Ação | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+#EXTINF:-1 tvg-name="RunTime"tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Ação | Brasil ~ link 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6128
+#EXTINF:-1 tvg-name="RunTime" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime CinEspanto | Suspense e Terror | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+#EXTINF:-1 tvg-name="RunTime" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Comédia | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+#EXTINF:-1 tvg-name="RunTime" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Crime | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+#EXTINF:-1 tvg-name="RunTime" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Família | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+#EXTINF:-1 tvg-name="RunTime" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Romance | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:-1 tvg-id="" tvg-name="URBAN KIDS" tvg-logo="http://servidor.vivatele.com/tv/logos/urbankids.png" group-title="URBAN",URBAN KIDS
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/105.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="URBAN TURBO" tvg-logo="https://www.urbanplay.com.br/archives/15/retrieve" group-title="URBAN",URBAN TURBO
