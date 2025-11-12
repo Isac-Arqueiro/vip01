@@ -28,19 +28,19 @@ https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 #EXTINF:-1 tvg-name="Record News | RunTime Brasil" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Canal aberto",Record News | RunTime Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades",SBT | TV Cidade Verde | Piauí
+#EXTINF:-1 tvg-name="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades",SBT | TV Cidade Verde | Piauí
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/master.m3u8
-#EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades",SBT | TV Guajará | Tailândia | PA
+#EXTINF:-1 tvg-name="SBTPara.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades",SBT | TV Guajará | Tailândia | PA
 https://video05.logicahost.com.br/tvguajara/tvguajara/master.m3u8
-#EXTINF:-1 tvg-id="redetvparana" tvg-name="REDE TV" tvg-logo="https://www.publicitarioscriativos.com/wp-content/uploads/2019/11/redetv1-768x432.png" group-title="Canal aberto",REDE TV paraná
+#EXTINF:-1 tvg-name"redetvparana" tvg-name="REDE TV" tvg-logo="https://www.publicitarioscriativos.com/wp-content/uploads/2019/11/redetv1-768x432.png" group-title="Canal aberto",REDE TV paraná
 https://tv01.zas.media:1936/redetvparana/redetvparana/index.m3u8
-#EXTINF:-1 tvg-id="5ff768b6a4c8b80008498610" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries",BET | Pluto TV Brasil 
+#EXTINF:-1 tvg-name="BET | Pluto TV Brasil" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries",BET | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Kenan e Kel | Pluto TV Brasil
+#EXTINF:-1 tvg-name="Kenan e Kel" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Kenan e Kel | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="63eb9dc84e83e70008abea92" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="Brasil: maratona de ficção",MacGyver | Pluto TV Brasil
+#EXTINF:-1 tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="Brasil: maratona de ficção",MacGyver | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Brasil: notícias",CNN Brasil | Soul TV
+#EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Brasil: notícias",CNN Brasil | Soul TV
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
 
@@ -55,7 +55,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d432d612e50007e56133/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 #EXTINF:-1 tvg-name="CENTRALCOMEDY" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/comedy-central-logo-png-transparent.png" group-title="Variedade",CENTRAL COMEDY
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries",Comedy Central | Pluto TV Brasil
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries",Comedy Central | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-name="brtvmax" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/d8/34/95d8340a-2a3f-b85d-6f72-08ab4a377ff3/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/1200x600wa.png" group-title="Variedade",Brtvmax
 https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/index.m3u8
@@ -113,33 +113,33 @@ https://stmv1.srvstm.com/igreja9480/igreja9480/playlist.m3u8
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="evangelizar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4i0hb0rx94NvA7eJnfUUMVBITBNp3cNCQag&s" group-title="Religioso",Evangelizar
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
-#EXTINF:-1 tvg-id="5f1ef1a8cec6be00072a7ac9" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="Brasil: educativos e documentários",Documentários | Pluto TV Brasil
+#EXTINF:-1 tvg-name="Documentários" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="Brasil: educativos e documentários",Documentários | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="62b5c5a064163d0007b2efe6" tvg-logo="https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png" group-title="Brasil: educativos e documentários",Mistérios sem Solução | Pluto TV Brasil
+#EXTINF:-1 tvg-name="Mistérios sem Solução" tvg-logo="https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png" group-title="Brasil: educativos e documentários",Mistérios sem Solução | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a064163d0007b2efe6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="Brasil: educativos e documentários",Natureza | Pluto TV Brasil 
+#EXTINF:-1 tvg-name="Natureza" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="Brasil: educativos e documentários",Natureza | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="6298bd10d88ef000073f16b7" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="Brasil: educativos e documentários",Smithsonian Channel | legendado | Pluto TV Brasil
+#EXTINF:-1 tvg-name="Smithsonian Channel" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="Brasil: educativos e documentários",Smithsonian Channel | legendado | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6014761dfb91870008ea6463" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="Brasil: educativos e documentários",Turbo | Pluto TV Brasil
+#EXTINF:-1 tvg-name="Turbo" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="Brasil: educativos e documentários",Turbo | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries",Investigação | Pluto TV Brasil 
+#EXTINF:-1 tvg-name="Investigação" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries",Investigação | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="656e2a4b4261ca00083aa99e" tvg-logo="https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png" group-title="Brasil: lifestyle e realities",Acumuladores Obsessivos | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-name="Acumuladores Obsessivos" tvg-logo="https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png" group-title="Brasil: lifestyle e realities",Acumuladores Obsessivos | Pluto TV Brasil ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a4b4261ca00083aa99e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f1ef23020a5ac0007e5e8ea" tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png" group-title="Brasil: lifestyle e realities",Cozinha | Pluto TV Brasil
+#EXTINF:-1 tvg-name="Cozinha" tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png" group-title="Brasil: lifestyle e realities",Cozinha | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef23020a5ac0007e5e8ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="6474aadc8e3c0a0008b98493" tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png" group-title="Brasil: lifestyle e realities",Curiosidade | Pluto TV Brasil
+#EXTINF:-1 tvg-name="Curiosidade" tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png" group-title="Brasil: lifestyle e realities",Curiosidade | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aadc8e3c0a0008b98493/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="638df93ae2f2a3000737c168" tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png" group-title="Brasil: lifestyle e realities",Detetives Médicos | Pluto TV Brasil
+#EXTINF:-1 tvg-name="Detetives Médicos" tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png" group-title="Brasil: lifestyle e realities",Detetives Médicos | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638df93ae2f2a3000737c168/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="61843f5e491af10007f7eefa" tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png" group-title="Brasil: lifestyle e realities",Minha Obsessão Favorita | Pluto TV Brasil
+#EXTINF:-1 tvg-name="Minha Obsessão Favorita" tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png" group-title="Brasil: lifestyle e realities",Minha Obsessão Favorita | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61843f5e491af10007f7eefa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="64ad7394798def00087b2bfe" tvg-logo="https://images.pluto.tv/channels/64ad7394798def00087b2bfe/colorLogoPNG.png" group-title="Brasil: lifestyle e realities",Negócio Fechado | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-name="Negócio Fechado" tvg-logo="https://images.pluto.tv/channels/64ad7394798def00087b2bfe/colorLogoPNG.png" group-title="Brasil: lifestyle e realities",Negócio Fechado | Pluto TV Brasil | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ad7394798def00087b2bfe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="61bb72a7bf8c520007a8fd27" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="Brasil: lifestyle e realities",Pronto-Socorro: histórias de emergência | Pluto TV Brasil
+#EXTINF:-1 tvg-name="histórias de emergência" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="Brasil: lifestyle e realities",Pronto-Socorro: histórias de emergência | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Brasil: maratona de ficção",CSI Miami | Pluto TV Brasil
+#EXTINF:-1 tvg-name="CSI Miami" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Brasil: maratona de ficção",CSI Miami | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 
@@ -167,13 +167,13 @@ https://isaocorp.cloudecast.com/tvdapesca/index.m3u8
 https://s1.tvr.ovh/video93238/video93238/index.m3u8
 #EXTINF:-1 tvg-name="Canal do Inter" tvg-logo="https://i.imgur.com/TQFWEIS.png" group-title="Esporte",Canal do Inter
 https://clubeinternacionalcod.akamaized.net/internacional/internacional/chunklist_w403005182.m3u8
-#EXTINF:-1 tvg-id="5f32d2db0af67400077f29c4" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="Brasil: esportes e e-sports",Esportes | Pluto TV Brasil
+#EXTINF:-1 tvg-name="Esportes" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="Brasil: esportes e e-sports",Esportes | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="Brasil: esportes e e-sports",Motorvision | Brasil 2
+#EXTINF:-1 tvg-name="Motorvision"tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="Brasil: esportes e e-sports",Motorvision | Brasil 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="Brasil: esportes e e-sports",Motorvision | Brasil 3
+#EXTINF:-1 tvg-name="Motorvision"tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="Brasil: esportes e e-sports",Motorvision | Brasil 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
-#EXTINF:-1 tvg-id="PonTV.br" tvg-logo="https://i.imgur.com/kySWaiL.png" group-title="Brasil: esportes e e-sports",Ponte Preta | Campinas SP | Soul TV Brasil
+#EXTINF:-1 tvg-name="Soul TV" tvg-logo="https://i.imgur.com/kySWaiL.png" group-title="Brasil: esportes e e-sports",Ponte Preta | Campinas SP | Soul TV Brasil
 https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
 
 
@@ -182,13 +182,13 @@ https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
 ----------------------------------ANIMAÇÃO------------------------------
 
 
-#EXTINF:-1 tvg-id="63988a50be012600070f5db3" tvg-logo="http://images.pluto.tv/channels/63988a50be012600070f5db3/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Yu-Gi-Oh! | Pluto TV Brasil
+#EXTINF:-1 tvg-name="Yu-Gi-Oh!" tvg-logo="http://images.pluto.tv/channels/63988a50be012600070f5db3/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Yu-Gi-Oh! | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988a50be012600070f5db3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63988c2750108d00072e2686" tvg-logo="http://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Super Onze | Brasil: infanto-juvenis
+#EXTINF:-1 tvg-name="Super Onze" tvg-logo="http://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Super Onze | Brasil: infanto-juvenis
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="624b1c8d4321e200073ee421" tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",One Piece | Pluto TV Brasil
+#EXTINF:-1 tvg-name="One Piece" tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",One Piece | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="66c7982f6838ee00085f0d24" tvg-logo="https://images.pluto.tv/channels/66c7982f6838ee00085f0d24/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",JoJo's Bizarre Adventure | Pluto TV Brasil 
+#EXTINF:-1 tvg-name="JoJo's Bizarre Adventure" tvg-logo="https://images.pluto.tv/channels/66c7982f6838ee00085f0d24/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",JoJo's Bizarre Adventure | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66c7982f6838ee00085f0d24/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-name="Hunter x Hunter" tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="Animação",Hunter x Hunter | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e8780/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -296,13 +296,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 tvg-name="RunTime Comédia" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime",RunTime Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 tvg-name="RunTime Família" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime",RunTime Romance
+#EXTINF:-1 tvg-name="RunTime Romance" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime",RunTime Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 tvg-name="RunTime Família" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime",RunTime Romance
+#EXTINF:-1 tvg-name="RunTime Romance" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime",RunTime Romance
 https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8
 #EXTINF:-1 tvg-name="RunTime Família" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime",RunTime Família
 https://run-rufb.otteravision.com/run/rufb/rufb.m3u8
-#EXTINF:-1 tvg-name="RunTime Família" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime",RunTime crime
+#EXTINF:-1 tvg-name="RunTime crime" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime",RunTime crime
 https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8
 #EXTINF:-1 tvg-name="RunTime" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
