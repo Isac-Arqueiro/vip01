@@ -1,9 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://images.seeklogo.com/logo-png/18/1/tv-globo-logo-png_seeklogo-181162.png" group-title="Canal aberto",Globo
-https://live-01.edge-claro-nat-rn.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1jbGFyby1uYXQtcm4udmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzYzMDY0MTEyLCJpYXQiOjE3NjMwNDI1MTIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiZGZlMjA4NTYtM2Y1Zi00OGYwLTk5NDgtZTAwYTc0N2U4ZTlhIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1uYXQvcGxheWxpc3QubTN1OCJ9.PQURi8qkqcCJjFRqaycAUl9IhB-WLYh3f4fZQAfqJn2_EVPpYqWfOvmk44f8FfSqbm-NbC82doOJl3GOs21y0D0Jzu9J_w99Ux3WYzPPui0qfoc5i4qRONzqIohFqAu-xGQYxFkLiZ-oBsGFfwg7aRTJF5s7ihS4jH3xV1WGEWPobDdJjp3KR5Ab7B5izP7IyBwmtH6XAbB-p-iD34YanIfOQEoCx6Uorz6ETynsxztjPRWh3Ab7mutCPaElTTT9bxvlMfB0cbCFORgth2ZpTzRTw7Y_B-Hy43nyT43AoVQeeGnn_wvSZNIzguMFA6PBs6mcxxRRnqLOY_-RhmxZeA/live/f(i=2)/globo-nat/globo-nat-audio_1=96000-video=558976.m3u8
+https://live-01.edge-claro-nat-rn.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1jbGFyby1uYXQtcm4udmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzYzMDcyNDM5LCJpYXQiOjE3NjMwNTA4MzksImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiZGZlMjA4NTYtM2Y1Zi00OGYwLTk5NDgtZTAwYTc0N2U4ZTlhIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1uYXQvcGxheWxpc3QubTN1OCJ9.ptBMlXCmwRQSFSHPNIY7fB1fZ3XFOwQp9P4ZQFdeTDH4zvIEEdL4XjwpY09nYg7Sp6pZWDLZl8jZN1-d-a0447sVgMYUpgOhmN4JWEKnuZVYLFmH3ibKHsJMbR4ixDh-bYvH6la2kSCM045Z2UWnBtOvViu6_VEmUO2v8UWzeXAn3vQu8rk0Vkwv44GZUlRqq2hVtPfIApDZNevVUah9pfBKQRkFiXhEg4T5ummlILVTVIDqSU70mD3u7Qz19OBMwW-m2QdPiAmcIEdTUcE77sD9jZXGfwc0ml50rqF1ntyO_lGXvDIIWVv3MQhuBUnqsNK_tBazv_wA2Hc5SZ008w/live/f(i=2)/globo-nat/playlist.m3u8
 #EXTINF:-1 tvg-name="Record News" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Canal aberto",Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-name="Record News" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Canal aberto",Record
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 #EXTINF:-1 tvg-name="Record News" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Canal aberto",Record
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/index.m3u8
 #EXTINF:-1 tvg-name="Record News" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Canal aberto",Record News
@@ -14,6 +16,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn_360p.m3u8
 #EXTINF:-1 tvg-name="TV Arapuan" tvg-logo="https://i.imgur.com/3395A2h.png" group-title="Canal aberto",TV Arapuan 
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Tv Troical" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bc/Logotipo_da_TV_Tropical_%28Natal%29.png" group-title="Canal aberto",TV Tropical 
+https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklist_w1589932685.m3u8
 #EXTINF:-1 tvg-name="Com brasil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW4vqcd-CpOKheB4c1nKkQSJvTigALw0fsQQ&s" group-title="Canal aberto",Com brasil
 https://br5093.streamingdevideo.com.br:8081/abc/abc/index.m3u8
 #EXTINF:-1 tvg-name="TVBrasil.br" tvg-logo="https://i.imgur.com/faZEzAh.png" group-title="Canal aberto",TV Brasil Web
@@ -32,6 +36,8 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
 #EXTINF:-1 tvg-name="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades",SBT | TV Cidade Verde | Piauí
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/master.m3u8
+#EXTINF:-1 tvg-name="SBT" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades",SBT
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1094980537.m3u8
 #EXTINF:-1 tvg-name="SBTPara.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades",SBT | TV Guajará | Tailândia | PA
 https://video05.logicahost.com.br/tvguajara/tvguajara/master.m3u8
 #EXTINF:-1 tvg-name"redetvparana" tvg-name="REDE TV" tvg-logo="https://www.publicitarioscriativos.com/wp-content/uploads/2019/11/redetv1-768x432.png" group-title="Canal aberto",REDE TV paraná
@@ -146,13 +152,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c535
 
 
 
-
-
 -------------------------------------ESPOTE--------------------------
 
 
 #EXTINF:-1 tvg-name="PFK" tvg-logo="https://png.pngtree.com/png-clipart/20240120/original/pngtree-clash-of-titans-boxers-in-the-fight-for-boxing-day-glory-png-image_14140148.png" group-title="Esporte",PFK
 https://video01.soultv.com.br/paulozorello/paulozorello/chunklist_w1444379368.m3u8
+#EXTINF:-1 tvg-name="FIFA" tvg-logo="https://icon2.cleanpng.com/lnd/20241222/jb/5f86fa00f0d96411dd912694a63f9b.webp" group-title="Esporte",FIFA
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66634bd2ca7b22f4c3a2d731.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=9TF71jbaGr158x9XmXQo
 #EXTINF:-1 tvg-name="Bein Sports Xtra" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/Bein.jpg/Zz1mNmExMWMyZWVlNmExMWVmOWJhNjRhYzEwMjk2ODg1YQ==?width=1200" group-title="Esporte",Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="NSPORTs" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/323/img_background_image_web.jpg" group-title="Esporte",NSPORTs
@@ -280,6 +286,10 @@ https://video04.logicahost.com.br/isonata/isonata/chunklist_w7914586.m3u8
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Django" tvg-logo="https://www.filmclub.es/wp-content/uploads/2012/12/Django-Unchained_old-header.jpg" group-title="Filmes",Django
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Bradoky" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/BRADOKY_-_logo_2_-_Transp_reduz_DEsfAZw.png" group-title="Filmes",Bradoky
+https://video01.soultv.com.br/bradoky/bradoky/playlist.m3u8
+#EXTINF:-1 tvg-name="Joyflix" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/WhatsApp_Image_2025-10-04_at_07.05.56_EvEO4G8.jpeg" group-title="Filmes",JoyFlix
+https://streaming.cloudecast.com/hls/joyflix/index.m3u8
 #EXTINF:-1 tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" group-title="Filmes",ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 #EXTINF:-1 tvg-name="channel1" tvg-logo="https://cdn.prod.website-files.com/64b6448cc9ad6b5c6fee1d84/654e5baeeed2dd369e4ee446_channel1-logo-transparent.png" group-title="Filmes",Channel 1
