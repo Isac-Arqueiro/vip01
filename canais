@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Jovem Pan News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png" group-title="Canal aberto",TEXTE
+https://cdnst95.tokyvideo.com/videos/839/839474/mp4/2a16ecd62b44129281ba69c62eadd1c9b557c76fc911418d2fb4a2c434985da7.mp4?secure=89Q-POPtZD2gwjVwY35FEg%3D%3D%2C1763555431
 #EXTINF:-1 tvg-name="Jovem Pan News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png" group-title="Canal aberto",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-name="Jovem Pan News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png" group-title="Canal aberto",Jovem Pan News
