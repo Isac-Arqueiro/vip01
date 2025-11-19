@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Glbo" tvg-logo="https://images.seeklogo.com/logo-png/18/2/tv-globo-logo-png_seeklogo-181162.png" group-title="Canal aberto",Glob
-https://stream1.freetv.fun/globo-rj-2-1.m3u8
+
 #EXTINF:-1 tvg-name="Jovem Pan News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png" group-title="Canal aberto",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-name="Jovem Pan News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png" group-title="Canal aberto",Jovem Pan News
