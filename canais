@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="Canal aberto",GLOBO
+https://live-01.edge-claro-nat-rn.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1jbGFyby1uYXQtcm4udmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzYzNjc0NjA2LCJpYXQiOjE3NjM2NTMwMDYsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiZGZlMjA4NTYtM2Y1Zi00OGYwLTk5NDgtZTAwYTc0N2U4ZTlhIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1uYXQvcGxheWxpc3QubTN1OCJ9.hAB_k3wFKRChoQGyqyk_UFe25G1BDSdnMvpp37SYWQ_2S-ivQcV4pI1Voz5bz7wonYnGE4USUBNyntJwYdnhl5Bga3DOD6Jd-YDbKObWLls0mbbidbOtVfQE6O5bP6aQSqlhMS8GJUvZKeDPIH_f3B6xCMYf976ao_5sin6fs57roIMFhg630QuK3M6n7wN98jm5jfuMBvXKAF1LeYN0w0E3fE1Z8cxhHWrkItvDUXbFHSvRadqAOwNsl3cAjyczVgYhdWR1Rsd6rNqi6_06XNKSw0fkNGztmux5jl27JKF3JpLKhu0ZE-zj0yI2sfMTkglUYg9-yfClywDiGM04nQ/live/f(i=2)/globo-nat/playlist.m3u8
 #EXTINF:-1 tvg-name="Receitas Fast" tvg-logo="https://set.org.br/wp-content/uploads/2023/03/Receitas-FAST-Globo.jpg" group-title="Canal aberto",Receitas Fast
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 #EXTINF:-1 tvg-name="Jovem Pan News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png" group-title="Canal aberto",Jovem Pan News
