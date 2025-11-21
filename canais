@@ -20,6 +20,7 @@ https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 #EXTINF:-1 tvg-name="Record rn" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Canal aberto",Record rn
 https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn_360p.m3u8
+#EXTINF:-1 tvg-name="tjrs" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkXuIuNJLINy9m2UUNXoiYxqib0TW7n2flGA&s" group-title="Canal aberto", tjrs https://video01.logicahost.com.br/websptv/websptv/index.m3u8
 #EXTINF:-1 tvg-name="TV Arapuan" tvg-logo="https://i.imgur.com/3395A2h.png" group-title="Canal aberto",TV Arapuan 
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Tv Troical" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bc/Logotipo_da_TV_Tropical_%28Natal%29.png" group-title="Canal aberto",TV Tropical 
