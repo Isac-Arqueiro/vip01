@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/1.m3u8
-#EXTINF:-1 tvg-name="CABUGI" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",CABUGI
-http://wroxfibra.com:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/210326.m3u8
 #EXTINF:-1 tvg-name="Receitas_Fast" tvg-logo="https://set.org.br/wp-content/uploads/2023/03/Receitas-FAST-Globo.jpg" group-title="Canal aberto",Receitas_Fast
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 #EXTINF:-1 tvg-name="Jovem Pan News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png" group-title="Canal aberto",Jovem Pan News
