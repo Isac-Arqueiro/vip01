@@ -336,29 +336,29 @@ https://video01.soultv.com.br/bradoky/bradoky/playlist.m3u8
 
 --------------------//SÉRIS//-----------
 
-#EXTINF:-1 tvg-name="Retrô" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="Série",Retrô | Pluto TV Brasil
+#EXTINF:-1 tvg-name="Retrô" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="Series",Retrô | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-name="Séries Ação" tvg-logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png" group-title="Série",Séries Ação | Pluto TV Brasil
+#EXTINF:-1 tvg-name="Séries Ação" tvg-logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png" group-title="Series",Séries Ação | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474ab1da51cb80008bfb5f4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-name="Séries de Comédia" tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="Série",Séries de Comédia | Pluto TV Brasil
+#EXTINF:-1 tvg-name="Séries de Comédia" tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="Series",Séries de Comédia | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/655e5bc94261ca000810cb17/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-name="Séries Sci-Fi" tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="Série",Séries Sci-Fi | Pluto TV Brasil
+#EXTINF:-1 tvg-name="Series Sci-Fi" tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="Series",Séries Sci-Fi | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f60bc8f0008981a0e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-name="Arnold - Minha Familia é Uma Bagunça" tvg-logo="https://images.pluto.tv/series/620d476a1990720013c6d10c/tile.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660" group-title="Série",Arnold - Minha Familia é Uma Bagunça
+#EXTINF:-1 tvg-name="Arnold - Minha Familia é Uma Bagunça" tvg-logo="https://images.pluto.tv/series/620d476a1990720013c6d10c/tile.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660" group-title="Series",Arnold - Minha Familia é Uma Bagunça
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-name="Malhação" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4f/Logotipo_de_Malha%C3%A7%C3%A3o_%282002-2005%29.png" group-title="Série",Malhação
+#EXTINF:-1 tvg-name="Malhação" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4f/Logotipo_de_Malha%C3%A7%C3%A3o_%282002-2005%29.png" group-title="Series",Malhação
 https://amg00716-globo-amg00716c4-tcl-br-9499.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Mr. Bean" tvg-logo="https://toppng.com/uploads/preview/mr-bean-logo-mr-bea-11563004365gokvge016x.png" group-title="Série",Mr. Bean
+#EXTINF:-1 tvg-name="Mr. Bean" tvg-logo="https://toppng.com/uploads/preview/mr-bean-logo-mr-bea-11563004365gokvge016x.png" group-title="Series",Mr. Bean
 https://amg00627-banijay-amg00627c48-tcl-us-8096.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="CSI Miami" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Série",CSI Miami | Pluto TV Brasil
+#EXTINF:-1 tvg-name="CSI Miami" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Series",CSI Miami | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-name="Django" tvg-logo="https://www.filmclub.es/wp-content/uploads/2012/12/Django-Unchained_old-header.jpg" group-title="Série",Django
+#EXTINF:-1 tvg-name="Django" tvg-logo="https://www.filmclub.es/wp-content/uploads/2012/12/Django-Unchained_old-header.jpg" group-title="Series",Django
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Webtv" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Série",Webtv
+#EXTINF:-1 tvg-name="Webtv" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Series",Webtv
 https://cdn.live.br1.jmvstream.com/webtv/tvacessochannel/playlist/playlist.m3u8
-#EXTINF:-1 tvg-name="Séries Clássicas" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/240/240_img_bg_image_293x165_small.jpg" group-title="Séries",Sésrie Clássicas
+#EXTINF:-1 tvg-name="Séries Clássicas" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/240/240_img_bg_image_293x165_small.jpg" group-title="Series",Sésrie Clássicas
 https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w903940777.m3u8
-#EXTINF:-1 tvg-name="Anos incriveis" tvg-logo="https://pm1.aminoapps.com/6788/6735b67cdf4b6299c67b8320b5afa3519056cf7cv2_hq.jpg" group-title="Série",Anos incriveis
+#EXTINF:-1 tvg-name="Anos incriveis" tvg-logo="https://pm1.aminoapps.com/6788/6735b67cdf4b6299c67b8320b5afa3519056cf7cv2_hq.jpg" group-title="Series",Anos incriveis
 https://video04.logicahost.com.br/isonata/isonata/index.m3u8
 
 
