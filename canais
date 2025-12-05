@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="a&e.br" tvg-name="CINE SKY ts" tvg-logo="http://209.14.88.42:80/images/753d8860be2246fd6225ec2d15c7d343.png" group-title="Canal aberto",CINE SKY 01
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="Canal aberto ts" tvg-logo="http://209.14.88.42:80/images/753d8860be2246fd6225ec2d15c7d343.png" group-title="Canal aberto",CINE SKY 01
 http://htop.in:80/97771665/34543597/3424989.ts
-#EXTINF:-1 tvg-id="a&e.br" tvg-name="CINE SKY m3u8" tvg-logo="http://209.14.88.42:80/images/753d8860be2246fd6225ec2d15c7d343.png" group-title="Canal aberto",CINE SKY 01
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="Canal aberto m3u8" tvg-logo="http://209.14.88.42:80/images/753d8860be2246fd6225ec2d15c7d343.png" group-title="Canal aberto",CINE SKY 01
 http://htop.in:80/97771665/34543597/3424989.m3u8
 #EXTINF:-1 tvg-name="GLBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/1.m3u8
