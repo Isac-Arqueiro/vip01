@@ -1,13 +1,38 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="CABUGI TESTE" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO
+---------TESTE------   
+
+
+#EXTINF:-1 tvg-name="O REI DO BAIRRO" tvg-logo="http://209.14.88.42:80/images/f16dcf6b9cbd309e6eaa422bd07b8554.jpg" group-title="TESTE",O REI DO BAIRRO
+http://htop.in:80/97771665/34543597/4703292.m3u8          
+#EXTINF:-1 tvg-name="CABUGI" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="TESTE",GLOBO
 https://live-01.edge-claro-nat-rn.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1jbGFyby1uYXQtcm4udmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzY0OTc3ODMyLCJpYXQiOjE3NjQ5NTYyMzIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiZGZlMjA4NTYtM2Y1Zi00OGYwLTk5NDgtZTAwYTc0N2U4ZTlhIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1uYXQvcGxheWxpc3QubTN1OCJ9.WIYoA0VrgBmEEwJ-JSpVvdchuPKH7O791nik8kRzRO51z08ZSTpoQkQcIqhpw_yBMs2jqHHiIpzoEBHQnkpDnaatGAtMKFCfvzhio4ahdtTPOLgiND-P8VwuwDt94_pUo45TQJr7kt8wwKLbmTZRTj5WET3pHhea_qX7ouKsytUDOXnQUV83izXSig1rSk-trVRQlEl13O8MO11Ir8JiJkE5PqM1ba3QbDIY8WhSoJSeWCBbhdiaNcTjDrbQPzkpse91-r2aJV27GCCSB9MypmKo_EfIDHduvk4WxkUGmvh9AywBQucxHV_ZD1F3jiZ22bNY5cvRB5O3jOUTONHO8w/live/f(i=2)/globo-nat/globo-nat-audio_1=96000-video=2262976.m3u8
-#EXTINF:-1 tvg-name="Sportv 2 Teste" tvg-logo="https://logowik.com/content/uploads/images/sportv-20172772.logowik.com.webp" group-title="Canal aberto",CINE SKY 01
+#EXTINF:-1 tvg-name="Sportv 2" tvg-logo="https://logowik.com/content/uploads/images/sportv-20172772.logowik.com.webp" group-title="TESTE",sprtv 2
 https://live-01.edge-claro-nat-rn.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1jbGFyby1uYXQtcm4udmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzY0OTY5OTgyLCJpYXQiOjE3NjQ5NDgzODIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9zcG8yMjRoYS9wbGF5bGlzdC5tM3U4In0.BQeTjruEE4P2MyaaJbkNJov-3z3x2Loqcf-GmRkjc4l8eQ7VQQkb03gXJmnRdnZlVBKnZvRTJ3PUECY-nsI2KC9wHUfq_0l-MfL-9r3z08v-TQM47_1t_WOUpG7FTO1mvLwku9A3bFKc3ETp3UQRRG3-HBT-TIbXZqtfvl5gimXDG353mOGo0CFLC86g00Sao_HBDGZvimROOTq6iz1L8QUnLBiwvNdGUoOhTd3LzlA2e7Pj7XJRuWd0OHrjWuq5S8ELUnzyQOx-k9sWocW3WCIpSs3bd1xRfmSNUhRtyjYxJRLoFHtQWljBEYMGOWGbJb5d6DrAkSejLkJ7af_5QQ/live/f(i=2)/spo224ha/spo224ha-audio_1=96000-video=2262976.m3u8
-#EXTINF:-1 tvg-name="Sportv Teste" tvg-logo="https://logowik.com/content/uploads/images/sportv-20172772.logowik.com.webp" group-title="Canal aberto",CINE SKY 01
+#EXTINF:-1 tvg-name="sortv 1" tvg-logo="https://logowik.com/content/uploads/images/sportv-20172772.logowik.com.webp" group-title="TESTE",sortv 1
 https://live-01.edge-claro-nat-rn.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1jbGFyby1uYXQtcm4udmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzY0OTY5NjYxLCJpYXQiOjE3NjQ5NDgwNjEsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9zcG8xMjRoYS9wbGF5bGlzdC5tM3U4In0.ANICce6vuo6xtpM4OPfFzWAlecgKEuQVk8sZQNHn2jxLBkj_krh4z1Q2Ce1J0cvfD6ypOUjskQ8SO1qg-ZLsxFfemwpZdbL-rW_ync9NcTaj9EfZv0qMv94sshNKVy7EQMir7JEWPYgdZF5f0qHiEeYjZewnN6TAaoC7ovHERQGsqYxfgYyDMtbcx1a4IzRx2lgKvTDzw9aYO2bCTOnH4SoinP-UuS3mojHEyDep_SAKLJYlB-kl14w-Rj1dxbvcQ8C5x1GAWBfya8BzIw_OP84ZZLr7wcizTK1Hfidfa7HuMHAPzRhJGXqcOV9e6SOZIr3EPNQzTvtSA1YhYC0pYw/live/f(i=2)/spo124ha/playlist.m3u8
-#EXTINF:-1 tvg-id="a&e.br" tvg-name="Canal aberto m3u8" tvg-logo="http://209.14.88.42:80/images/753d8860be2246fd6225ec2d15c7d343.png" group-title="Canal aberto",CINE SKY 01
+#EXTINF:-1 tvg-name="SKY" tvg-logo="http://209.14.88.42:80/images/753d8860be2246fd6225ec2d15c7d343.png" group-title="TESTE",CINE SKY 01
 http://htop.in:80/97771665/34543597/3424989.m3u8
+#EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="TESTE",GLOBO
+http://tv.mapfibra.com.br:8555/live/11042/123456/70.m3u8 
+#EXTINF:-1 tvg-name="Playpoca filmes" tvg-logo="" group-title="TESTE",Playpoca Filmes
+http://tv.mapfibra.com.br:8555/live/11042/123456/238.m3u8 
+#EXTINF:-1 tvg-name="Playpoca Séries" tvg-logo="" group-title="TESTE",Playpoca Séries
+http://tv.mapfibra.com.br:8555/live/11042/123456/239.m3u8 
+#EXTINF:-1 tvg-name="A&E HD" tvg-logo="https://img.pndz.xyz/aande.png" group-title="TESTE",A&E HD
+http://pprrk.pro:8080/play/Ydh-zm7VtUieerJ-Gv_XrFDl-7DMjs2AbboK4kCYDR_0rdfQmY6bqV0CWhhCsU4h/m3u8
+#EXTINF:-1 tvg-name="BAND SPORTS HD" tvg-logo="https://img.pndz.xyz/bandsports.png" group-title="TESTE",BAND SPORTS HD
+http://pprrk.pro:8080/play/Ydh-zm7VtUieerJ-Gv_XrFDl-7DMjs2AbboK4kCYDR-35k9uL9c6hv0ZMW79J20Q/m3u8
+
+
+
+
+
+
+------------------------------Canal Aberto--------------------------
+
+
+
 #EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/1.m3u8
 #EXTINF:-1 tvg-name="Receitas_Fast" tvg-logo="https://set.org.br/wp-content/uploads/2023/03/Receitas-FAST-Globo.jpg" group-title="Canal aberto",Receitas_Fast
