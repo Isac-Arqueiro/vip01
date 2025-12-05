@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Teste" tvg-logo="https://img.pndz.xyz/aande.png" group-title="Canal aberto",A&E
-http://tv.mapfibra.com.br:8555/live/1012/123456/259.m3u8
-#EXTINF:-1 tvg-name="Teste-Touro" tvg-logo="https://img.pndz.xyz/aande.png" group-title="Canal aberto",A&E
-http://pprrk.pro:8080/play/Ydh-zm7VtUieerJ-Gv_XrFDl-7DMjs2AbboK4kCYDR-Sw_I6AlglUhHy1iNUBUL8
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="CINE SKY 01" tvg-logo="http://209.14.88.42:80/images/753d8860be2246fd6225ec2d15c7d343.png" group-title="CANAIS | CINE SKY",CINE SKY 01
+http://htop.in:80/97771665/34543597/3424989.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="CINE SKY 01" tvg-logo="http://209.14.88.42:80/images/753d8860be2246fd6225ec2d15c7d343.png" group-title="CANAIS | CINE SKY",CINE SKY 01
+http://htop.in:80/97771665/34543597/3424989.m3u8
 #EXTINF:-1 tvg-name="GLBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/1.m3u8
 #EXTINF:-1 tvg-name="Receitas_Fast" tvg-logo="https://set.org.br/wp-content/uploads/2023/03/Receitas-FAST-Globo.jpg" group-title="Canal aberto",Receitas_Fast
