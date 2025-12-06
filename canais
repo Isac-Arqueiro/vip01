@@ -17,6 +17,8 @@ http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-name="Faroeste" tvg-logo="" group-title="TESTE",Pluto TV Western
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630dd3b2605f140007e002f5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc85ef51-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1c1f8ee8-e3dc-46cf-aaf3-725e6cc98fdb
+#EXTINF:-1 tvg-name="O REI DO BAIRRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/King_of_Queens_logo.png/250px-King_of_Queens_logo.png" group-title="TESTE",O REI DO BAIRRO
+http://d029dcec.kazmazpaz.ru:80/iptv/GVR4V8HYAGBS5V/6200/manifest.m3u8
 
 
 
