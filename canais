@@ -3,27 +3,20 @@
 ---------TESTE------   
 
 
-#EXTINF:-1 tvg-name="O REI DO BAIRRO" tvg-logo="http://209.14.88.42:80/images/f16dcf6b9cbd309e6eaa422bd07b8554.jpg" group-title="TESTE",O REI DO BAIRRO
+#EXTINF:-1 tvg-name="O REI DO BAIRRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/King_of_Queens_logo.png/250px-King_of_Queens_logo.png" group-title="TESTE",O REI DO BAIRRO
 http://htop.in:80/97771665/34543597/4703292.m3u8          
-#EXTINF:-1 tvg-name="CABUGI" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="TESTE",GLOBO
-https://live-01.edge-claro-nat-rn.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1jbGFyby1uYXQtcm4udmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzY0OTc3ODMyLCJpYXQiOjE3NjQ5NTYyMzIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiZGZlMjA4NTYtM2Y1Zi00OGYwLTk5NDgtZTAwYTc0N2U4ZTlhIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1uYXQvcGxheWxpc3QubTN1OCJ9.WIYoA0VrgBmEEwJ-JSpVvdchuPKH7O791nik8kRzRO51z08ZSTpoQkQcIqhpw_yBMs2jqHHiIpzoEBHQnkpDnaatGAtMKFCfvzhio4ahdtTPOLgiND-P8VwuwDt94_pUo45TQJr7kt8wwKLbmTZRTj5WET3pHhea_qX7ouKsytUDOXnQUV83izXSig1rSk-trVRQlEl13O8MO11Ir8JiJkE5PqM1ba3QbDIY8WhSoJSeWCBbhdiaNcTjDrbQPzkpse91-r2aJV27GCCSB9MypmKo_EfIDHduvk4WxkUGmvh9AywBQucxHV_ZD1F3jiZ22bNY5cvRB5O3jOUTONHO8w/live/f(i=2)/globo-nat/globo-nat-audio_1=96000-video=2262976.m3u8
-#EXTINF:-1 tvg-name="Sportv 2" tvg-logo="https://logowik.com/content/uploads/images/sportv-20172772.logowik.com.webp" group-title="TESTE",sprtv 2
-https://live-01.edge-claro-nat-rn.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1jbGFyby1uYXQtcm4udmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzY0OTY5OTgyLCJpYXQiOjE3NjQ5NDgzODIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9zcG8yMjRoYS9wbGF5bGlzdC5tM3U4In0.BQeTjruEE4P2MyaaJbkNJov-3z3x2Loqcf-GmRkjc4l8eQ7VQQkb03gXJmnRdnZlVBKnZvRTJ3PUECY-nsI2KC9wHUfq_0l-MfL-9r3z08v-TQM47_1t_WOUpG7FTO1mvLwku9A3bFKc3ETp3UQRRG3-HBT-TIbXZqtfvl5gimXDG353mOGo0CFLC86g00Sao_HBDGZvimROOTq6iz1L8QUnLBiwvNdGUoOhTd3LzlA2e7Pj7XJRuWd0OHrjWuq5S8ELUnzyQOx-k9sWocW3WCIpSs3bd1xRfmSNUhRtyjYxJRLoFHtQWljBEYMGOWGbJb5d6DrAkSejLkJ7af_5QQ/live/f(i=2)/spo224ha/spo224ha-audio_1=96000-video=2262976.m3u8
-#EXTINF:-1 tvg-name="sortv 1" tvg-logo="https://logowik.com/content/uploads/images/sportv-20172772.logowik.com.webp" group-title="TESTE",sortv 1
-https://live-01.edge-claro-nat-rn.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1jbGFyby1uYXQtcm4udmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzY0OTY5NjYxLCJpYXQiOjE3NjQ5NDgwNjEsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9zcG8xMjRoYS9wbGF5bGlzdC5tM3U4In0.ANICce6vuo6xtpM4OPfFzWAlecgKEuQVk8sZQNHn2jxLBkj_krh4z1Q2Ce1J0cvfD6ypOUjskQ8SO1qg-ZLsxFfemwpZdbL-rW_ync9NcTaj9EfZv0qMv94sshNKVy7EQMir7JEWPYgdZF5f0qHiEeYjZewnN6TAaoC7ovHERQGsqYxfgYyDMtbcx1a4IzRx2lgKvTDzw9aYO2bCTOnH4SoinP-UuS3mojHEyDep_SAKLJYlB-kl14w-Rj1dxbvcQ8C5x1GAWBfya8BzIw_OP84ZZLr7wcizTK1Hfidfa7HuMHAPzRhJGXqcOV9e6SOZIr3EPNQzTvtSA1YhYC0pYw/live/f(i=2)/spo124ha/playlist.m3u8
-#EXTINF:-1 tvg-name="SKY" tvg-logo="http://209.14.88.42:80/images/753d8860be2246fd6225ec2d15c7d343.png" group-title="TESTE",CINE SKY 01
-http://htop.in:80/97771665/34543597/3424989.m3u8
-#EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="TESTE",GLOBO
-http://tv.mapfibra.com.br:8555/live/11042/123456/70.m3u8 
-#EXTINF:-1 tvg-name="Playpoca filmes" tvg-logo="" group-title="TESTE",Playpoca Filmes
-http://tv.mapfibra.com.br:8555/live/11042/123456/238.m3u8 
-#EXTINF:-1 tvg-name="Playpoca Séries" tvg-logo="" group-title="TESTE",Playpoca Séries
-http://tv.mapfibra.com.br:8555/live/11042/123456/239.m3u8 
-#EXTINF:-1 tvg-name="A&E HD" tvg-logo="https://img.pndz.xyz/aande.png" group-title="TESTE",A&E HD
-http://pprrk.pro:8080/play/Ydh-zm7VtUieerJ-Gv_XrFDl-7DMjs2AbboK4kCYDR_0rdfQmY6bqV0CWhhCsU4h/m3u8
-#EXTINF:-1 tvg-name="BAND SPORTS HD" tvg-logo="https://img.pndz.xyz/bandsports.png" group-title="TESTE",BAND SPORTS HD
-http://pprrk.pro:8080/play/Ydh-zm7VtUieerJ-Gv_XrFDl-7DMjs2AbboK4kCYDR-35k9uL9c6hv0ZMW79J20Q/m3u8
-
+#EXTINF:-1 tvg-name="History 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="TESTE",History 2 Latin America
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+#EXTINF:-1 tvg-name="PortuTV" tvg-logo="https://intervenhosting.net/roku/portutv/portutv.jpg" group-title="TESTE",PortuTV (480p) [Not 24/7]
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+#EXTINF:-1  tvg-name="France 24"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/512px-France_24_logo_%282013%29.svg.png" group-title="TESTE",France 24 Español (1080p)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="TESTE",AMC
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
+#EXTINF:-1 tvg-name="Vida Real" tvg-logo="https://i.imgur.com/dRbBbxP.png" group-title="TESET",Pluto TV Vida Real (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-name="Faroeste" tvg-logo="" group-title="TESTE",Pluto TV Western
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630dd3b2605f140007e002f5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc85ef51-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1c1f8ee8-e3dc-46cf-aaf3-725e6cc98fdb
 
 
 
