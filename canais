@@ -6,44 +6,41 @@
 https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
 #EXTINF:-1 tvg-name="Vida Real" tvg-logo="https://i.imgur.com/dRbBbxP.png" group-title="TESET",Pluto TV Vida Real (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-name="Faroeste" tvg-logo="" group-title="TESTE",Pluto TV Western
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630dd3b2605f140007e002f5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc85ef51-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1c1f8ee8-e3dc-46cf-aaf3-725e6cc98fdb
 #EXTINF:-1 type="stream" tvg-id="A&E HD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="TESTE",A&E HD
-http://gcorecdns.xyz/497757459/805668294/17575
+http://atmhost.xyz/497757459/805668294/17575
 #EXTINF:-1 type="stream" tvg-id="A&E SD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="TESTE",A&E SD
-http://gcorecdns.xyz/497757459/805668294/113098
+http://atmhost.xyz/497757459/805668294/113098
 #EXTINF:-1 type="stream" tvg-id="AMC HD" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="TESTE",AMC HD
-http://gcorecdns.xyz/497757459/805668294/17987
+http://atmhost.xyz/497757459/805668294/17987
 #EXTINF:-1 type="stream" tvg-id="AMC SD" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="TESTE",AMC SD
-http://gcorecdns.xyz/497757459/805668294/113101
+http://atmhost.xyz/497757459/805668294/113101
 #EXTINF:-1 type="stream" tvg-id="Animal Planet HD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="TESTE",Animal Planet HD
-http://gcorecdns.xyz/497757459/805668294/408361
+http://atmhost.xyz/497757459/805668294/408361
 #EXTINF:-1 type="stream" tvg-id="Animal Planet SD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="TESTE",Animal Planet SD
-http://gcorecdns.xyz/497757459/805668294/17584
+http://atmhost.xyz/497757459/805668294/17584
 #EXTINF:-1 type="stream" tvg-id="Arte 1 HD" tvg-logo="https://imgur.com/runVS7g.jpeg" group-title="Canais | Variedades",Arte 1 HD
-http://gcorecdns.xyz/497757459/805668294/17587
+http://atmhost.xyz/497757459/805668294/17587
 #EXTINF:-1 type="stream" tvg-id="AXN HD" tvg-logo="https://i.ibb.co/Nn2z4TP/AXN.png" group-title="TESTE",AXN HD
-http://gcorecdns.xyz/497757459/805668294/17891
+http://atmhost.xyz/497757459/805668294/17891
 #EXTINF:-1 type="stream" tvg-id="AXN SD" tvg-logo="https://i.ibb.co/Nn2z4TP/AXN.png" group-title="TESTE",AXN SD
-http://gcorecdns.xyz/497757459/805668294/17892
-http://gcorecdns.xyz/497757459/805668294/113136
+http://atmhost.xyz/497757459/805668294/17892
+http://atmhost.xyz/497757459/805668294/113136
 #EXTINF:-1 type="stream" tvg-id="BandSports HD" tvg-logo="https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png" group-title="TESTE",BandSports HD
-http://gcorecdns.xyz/497757459/805668294/17606
+http://atmhost.xyz/497757459/805668294/17606
 #EXTINF:-1 type="stream" tvg-id="BandSports SD" tvg-logo="https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png" group-title="TESTE",BandSports SD
-http://gcorecdns.xyz/497757459/805668294/113118
+http://atmhost.xyz/497757459/805668294/113118
 #EXTINF:-1 type="stream" tvg-id="CARTOONITO HD" tvg-logo="https://i.ibb.co/sPKYgMR/cartoonito.png" group-title="TESTE",CARTOONITO HD
-http://gcorecdns.xyz/497757459/805668294/17612
+http://atmhost.xyz/497757459/805668294/17612
 #EXTINF:-1 type="stream" tvg-id="CARTOONITO SD" tvg-logo="https://i.ibb.co/sPKYgMR/cartoonito.png" group-title="TESTE",CARTOONITO SD
-http://gcorecdns.xyz/497757459/805668294/410506
+http://atmhost.xyz/497757459/805668294/410506
 #EXTINF:-1 type="stream" tvg-id="CANÇÃO NOVA HD" tvg-logo="https://imgur.com/LemdQhR.jpeg" group-title="Canais | Religiosos",CANÇÃO NOVA HD
-http://gcorecdns.xyz/497757459/805668294/36364
+http://atmhost.xyz/497757459/805668294/36364
 #EXTINF:-1 type="stream" tvg-id="CANÇÃO NOVA SD" tvg-logo="https://i.ibb.co/fqf2wNd/cancaonova.png" group-title="Canais | Religiosos",CANÇÃO NOVA SD
-http://gcorecdns.xyz/497757459/805668294/410214
+http://atmhost.xyz/497757459/805668294/410214
 #EXTINF:-1 type="stream" tvg-id="Cartoon Network HD" tvg-logo="https://i.ibb.co/XWMmzdr/cartoonnetwork.png" group-title="TESTE",Cartoon Network HD
-http://gcorecdns.xyz/497757459/805668294/17617
+http://atmhost.xyz/497757459/805668294/17617
 #EXTINF:-1 type="stream" tvg-id="Cartoon Network SD" tvg-logo="https://i.ibb.co/XWMmzdr/cartoonnetwork.png" group-title="TESTE",Cartoon Network SD
-http://gcorecdns.xyz/497757459/805668294/410507
-
+http://atmhost.xyz/497757459/805668294/410507
 
 
 
