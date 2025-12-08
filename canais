@@ -2,22 +2,47 @@
 
 ---------TESTE------   
 
-#EXTINF:-1 tvg-name="CAZÉ TV" { title: "CAZÉ TV", cover: "https://www.claro.com.br/files/104379/860x1440/9da5b62119/capa-assistir-caze-tv-online.png/m/filters:quality(75)"group-title="TESTE"?text=Filme+B", link: "https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8" },
-#EXTINF:-1 tvg-name="O REI DO BAIRRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/King_of_Queens_logo.png/250px-King_of_Queens_logo.png" group-title="TESTE",O REI DO BAIRRO
-http://htop.in:80/97771665/34543597/4703292.m3u8          
-#EXTINF:-1 tvg-name="History 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="TESTE",History 2 Latin America
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 #EXTINF:-1 tvg-name="PortuTV" tvg-logo="https://intervenhosting.net/roku/portutv/portutv.jpg" group-title="TESTE",PortuTV (480p) [Not 24/7]
 https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
-#EXTINF:-1  tvg-name="France 24"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/512px-France_24_logo_%282013%29.svg.png" group-title="TESTE",France 24 Español (1080p)
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="TESTE",AMC
-http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
 #EXTINF:-1 tvg-name="Vida Real" tvg-logo="https://i.imgur.com/dRbBbxP.png" group-title="TESET",Pluto TV Vida Real (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-name="Faroeste" tvg-logo="" group-title="TESTE",Pluto TV Western
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630dd3b2605f140007e002f5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc85ef51-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1c1f8ee8-e3dc-46cf-aaf3-725e6cc98fdb
-
+#EXTINF:-1 type="stream" tvg-id="A&E HD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="TESTE",A&E HD
+http://gcorecdns.xyz/497757459/805668294/17575
+#EXTINF:-1 type="stream" tvg-id="A&E SD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="TESTE",A&E SD
+http://gcorecdns.xyz/497757459/805668294/113098
+#EXTINF:-1 type="stream" tvg-id="AMC HD" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="TESTE",AMC HD
+http://gcorecdns.xyz/497757459/805668294/17987
+#EXTINF:-1 type="stream" tvg-id="AMC SD" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="TESTE",AMC SD
+http://gcorecdns.xyz/497757459/805668294/113101
+#EXTINF:-1 type="stream" tvg-id="Animal Planet HD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="TESTE",Animal Planet HD
+http://gcorecdns.xyz/497757459/805668294/408361
+#EXTINF:-1 type="stream" tvg-id="Animal Planet SD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="TESTE",Animal Planet SD
+http://gcorecdns.xyz/497757459/805668294/17584
+#EXTINF:-1 type="stream" tvg-id="Arte 1 HD" tvg-logo="https://imgur.com/runVS7g.jpeg" group-title="Canais | Variedades",Arte 1 HD
+http://gcorecdns.xyz/497757459/805668294/17587
+#EXTINF:-1 type="stream" tvg-id="AXN HD" tvg-logo="https://i.ibb.co/Nn2z4TP/AXN.png" group-title="TESTE",AXN HD
+http://gcorecdns.xyz/497757459/805668294/17891
+#EXTINF:-1 type="stream" tvg-id="AXN SD" tvg-logo="https://i.ibb.co/Nn2z4TP/AXN.png" group-title="TESTE",AXN SD
+http://gcorecdns.xyz/497757459/805668294/17892
+http://gcorecdns.xyz/497757459/805668294/113136
+#EXTINF:-1 type="stream" tvg-id="BandSports HD" tvg-logo="https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png" group-title="TESTE",BandSports HD
+http://gcorecdns.xyz/497757459/805668294/17606
+#EXTINF:-1 type="stream" tvg-id="BandSports SD" tvg-logo="https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png" group-title="TESTE",BandSports SD
+http://gcorecdns.xyz/497757459/805668294/113118
+#EXTINF:-1 type="stream" tvg-id="CARTOONITO HD" tvg-logo="https://i.ibb.co/sPKYgMR/cartoonito.png" group-title="TESTE",CARTOONITO HD
+http://gcorecdns.xyz/497757459/805668294/17612
+#EXTINF:-1 type="stream" tvg-id="CARTOONITO SD" tvg-logo="https://i.ibb.co/sPKYgMR/cartoonito.png" group-title="TESTE",CARTOONITO SD
+http://gcorecdns.xyz/497757459/805668294/410506
+#EXTINF:-1 type="stream" tvg-id="CANÇÃO NOVA HD" tvg-logo="https://imgur.com/LemdQhR.jpeg" group-title="Canais | Religiosos",CANÇÃO NOVA HD
+http://gcorecdns.xyz/497757459/805668294/36364
+#EXTINF:-1 type="stream" tvg-id="CANÇÃO NOVA SD" tvg-logo="https://i.ibb.co/fqf2wNd/cancaonova.png" group-title="Canais | Religiosos",CANÇÃO NOVA SD
+http://gcorecdns.xyz/497757459/805668294/410214
+#EXTINF:-1 type="stream" tvg-id="Cartoon Network HD" tvg-logo="https://i.ibb.co/XWMmzdr/cartoonnetwork.png" group-title="TESTE",Cartoon Network HD
+http://gcorecdns.xyz/497757459/805668294/17617
+#EXTINF:-1 type="stream" tvg-id="Cartoon Network SD" tvg-logo="https://i.ibb.co/XWMmzdr/cartoonnetwork.png" group-title="TESTE",Cartoon Network SD
+http://gcorecdns.xyz/497757459/805668294/410507
 
 
 
