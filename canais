@@ -7,7 +7,8 @@ https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
 #EXTINF:-1 tvg-name="Vida Real" tvg-logo="https://i.imgur.com/dRbBbxP.png" group-title="CANAIS I 24HORAS",Pluto TV Vida Real (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-
+#EXTINF:-1 tvg-id="24HAnimes" tvg-name="SONY HD" tvg-logo="https://techzzi.site/logos/filmeseseries/sony.png" group-title="CANAIS I 24HORAS",SONY HD
+http://srv1.cc:80/Tourobox1-qBW8cdTIcw/1aK7gjCilf/4794295.m3u8
 #EXTINF:-1 tvg-name="24H • Coletânea - Denzel Washington" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Coletânea - Denzel Washington
 http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515419.m3u8
 #EXTINF:-1 tvg-name="24H • Coletânea - Mazzaropi" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Coletânea - Mazzaropi
@@ -287,7 +288,10 @@ https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 -------------------------------------ESPOTE--------------------------
 
 
-
+#EXTINF:-1 tvg-name="SFT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC8mi_K5DiK57Av_ykPfM5-ImPS1UNCa6qQw&s" group-title="Esporte",SFT
+https://hrm-sftc.otteravision.com/hrm/sftc/sftc_720p_high.m3u8
+#EXTINF:-1 tvg-name="Cazé" tvg-logo="https://www.claro.com.br/files/104379/860x1440/9da5b62119/capa-assistir-caze-tv-online.png/m/filters:quality(75)" group-title="Esporte",Cazé
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-name="FIFA" tvg-logo="https://icon2.cleanpng.com/lnd/20241222/jb/5f86fa00f0d96411dd912694a63f9b.webp" group-title="Esporte",FIFA
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66634bd2ca7b22f4c3a2d731.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=9TF71jbaGr158x9XmXQo
 #EXTINF:-1 tvg-name="Bein Sports Xtra" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/Bein.jpg/Zz1mNmExMWMyZWVlNmExMWVmOWJhNjRhYzEwMjk2ODg1YQ==?width=1200" group-title="Esporte",Bein Sports Xtra
