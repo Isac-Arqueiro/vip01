@@ -2,6 +2,8 @@
 
 ---------CANAIS I 24HORAS------   
 
+#EXTINF:-1 tvg-name="TESTE" tvg-logo="https://intervenhosting.net/roku/portutv/portutv.jpg" group-title="CANAIS I 24HORAS",PortuTV (480p) [Not 24/7]
+http://79.127.243.211:14449/
 #EXTINF:-1 tvg-name="PortuTV" tvg-logo="https://intervenhosting.net/roku/portutv/portutv.jpg" group-title="CANAIS I 24HORAS",PortuTV (480p) [Not 24/7]
 https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
 #EXTINF:-1 tvg-name="Vida Real" tvg-logo="https://i.imgur.com/dRbBbxP.png" group-title="CANAIS I 24HORAS",Pluto TV Vida Real (720p)
