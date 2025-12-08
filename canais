@@ -1,46 +1,630 @@
 #EXTM3U
 
----------TESTE------   
+---------CANAIS I 24HORAS------   
 
-#EXTINF:-1 tvg-name="PortuTV" tvg-logo="https://intervenhosting.net/roku/portutv/portutv.jpg" group-title="TESTE",PortuTV (480p) [Not 24/7]
+#EXTINF:-1 tvg-name="PortuTV" tvg-logo="https://intervenhosting.net/roku/portutv/portutv.jpg" group-title="CANAIS I 24HORAS",PortuTV (480p) [Not 24/7]
 https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
-#EXTINF:-1 tvg-name="Vida Real" tvg-logo="https://i.imgur.com/dRbBbxP.png" group-title="TESTE",Pluto TV Vida Real (720p)
+#EXTINF:-1 tvg-name="Vida Real" tvg-logo="https://i.imgur.com/dRbBbxP.png" group-title="CANAIS I 24HORAS",Pluto TV Vida Real (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 type="stream" tvg-id="A&E HD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="TESTE",A&E HD
-http://atmhost.xyz/live/497757459/805668294/17575.m3u8
-#EXTINF:-1 type="stream" tvg-id="A&E SD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="TESTE",A&E SD
-http://atmhost.xyz/live/497757459/805668294/113098.m3u8
-#EXTINF:-1 type="stream" tvg-id="AMC HD" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="TESTE",AMC HD
-http://atmhost.xyz/live/497757459/805668294/17987.m3u8
-#EXTINF:-1 type="stream" tvg-id="AMC SD" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="TESTE",AMC SD
-http://atmhost.xyz/live/497757459/805668294/113101.m3u8
-#EXTINF:-1 type="stream" tvg-id="Animal Planet HD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="TESTE",Animal Planet HD
-http://atmhost.xyz/live/497757459/805668294/408361.m3u8
-#EXTINF:-1 type="stream" tvg-id="Animal Planet SD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="TESTE",Animal Planet SD
-http://atmhost.xyz/live/497757459/805668294/17584.m3u8
-#EXTINF:-1 type="stream" tvg-id="Arte 1 HD" tvg-logo="https://imgur.com/runVS7g.jpeg" group-title="Canais | Variedades",Arte 1 HD
-http://atmhost.xyz/live/497757459/805668294/17587.m3u8
-#EXTINF:-1 type="stream" tvg-id="AXN HD" tvg-logo="https://i.ibb.co/Nn2z4TP/AXN.png" group-title="TESTE",AXN HD
-http://atmhost.xyz/live/497757459/805668294/17891.m3u8
-#EXTINF:-1 type="stream" tvg-id="AXN SD" tvg-logo="https://i.ibb.co/Nn2z4TP/AXN.png" group-title="TESTE",AXN SD
-http://atmhost.xyz/live/497757459/805668294/17892.m3u8
-#EXTINF:-1 type="stream" tvg-id="BandSports HD" tvg-logo="https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png" group-title="TESTE",BandSports HD
-http://atmhost.xyz/live/497757459/805668294/17606m.3u8
-#EXTINF:-1 type="stream" tvg-id="BandSports SD" tvg-logo="https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png" group-title="TESTE",BandSports SD
-http://atmhost.xyz/live/497757459/805668294/113118.m3u8
-#EXTINF:-1 type="stream" tvg-id="CARTOONITO HD" tvg-logo="https://i.ibb.co/sPKYgMR/cartoonito.png" group-title="TESTE",CARTOONITO HD
-http://atmhost.xyz/live/497757459/805668294/17612.m3u8
-#EXTINF:-1 type="stream" tvg-id="CARTOONITO SD" tvg-logo="https://i.ibb.co/sPKYgMR/cartoonito.png" group-title="TESTE",CARTOONITO SD
-http://atmhost.xyz/live/497757459/805668294/410506.m3u8
-#EXTINF:-1 type="stream" tvg-id="CANÇÃO NOVA HD" tvg-logo="https://imgur.com/LemdQhR.jpeg" group-title="Canais | Religiosos",CANÇÃO NOVA HD
-http://atmhost.xyz/live/497757459/805668294/36364.m3u8
-#EXTINF:-1 type="stream" tvg-id="CANÇÃO NOVA SD" tvg-logo="https://i.ibb.co/fqf2wNd/cancaonova.png" group-title="Canais | Religiosos",CANÇÃO NOVA SD
-http://atmhost.xyz/live/497757459/805668294/410214.m3u8
-#EXTINF:-1 type="stream" tvg-id="Cartoon Network HD" tvg-logo="https://i.ibb.co/XWMmzdr/cartoonnetwork.png" group-title="TESTE",Cartoon Network HD
-http://atmhost.xyz/live/497757459/805668294/17617.m3u8
-#EXTINF:-1 type="stream" tvg-id="Cartoon Network SD" tvg-logo="https://i.ibb.co/XWMmzdr/cartoonnetwork.png" group-title="TESTE",Cartoon Network SD
-http://atmhost.xyz/live/497757459/805668294/410507.m3u8
 
+#EXTINF:-1 tvg-name="24H • Coletânea - Adam Sandler" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Coletânea - Adam Sandler
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515417.m3u8
+#EXTINF:-1 tvg-name="24H • Coletânea - Denzel Washington" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Coletânea - Denzel Washington
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515419.m3u8
+#EXTINF:-1 tvg-name="24H • Coletânea - Mazzaropi" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Coletânea - Mazzaropi
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515429.m3u8
+#EXTINF:-1 tvg-name="24H • Coletânea - O Massacre da Serra Elétrica" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Coletânea - O Massacre da Serra Elétrica
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515431.m3u8
+#EXTINF:-1 tvg-name="24H • Coletânea - Os Mercenários" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Coletânea - Os Mercenários
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515432.m3u8
+#EXTINF:-1 tvg-name="Dragon Ball Super 2 24H" tvg-logo="https://i.imgur.com/Bq0MvzF.png" group-title="CANAIS I 24HORAS",Dragon Ball Super 2 24H
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515440.m3u8
+#EXTINF:-1 tvg-name="Dragon Ball Z 5 24H" tvg-logo="https://i.imgur.com/Bq0MvzF.png" group-title="CANAIS I 24HORAS",Dragon Ball Z 5 24H
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515447.m3u8
+#EXTINF:-1 tvg-name="TESTE DE FIDELIDADE 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS I 24HORAS",TESTE DE FIDELIDADE 24H
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515464.m3u8
+#EXTINF:-1 tvg-name="PEGADINHAS 2 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS I 24HORAS",PEGADINHAS 2 24H
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515467.m3u8
+#EXTINF:-1 tvg-name="pegadinHas 4 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS I 24HORAS",pegadinHas 4 24H
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515469.m3u8
+#EXTINF:-1 tvg-name="FIT DANCE 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS I 24HORAS",FIT DANCE 24H
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515472.m3u8
+#EXTINF:-1 tvg-name="DORAMAS I 24 HORAS" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • 18 Outra Vez
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515533.m3u8
+#EXTINF:-1 tvg-name="DORAMAS I 24 HORAS" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Agency
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515535.m3u8
+#EXTINF:-1 tvg-name="DORAMAS I 24 HORAS" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Agência de Celebridades
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515536.m3u8
+#EXTINF:-1 tvg-name="DORAMAS I 24 HORAS" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Alquimia das Almas
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515537.m3u8
+#EXTINF:-1 tvg-name="DORAMAS I 24 HORAS" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Além do Guarda Roupa
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515538.m3u8
+#EXTINF:-1 tvg-name="DORAMAS I 24 HORAS" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • As Três Irmãs
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515539.m3u8
+#EXTINF:-1 tvg-name="DORAMAS I 24 HORAS" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Amor, Casamento e Divórcio
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515540.m3u8
+#EXTINF:-1 tvg-name="DORAMAS I 24 HORAS" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Descendentes do Sol
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515541.m3u8
+#EXTINF:-1 tvg-name="DORAMAS I 24 HORAS" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Diva á Deriva
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515542.m3u8
+#EXTINF:-1 tvg-name="24H • 911 (2018)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • 911 (2018)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515568.m3u8
+#EXTINF:-1 tvg-name="24H • A Feiticeira (1964)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • A Feiticeira (1964)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515572.m3u8
+#EXTINF:-1 tvg-name="24H • As Visões da Raven (2003)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • As Visões da Raven (2003)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515576.m3u8
+#EXTINF:-1 tvg-name="24H • Brasil Visto de Cima (2014)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Brasil Visto de Cima (2014)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515580.m3u8
+#EXTINF:-1 tvg-name="24H • Breaking Bad A Quimica do Mal (2008)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Breaking Bad A Quimica do Mal (2008)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515581.m3u8
+#EXTINF:-1 tvg-name="24H • Brooklyn 99 Lei e Desordem (2013)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Brooklyn 99 Lei e Desordem (2013)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515582.m3u8
+#EXTINF:-1 tvg-name="24H • CSI Miami (2002)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • CSI Miami (2002)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515585.m3u8
+#EXTINF:-1 tvg-name="24H • Casos de Familia (2004)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Casos de Familia (2004)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515589.m3u8
+#EXTINF:-1 tvg-name="24H • Casseta e Planeta Urgente (1992)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Casseta e Planeta Urgente (1992)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515590.m3u8
+#EXTINF:-1 tvg-name="24H • Chapolin Colorado (1973)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Chapolin Colorado (1973)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515591.m3u8
+#EXTINF:-1 tvg-name="24H • Chaves (1973)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Chaves (1973)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515592.m3u8
+#EXTINF:-1 tvg-name="24H • Chespirito (1973)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Chespirito (1973)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515594.m3u8
+#EXTINF:-1 tvg-name="24H • Como Eu Conheci Sua Mãe (2005)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Como Eu Conheci Sua Mãe (2005)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515598.m3u8
+#EXTINF:-1 tvg-name="24H • Elementaríssimo (2012)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Elementaríssimo (2012)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515608.m3u8
+#EXTINF:-1 tvg-name="24H • Eu, A Patroa e as Crianças (2001)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Eu, A Patroa e as Crianças (2001)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515610.m3u8
+#EXTINF:-1 tvg-name="24H • Game of Thrones (2011)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Game of Thrones (2011)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515624.m3u8
+#EXTINF:-1 tvg-name="24H • Os Normais (2001)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Os Normais (2001)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515640.m3u8
+#EXTINF:-1 tvg-name="24H • Polícia 24H (2010)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Polícia 24H (2010)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515645.m3u8
+#EXTINF:-1 tvg-name="24H • Reacher (2022)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Reacher (2022)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515649.m3u8
+#EXTINF:-1 tvg-name="24H • Tapas e Beijos (2011)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Tapas e Beijos (2011)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515658.m3u8
+#EXTINF:-1 tvg-name="24H • The Boys (2019)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I SERIES 24 HORAS",24H • The Boys (2019)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515660.m3u8
+#EXTINF:-1 tvg-name="24H • The Walking Dead (2010)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • The Walking Dead (2010)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515666.m3u8
+#EXTINF:-1 tvg-name="24H • Um Maluco no Pedaço (1990)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Um Maluco no Pedaço (1990)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515674.m3u8
+#EXTINF:-1 tvg-name="24H • Vikings (2013)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Vikings (2013)
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515676.m3u8
+#EXTINF:-1 tvg-name="SOBRENATURAL 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS I 24HORAS",SOBRENATURAL 24H
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515683.m3u8
+#EXTINF:-1 tvg-name="OS 3 NORDESTINOS 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS I 24HORAS",OS 3 NORDESTINOS 24H
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515684.m3u8
+#EXTINF:-1 tvg-name="TODO MUNDO ODEIRA O CRIS 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS I 24HORAS",TODO MUNDO ODEIRA O CRIS 24H
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515686.m3u8
+#EXTINF:-1 tvg-name="UM MALUCO NO PEDAÇO 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS I 24HORAS",UM MALUCO NO PEDAÇO 24H
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515687.m3u8
+#EXTINF:-1 tvg-name="24H • 90 Dias Para Casar A Última Chance" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • 90 Dias Para Casar A Última Chance
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515364.m3u8
+#EXTINF:-1 tvg-name="24H • Aeroporto Área Restrita" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Aeroporto Área Restrita
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515369.m3u8
+#EXTINF:-1 tvg-name="24H • Dra Sandra Lee A Rainha dos Cravos" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Dra Sandra Lee A Rainha dos Cravos
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515382.m3u8
+#EXTINF:-1 tvg-name="24H • Dupla do Barulho" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Dupla do Barulho
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515383.m3u8
+#EXTINF:-1 tvg-name="24H • Febre do Ouro Corredeiras do Alasca" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Febre do Ouro Corredeiras do Alasca
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515384.m3u8
+#EXTINF:-1 tvg-name="24H • Irmãos A Obra" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Irmãos A Obra
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515387.m3u8
+#EXTINF:-1 tvg-name="24H • Largados E Pelados A Tribo" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Largados E Pelados A Tribo
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515388.m3u8
+#EXTINF:-1 tvg-name="24H • Largados E Pelados Brasil" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Largados E Pelados Brasil
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515389.m3u8
+#EXTINF:-1 tvg-name="24H • Largados E Pelados Sozinhos" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Largados E Pelados Sozinhos
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515391.m3u8
+#EXTINF:-1 tvg-name="24H • Largados em Alto Mar" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Largados em Alto Mar
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515393.m3u8
+#EXTINF:-1 tvg-name="24H • Lobo Em Pele de Cordeiro" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Lobo Em Pele de Cordeiro
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515394.m3u8
+#EXTINF:-1 tvg-name="24H • Pesca Mortal" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Pesca Mortal
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515404.m3u8
+#EXTINF:-1 tvg-name="24H • Pesca Mortal Aventura no Sangue" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Pesca Mortal Aventura no Sangue
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515405.m3u8
+#EXTINF:-1 tvg-name="24H • Quilos Mortais: Como Eles Estão Agora" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Quilos Mortais: Como Eles Estão Agora
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515408.m3u8
+#EXTINF:-1 tvg-name="24H • Anime - Dungeon Meshi" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Anime - Dungeon Meshi
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515701.m3u8
+#EXTINF:-1 tvg-name="24H • Anime - One Punch Man" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Anime - One Punch Man
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515706.m3u8
+#EXTINF:-1 tvg-name="24H • Anime - Pokemon" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Anime - Pokemon
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515708.m3u8
+#EXTINF:-1 tvg-name="24H • Anime - Super Campeões" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Anime - Super Campeões
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515710.m3u8
+#EXTINF:-1 tvg-name="24H • Anime - Yu Gi Oh GX" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS I 24HORAS",24H • Anime - Yu Gi Oh GX
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515712.m3u8
+#EXTINF:-1 tvg-name="TELETUBBIES 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS I 24HORAS",TELETUBBIES 24H
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515804.m3u8
+#EXTINF:-1 tvg-name="THUNDERCATS 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS I 24HORAS",THUNDERCATS 24H
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515806.m3u8
+#EXTINF:-1 tvg-name="TOM E JERRY 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS I 24HORAS",TOM E JERRY 24H
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515807.m3u8
+#EXTINF:-1 tvg-name="A TURMA DA MONICA 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS I 24HORAS",A TURMA DA MONICA 24H
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515808.m3u8
+#EXTINF:-1 tvg-name="UrsinHos CarinHosos 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS I 24HORAS",UrsinHos CarinHosos 24H
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515809.m3u8
+#EXTINF:-1 tvg-name="Duck Dodgers" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS I 24HORAS",Duck Dodgers
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515821.m3u8
+#EXTINF:-1 tvg-name="DuckTales 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS I 24HORAS",DuckTales 24H
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515822.m3u8
+#EXTINF:-1 tvg-name="BABY DINOSSALRO 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS I 24HORAS",BABY DINOSSALRO 24H
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515823.m3u8
+#EXTINF:-1 tvg-name="THunderCats 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS I 24HORAS",THunderCats 24H
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515824.m3u8
+#EXTINF:-1 tvg-name="GATO DE BOTAS 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS I 24HORAS",GATO DE BOTAS 24H
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515825.m3u8
+#EXTINF:-1 tvg-name="Hey Arnold! 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS I 24HORAS",Hey Arnold! 24H
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515829.m3u8
+#EXTINF:-1 tvg-name="Ladybug 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS I 24HORAS",Ladybug 24H
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515831.m3u8
+#EXTINF:-1 tvg-name="OS FLINSTSON 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS I 24HORAS",OS FLINSTSON 24H
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/9515833.m3u8
+#EXTINF:-1 tvg-name="CINE SKY 03" tvg-logo="https://i.postimg.cc/xjs5MJ8X/cinesky.png" group-title="CANAIS I 24HORAS",CINE SKY 03
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12326760.m3u8
+#EXTINF:-1 tvg-name="CINE SKY 01" tvg-logo="https://i.postimg.cc/xjs5MJ8X/cinesky.png" group-title="CANAIS I 24HORAS",CINE SKY 01
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12326761.m3u8
+#EXTINF:-1 tvg-name="CINE SKY 02" tvg-logo="https://i.postimg.cc/xjs5MJ8X/cinesky.png" group-title="CANAIS I 24HORAS",CINE SKY 02
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12326762.m3u8
+#EXTINF:-1 tvg-name="CINE SKY 04" tvg-logo="https://i.postimg.cc/xjs5MJ8X/cinesky.png" group-title="CANAIS I 24HORAS",CINE SKY 04
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12326763.m3u8
+#EXTINF:-1 tvg-name="CINE SKY 05" tvg-logo="https://i.postimg.cc/xjs5MJ8X/cinesky.png" group-title="CANAIS I 24HORAS",CINE SKY 05
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12326764.m3u8
+#EXTINF:-1   tvg-name="24HRS RIQUINHO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS RIQUINHO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327425.m3u8
+#EXTINF:-1   tvg-name="24HRS SAMURAI CHAMPLOO ANIME" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS SAMURAI CHAMPLOO ANIME
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327426.m3u8
+#EXTINF:-1   tvg-name="24HRS SAMURAI TROOPERS ANIMES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS SAMURAI TROOPERS ANIMES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327427.m3u8
+#EXTINF:-1   tvg-name="24HRS QUARTETO FANTASTICO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS QUARTETO FANTASTICO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327428.m3u8
+#EXTINF:-1   tvg-name="24HRS SHE-RA E AS PRINCESAS DO PODER" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS SHE-RA E AS PRINCESAS DO PODER
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327429.m3u8
+#EXTINF:-1   tvg-name="24HRS SHINZO ANIMES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS SHINZO ANIMES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327430.m3u8
+#EXTINF:-1   tvg-name="24HRS SHOW DA LUNA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS SHOW DA LUNA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327431.m3u8
+#EXTINF:-1   tvg-name="24HRS ANIME NORYU" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS ANIME NORYU
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327432.m3u8
+#EXTINF:-1   tvg-name="24HRS SONIC TALLES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS SONIC TALLES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327433.m3u8
+#EXTINF:-1   tvg-name="24HRS SONIC" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS SONIC
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327434.m3u8
+#EXTINF:-1   tvg-name="24HRS SOUTH PARK" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS SOUTH PARK
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327435.m3u8
+#EXTINF:-1   tvg-name="24HRS STEVEN UNIVERSO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS STEVEN UNIVERSO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327436.m3u8
+#EXTINF:-1   tvg-name="24HRS LIGA DA JUSTICA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS LIGA DA JUSTICA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327437.m3u8
+#EXTINF:-1   tvg-name="24HRS SUPER SCHOQUE" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS SUPER SCHOQUE
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327438.m3u8
+#EXTINF:-1   tvg-name="24HRS SUPER MARIO BROS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS SUPER MARIO BROS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327439.m3u8
+#EXTINF:-1   tvg-name="24HRS SUPERMAN" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS SUPERMAN
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327440.m3u8
+#EXTINF:-1   tvg-name="24HRS TARTARUGA TUCHE" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS TARTARUGA TUCHE
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327441.m3u8
+#EXTINF:-1   tvg-name="24HRS TAZ MANIA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS TAZ MANIA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327442.m3u8
+#EXTINF:-1   tvg-name="24HRS TELE TUBIES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS TELE TUBIES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327443.m3u8
+#EXTINF:-1   tvg-name="24HRS TESTE DE FIDELIDADE" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS TESTE DE FIDELIDADE
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327444.m3u8
+#EXTINF:-1   tvg-name="24HRS THUNDER CATS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS THUNDER CATS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327445.m3u8
+#EXTINF:-1   tvg-name="24HRS TIMAO E PUMBA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS TIMAO E PUMBA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327446.m3u8
+#EXTINF:-1   tvg-name="24HRS TOM E JERRY" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS TOM E JERRY
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327447.m3u8
+#EXTINF:-1   tvg-name="24HRS TRANSFORMERS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS TRANSFORMERS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327448.m3u8
+#EXTINF:-1   tvg-name="24HR AS 3 ESPIANS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HR AS 3 ESPIANS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327449.m3u8
+#EXTINF:-1   tvg-name="24HRS TURMA DA MONICA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS TURMA DA MONICA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327450.m3u8
+#EXTINF:-1   tvg-name="24HRS ULTRAMAN" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS ULTRAMAN
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327451.m3u8
+#EXTINF:-1   tvg-name="24HR URSINHOS CARINHOSOS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HR URSINHOS CARINHOSOS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327452.m3u8
+#EXTINF:-1   tvg-name="24HRS X-MAN" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS X-MAN
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327453.m3u8
+#EXTINF:-1   tvg-name="24HRS YU YU HAKUSHO ANIMES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS YU YU HAKUSHO ANIMES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327454.m3u8
+#EXTINF:-1   tvg-name="24HRS YU GI OH ANIMES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS YU GI OH ANIMES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327455.m3u8
+#EXTINF:-1   tvg-name="24HRS ZE BUSCAPE" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS ZE BUSCAPE
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327456.m3u8
+#EXTINF:-1   tvg-name="24HRS ZE COLMEIA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS ZE COLMEIA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327457.m3u8
+#EXTINF:-1   tvg-name="24HRS 101 DALMATAS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS 101 DALMATAS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327458.m3u8
+#EXTINF:-1   tvg-name="24HRS MICKEY E MINNIE" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS MICKEY E MINNIE
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327459.m3u8
+#EXTINF:-1   tvg-name="24HRS FAMILIA ADANS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS FAMILIA ADANS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327460.m3u8
+#EXTINF:-1   tvg-name="24HRS FORMIGA ATOMICA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS FORMIGA ATOMICA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327461.m3u8
+#EXTINF:-1   tvg-name="24HRS CHARLIE BROWN" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS CHARLIE BROWN
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327462.m3u8
+#EXTINF:-1   tvg-name="24HRS PATETA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS PATETA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327463.m3u8
+#EXTINF:-1   tvg-name="24HRS A NOVA ONDA DO IMPERADOR" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS A NOVA ONDA DO IMPERADOR
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327464.m3u8
+#EXTINF:-1   tvg-name="24HRS ALADDIN" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS ALADDIN
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327465.m3u8
+#EXTINF:-1   tvg-name="24HRS ANIMANIACS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS ANIMANIACS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327466.m3u8
+#EXTINF:-1   tvg-name="24HRS CAILOU" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS CAILOU
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327467.m3u8
+#EXTINF:-1   tvg-name="24HRS JECKIE CHAN" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS JECKIE CHAN
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327468.m3u8
+#EXTINF:-1   tvg-name="24HRS SONIC TALLES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS SONIC TALLES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327469.m3u8
+#EXTINF:-1   tvg-name="24HRS _91" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS _91
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327470.m3u8
+#EXTINF:-1   tvg-name="24HRS URSINHO POOH" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS URSINHO POOH
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327471.m3u8
+#EXTINF:-1   tvg-name="24HRS AS TARTARUGAS NINJA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS AS TARTARUGAS NINJA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327472.m3u8
+#EXTINF:-1   tvg-name="24HRS 24HRS CINDERELA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS 24HRS CINDERELA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327473.m3u8
+#EXTINF:-1   tvg-name="24HRS AS VIZOES DE RAVEN" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS AS VIZOES DE RAVEN
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327474.m3u8
+#EXTINF:-1   tvg-name="24HRS AVATAR" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS AVATAR
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327475.m3u8
+#EXTINF:-1   tvg-name="24HRS LONEY TUNNES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS LONEY TUNNES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327476.m3u8
+#EXTINF:-1   tvg-name="24HRS BACKYARDIGANS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS BACKYARDIGANS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327477.m3u8
+#EXTINF:-1   tvg-name="24HRS BAKUGAN ANIMES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS BAKUGAN ANIMES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327478.m3u8
+#EXTINF:-1   tvg-name="24HRS BANANAS DE PIJAMAS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS BANANAS DE PIJAMAS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327479.m3u8
+#EXTINF:-1   tvg-name="24HRS PEQUENOS CONSTRUTORES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS PEQUENOS CONSTRUTORES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327480.m3u8
+#EXTINF:-1   tvg-name="24HRS BATMAN" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS BATMAN
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327481.m3u8
+#EXTINF:-1   tvg-name="24HRS BEN10" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS BEN10
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327482.m3u8
+#EXTINF:-1   tvg-name="24HRS ATOMIC BETTY" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS ATOMIC BETTY
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327483.m3u8
+#EXTINF:-1   tvg-name="24HRS BICUDO LOBISOMEN" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS BICUDO LOBISOMEN
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327484.m3u8
+#EXTINF:-1   tvg-name="24HRS BEYBLADE ANIMES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS BEYBLADE ANIMES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327485.m3u8
+#EXTINF:-1   tvg-name="24HRS BOB SPONJA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS BOB SPONJA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327486.m3u8
+#EXTINF:-1   tvg-name="24HRS BONECO ATOMICO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS BONECO ATOMICO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327487.m3u8
+#EXTINF:-1   tvg-name="24HRS BRAVESTAR" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS BRAVESTAR
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327488.m3u8
+#EXTINF:-1   tvg-name="24HRS BUZZ LIGHTYEAR" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS BUZZ LIGHTYEAR
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327489.m3u8
+#EXTINF:-1   tvg-name="24HRS CADILLACS E DINOSSAUROS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS CADILLACS E DINOSSAUROS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327490.m3u8
+#EXTINF:-1   tvg-name="24HRS SENDOKAU CHAMPIONS ANIMES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS SENDOKAU CHAMPIONS ANIMES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327491.m3u8
+#EXTINF:-1   tvg-name="24HRS BICUDO LOBSOMEM" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS BICUDO LOBSOMEM
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327492.m3u8
+#EXTINF:-1   tvg-name="24HRS SCAPITAO CAVERNA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS SCAPITAO CAVERNA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327493.m3u8
+#EXTINF:-1   tvg-name="24HRS CAPITAO PLANETA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS CAPITAO PLANETA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327494.m3u8
+#EXTINF:-1   tvg-name="24HRS CARROS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS CARROS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327495.m3u8
+#EXTINF:-1   tvg-name="24HRS SAYLOR MOON" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS SAYLOR MOON
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327496.m3u8
+#EXTINF:-1   tvg-name="24HRS CARMEN SANDIEGO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS CARMEN SANDIEGO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327497.m3u8
+#EXTINF:-1   tvg-name="24HRS CAVALEIROS DOS ZODIACOS ANIMES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS CAVALEIROS DOS ZODIACOS ANIMES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327498.m3u8
+#EXTINF:-1   tvg-name="24HRS CAVALEIROS DOS ZODIACO ANIMES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS CAVALEIROS DOS ZODIACO ANIMES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327499.m3u8
+#EXTINF:-1   tvg-name="24HRS CAVALEIROS DOS ZODIACO ANIMES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS CAVALEIROS DOS ZODIACO ANIMES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327500.m3u8
+#EXTINF:-1   tvg-name="24HRS CAVALEIROS DOS ZODIACO ANIMES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS CAVALEIROS DOS ZODIACO ANIMES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327501.m3u8
+#EXTINF:-1   tvg-name="24HRS CAVALEIROS DOS ZODIACO ANIMES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS CAVALEIROS DOS ZODIACO ANIMES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327502.m3u8
+#EXTINF:-1   tvg-name="24HRS CAVERNA DO DRAGAO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS CAVERNA DO DRAGAO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327503.m3u8
+#EXTINF:-1 tvg-name="24HRS DESENHOS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DESENHOS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327504.m3u8
+#EXTINF:-1   tvg-name="24HRS JOREL" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS JOREL
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327505.m3u8
+#EXTINF:-1   tvg-name="24HRS TARZAN" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS TARZAN
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327506.m3u8
+#EXTINF:-1   tvg-name="24HRS GLIFORD" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS GLIFORD
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327507.m3u8
+#EXTINF:-1   tvg-name="24HRS LINDOS CARROS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS LINDOS CARROS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327508.m3u8
+#EXTINF:-1   tvg-name="24HRS COELHO RICOCHETE" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS COELHO RICOCHETE
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327509.m3u8
+#EXTINF:-1   tvg-name="24HRS CORAGEM O CAO COVARDE" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS CORAGEM O CAO COVARDE
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327510.m3u8
+#EXTINF:-1   tvg-name="24HRS CORRIDA MALUCA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS CORRIDA MALUCA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327511.m3u8
+#EXTINF:-1   tvg-name="24HRS CYBERCHASE" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS CYBERCHASE
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327512.m3u8
+#EXTINF:-1   tvg-name="24HRS DANNY PHANTON" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DANNY PHANTON
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327513.m3u8
+#EXTINF:-1   tvg-name="24HRS DEBIE E LOYD" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DEBIE E LOYD
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327514.m3u8
+#EXTINF:-1   tvg-name="24HRS TICO E TECO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS TICO E TECO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327515.m3u8
+#EXTINF:-1   tvg-name="24HRS DESENHOS ANTIGOS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DESENHOS ANTIGOS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327516.m3u8
+#EXTINF:-1   tvg-name="24HRS DENNIS O PIMENTINHA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DENNIS O PIMENTINHA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327517.m3u8
+#EXTINF:-1   tvg-name="24HRS DESNHOS BIBLICOS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DESNHOS BIBLICOS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327518.m3u8
+#EXTINF:-1   tvg-name="24HRS DIGIMON SAVERS ANIMES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DIGIMON SAVERS ANIMES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327519.m3u8
+#EXTINF:-1   tvg-name="24HRS DIGIMON ADVENTURES ANIMES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DIGIMON ADVENTURES ANIMES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327520.m3u8
+#EXTINF:-1   tvg-name="24HRS DIGIMON TAMERS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DIGIMON TAMERS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327521.m3u8
+#EXTINF:-1   tvg-name="24HRS DIGIMON FRONTIER" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DIGIMON FRONTIER
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327522.m3u8
+#EXTINF:-1   tvg-name="24HRS DINOBOY" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DINOBOY
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327523.m3u8
+#EXTINF:-1   tvg-name="24HRS DINOSEUR KING ANIMES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DINOSEUR KING ANIMES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327524.m3u8
+#EXTINF:-1   tvg-name="24HRS DOIS HOMENS E MEIO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DOIS HOMENS E MEIO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327525.m3u8
+#EXTINF:-1   tvg-name="24HRS CONDE DRACULA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS CONDE DRACULA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327526.m3u8
+#EXTINF:-1   tvg-name="24HRS DORA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DORA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327527.m3u8
+#EXTINF:-1   tvg-name="24HRS DOUG FUNNIE" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DOUG FUNNIE
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327528.m3u8
+#EXTINF:-1   tvg-name="24HRS DR. CALCA DIMENSIONAL" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DR. CALCA DIMENSIONAL
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327529.m3u8
+#EXTINF:-1   tvg-name="24HRS DRAGON BALL WIKI ANIME" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DRAGON BALL WIKI ANIME
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327530.m3u8
+#EXTINF:-1   tvg-name="24HRS DRAGON BALL GT TV AMIME" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DRAGON BALL GT TV AMIME
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327531.m3u8
+#EXTINF:-1   tvg-name="24HRS DRAGON BALL DAILY ON X ANIME" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DRAGON BALL DAILY ON X ANIME
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327532.m3u8
+#EXTINF:-1   tvg-name="24HRS DRAGON BALL SUPER ANIME" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DRAGON BALL SUPER ANIME
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327533.m3u8
+#EXTINF:-1   tvg-name="24HRS DRAGON BALL SUPER ANIME" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DRAGON BALL SUPER ANIME
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327534.m3u8
+#EXTINF:-1   tvg-name="24HRS FUTURE MAI" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS FUTURE MAI
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327535.m3u8
+#EXTINF:-1   tvg-name="24HRS DRAGON BALL SUPER ANIME" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DRAGON BALL SUPER ANIME
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327536.m3u8
+#EXTINF:-1   tvg-name="24HRS DRAGON BALL" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DRAGON BALL
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327537.m3u8
+#EXTINF:-1   tvg-name="24HRS DRAGON BALL" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DRAGON BALL
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327538.m3u8
+#EXTINF:-1   tvg-name="24HRS DRAGON BALL" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DRAGON BALL
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327539.m3u8
+#EXTINF:-1   tvg-name="24HRS DRAGON BALL" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DRAGON BALL
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327540.m3u8
+#EXTINF:-1   tvg-name="24HRS DRAGON BALL" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DRAGON BALL
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327541.m3u8
+#EXTINF:-1   tvg-name="24HRS DRAGON BALL" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DRAGON BALL
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327542.m3u8
+#EXTINF:-1   tvg-name="24HRS DRAKE E JOSH" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DRAKE E JOSH
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327543.m3u8
+#EXTINF:-1   tvg-name="24HRS DROOPY" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DROOPY
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327544.m3u8
+#EXTINF:-1   tvg-name="24HRS DUCKY DODGERS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DUCKY DODGERS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327545.m3u8
+#EXTINF:-1   tvg-name="24HRS TIO PATINHAS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS TIO PATINHAS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327546.m3u8
+#EXTINF:-1   tvg-name="24HRS KOFY ( EM INGLES )" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS KOFY ( EM INGLES )
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327547.m3u8
+#EXTINF:-1   tvg-name="24HRS DUELO XIAOLIN ANIMES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DUELO XIAOLIN ANIMES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327548.m3u8
+#EXTINF:-1   tvg-name="24HRS SNOOPY" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS SNOOPY
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327549.m3u8
+#EXTINF:-1   tvg-name="24HRS LIPPY E HARDY" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS LIPPY E HARDY
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327550.m3u8
+#EXTINF:-1   tvg-name="24HRS THE CAT" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS THE CAT
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327551.m3u8
+#EXTINF:-1   tvg-name="24HRS ESQUADRAO DO TEMPO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS ESQUADRAO DO TEMPO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327552.m3u8
+#EXTINF:-1   tvg-name="24HRS CORRIDA MALUCA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS CORRIDA MALUCA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327553.m3u8
+#EXTINF:-1   tvg-name="24HRS AS AVENTURAS DE ICHABOD" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS AS AVENTURAS DE ICHABOD
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327554.m3u8
+#EXTINF:-1   tvg-name="24HRS FAISCA E FUMACA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS FAISCA E FUMACA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327555.m3u8
+#EXTINF:-1   tvg-name="24HRS FAMILIA DINOSSAURO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS FAMILIA DINOSSAURO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327556.m3u8
+#EXTINF:-1   tvg-name="24HRS PICA PAU" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS PICA PAU
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327557.m3u8
+#EXTINF:-1   tvg-name="24HRS O FANTASMINHA LEGAL" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS O FANTASMINHA LEGAL
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327558.m3u8
+#EXTINF:-1   tvg-name="24HRS DRAGON QUEST" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DRAGON QUEST
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327559.m3u8
+#EXTINF:-1   tvg-name="24HRS FRANKENSTEIN JR" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS FRANKENSTEIN JR
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327560.m3u8
+#EXTINF:-1   tvg-name="24HRS FREAKAZOID" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS FREAKAZOID
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327561.m3u8
+#EXTINF:-1   tvg-name="24HRS FUTURAMA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS FUTURAMA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327562.m3u8
+#EXTINF:-1   tvg-name="24HRS CAVALEIROS DA GALAXIA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS CAVALEIROS DA GALAXIA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327563.m3u8
+#EXTINF:-1   tvg-name="24HRS BIRDMAN ETHE GALAXY TRIO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS BIRDMAN ETHE GALAXY TRIO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327564.m3u8
+#EXTINF:-1   tvg-name="24HRS GALINHA PINTADINHA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS GALINHA PINTADINHA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327565.m3u8
+#EXTINF:-1   tvg-name="24HRS GARFIELD" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS GARFIELD
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327566.m3u8
+#EXTINF:-1   tvg-name="24HRS GASPARZINHO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS GASPARZINHO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327567.m3u8
+#EXTINF:-1   tvg-name="24HRS GASPARZINHO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS GASPARZINHO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327568.m3u8
+#EXTINF:-1   tvg-name="24HRS O GATO DE BOTAS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS O GATO DE BOTAS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327569.m3u8
+#EXTINF:-1   tvg-name="24HRS O GATO FELIX" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS O GATO FELIX
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327570.m3u8
+#EXTINF:-1   tvg-name="24HRS REX SALAZAR E NOAH" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS REX SALAZAR E NOAH
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327571.m3u8
+#EXTINF:-1   tvg-name="24HRS THE GUNDAM ANIME" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS THE GUNDAM ANIME
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327572.m3u8
+#EXTINF:-1   tvg-name="24HRS HAMTARO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS HAMTARO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327573.m3u8
+#EXTINF:-1   tvg-name="24HRS LIGA DA JUSTICA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS LIGA DA JUSTICA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327574.m3u8
+#EXTINF:-1   tvg-name="24HRS HE MAN" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS HE MAN
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327575.m3u8
+#EXTINF:-1   tvg-name="24HRS HELO KITTY" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS HELO KITTY
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327576.m3u8
+#EXTINF:-1   tvg-name="24HRS HERCULES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS HERCULES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327577.m3u8
+#EXTINF:-1   tvg-name="24HRS OS HERCULOIDES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS OS HERCULOIDES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327578.m3u8
+#EXTINF:-1   tvg-name="24HRS ARNOLD" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS ARNOLD
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327579.m3u8
+#EXTINF:-1   tvg-name="24HRS X-MAN" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS X-MAN
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327580.m3u8
+#EXTINF:-1   tvg-name="24HRS O INCRIVEL HULK" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS O INCRIVEL HULK
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327581.m3u8
+#EXTINF:-1   tvg-name="24HRS GUMBALL" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS GUMBALL
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327582.m3u8
+#EXTINF:-1   tvg-name="24HRS IRMAO DO JOREL" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS IRMAO DO JOREL
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327583.m3u8
+#EXTINF:-1   tvg-name="24HRS JAMBO E RUIVAO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS JAMBO E RUIVAO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327584.m3u8
+#EXTINF:-1   tvg-name="24HRS JASPION" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS JASPION
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327585.m3u8
+#EXTINF:-1   tvg-name="24HRS JHONY BRAVO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS JHONY BRAVO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327586.m3u8
+#EXTINF:-1   tvg-name="24HRS BLACK KAMEN RIDER" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS BLACK KAMEN RIDER
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327587.m3u8
+#EXTINF:-1   tvg-name="24HRS KENAN E KELL" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS KENAN E KELL
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327588.m3u8
+#EXTINF:-1   tvg-name="24HRS DEXTER" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS DEXTER
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327589.m3u8
+#EXTINF:-1   tvg-name="24HRS PATO DONALD" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS PATO DONALD
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327590.m3u8
+#EXTINF:-1   tvg-name="24HRS LULUZINHA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS LULUZINHA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327591.m3u8
+#EXTINF:-1   tvg-name="24HRS MECANIMAIS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS MECANIMAIS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327592.m3u8
+#EXTINF:-1   tvg-name="24HRS ROKUSHO MEDABOTS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS ROKUSHO MEDABOTS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327593.m3u8
+#EXTINF:-1   tvg-name="24HRS MEGAMAN" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS MEGAMAN
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327594.m3u8
+#EXTINF:-1   tvg-name="24HRS MIB HOMENS DE PRETO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS MIB HOMENS DE PRETO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327595.m3u8
+#EXTINF:-1   tvg-name="24HRS PATO DONALD" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS PATO DONALD
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327596.m3u8
+#EXTINF:-1   tvg-name="24HRS LADY BUG" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS LADY BUG
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327597.m3u8
+#EXTINF:-1   tvg-name="24HRS MORANGUINHO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS MORANGUINHO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327598.m3u8
+#EXTINF:-1   tvg-name="24HRS MORTAL COMBATE" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS MORTAL COMBATE
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327599.m3u8
+#EXTINF:-1   tvg-name="24HRS MISTER BEEAN DESENHO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS MISTER BEEAN DESENHO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327600.m3u8
+#EXTINF:-1   tvg-name="24HRS ,MUCHA LUCHA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS ,MUCHA LUCHA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327601.m3u8
+#EXTINF:-1   tvg-name="24HRS AS MUMIAS VIVAS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS AS MUMIAS VIVAS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327602.m3u8
+#EXTINF:-1   tvg-name="24HRS NARUTO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS NARUTO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327603.m3u8
+#EXTINF:-1   tvg-name="24HRS O PODEROSO CHEFINHO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS O PODEROSO CHEFINHO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327604.m3u8
+#EXTINF:-1   tvg-name="24HRS PANTERA COR DE ROSA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS PANTERA COR DE ROSA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327605.m3u8
+#EXTINF:-1   tvg-name="24HRS O MASKARA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS O MASKARA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327606.m3u8
+#EXTINF:-1   tvg-name="24HRS SCOOBY DOO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS SCOOBY DOO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327607.m3u8
+#EXTINF:-1   tvg-name="24HRS OS FLINSTONES" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS OS FLINSTONES
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327608.m3u8
+#EXTINF:-1   tvg-name="24HRS OS JETSONS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS OS JETSONS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327609.m3u8
+#EXTINF:-1   tvg-name="24HRS JOVENS TITANS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS JOVENS TITANS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327610.m3u8
+#EXTINF:-1   tvg-name="24HRS PADRINHOS MAGICOS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS PADRINHOS MAGICOS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327611.m3u8
+#EXTINF:-1   tvg-name="24HRS PINGUINS DE MADAGASCAR" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS PINGUINS DE MADAGASCAR
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327612.m3u8
+#EXTINF:-1   tvg-name="24HRS OS SIMPSONS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS OS SIMPSONS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327613.m3u8
+#EXTINF:-1   tvg-name="24HRS OS SUPER PATOS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS OS SUPER PATOS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327614.m3u8
+#EXTINF:-1   tvg-name="24HRS PANTERA COR DE ROSA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS PANTERA COR DE ROSA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327615.m3u8
+#EXTINF:-1   tvg-name="24HRS PAPA LEGUAS" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS PAPA LEGUAS
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327616.m3u8
+#EXTINF:-1   tvg-name="24HRS PATRULHA CANINA" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS PATRULHA CANINA
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327617.m3u8
+#EXTINF:-1   tvg-name="24HRS PATRULHA ESTRELAR" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS PATRULHA ESTRELAR
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327618.m3u8
+#EXTINF:-1   tvg-name="24HRS PEPA PIG" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS PEPA PIG
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327619.m3u8
+#EXTINF:-1   tvg-name="24HRS FRAJOLA E PIU PIU" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS FRAJOLA E PIU PIU
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327620.m3u8
+#EXTINF:-1   tvg-name="24HRS PICA PAU NOVO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS PICA PAU NOVO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327621.m3u8
+#EXTINF:-1   tvg-name="24HRS PINK E O CEREBRO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS PINK E O CEREBRO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327622.m3u8
+#EXTINF:-1   tvg-name="24HRS POCOYO" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS POCOYO
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327623.m3u8
+#EXTINF:-1   tvg-name="24HRS POKEMON" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS POKEMON
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327624.m3u8
+#EXTINF:-1   tvg-name="24HRS POPAY" tvg-logo="https://i.postimg.cc/1XmMVH80/desnho.png" group-title="CANAIS I 24HORAS",24HRS POPAY
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327625.m3u8
+#EXTINF:-1   tvg-name="CINE COMEDIA 02" tvg-logo="https://i.ibb.co/mJW7cCk/aeaa03b0-f506-45f6-8643-05f35bb11b0f-2.jpg" group-title="CANAIS I 24HORAS",CINE COMEDIA 02
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327630.m3u8
+#EXTINF:-1   tvg-name="CINE COMEDIA 04" tvg-logo="https://i.ibb.co/xY6g7NN/602c9bf8-dfa1-4ff8-8235-e91031b37185-4.jpg" group-title="CANAIS I 24HORAS",CINE COMEDIA 04
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327631.m3u8
+#EXTINF:-1   tvg-name="CINE COMEDIA 05" tvg-logo="https://i.ibb.co/X4ttypx/8808e1b7-f0e6-43c8-a4eb-9d5a3863094e-5.jpg" group-title="CANAIS I 24HORAS",CINE COMEDIA 05
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327632.m3u8
+#EXTINF:-1   tvg-name="CINE COMEDIA 06" tvg-logo="https://i.ibb.co/hFPyLv9/ebbc3834-2a1f-4fb4-88dc-e713eaca7ace-6.jpg" group-title="CANAIS I 24HORAS",CINE COMEDIA 06
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327633.m3u8
+#EXTINF:-1   tvg-name="CINE COMEDIA 07" tvg-logo="https://i.ibb.co/jJxjRXk/7eb40856-bf41-4d69-b3af-f03ed8fb626d-7.jpg" group-title="CANAIS I 24HORAS",CINE COMEDIA 07
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327634.m3u8
+#EXTINF:-1   tvg-name="CINE COMEDIA 08: NACIONAL 01" tvg-logo="https://i.ibb.co/rdMrhth/fb1b65ed-3171-4372-9f56-b785a87feaf5-8.jpg" group-title="CANAIS I 24HORAS",CINE COMEDIA 08: NACIONAL 01
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327635.m3u8
+#EXTINF:-1   tvg-name="CINE COMEDIA 09: NACIONAL 02" tvg-logo="https://i.ibb.co/FD1tr25/0d19c3f2-8065-41e9-bd6d-04395bfb8d1a-9.jpg" group-title="CANAIS I 24HORAS",CINE COMEDIA 09: NACIONAL 02
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327636.m3u8
+#EXTINF:-1   tvg-name="CINE COMEDIA 11" tvg-logo="https://i.ibb.co/XptzKGg/6ec6e460-22d1-4ad7-9c65-f4018a028549-11.jpg" group-title="CANAIS I 24HORAS",CINE COMEDIA 11
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327637.m3u8
+#EXTINF:-1   tvg-name="CINE COMEDIA 12" tvg-logo="https://i.ibb.co/vP59vCd/93dc2434-fa13-495c-ac0b-5a2beb2b6a22-12.jpg" group-title="CANAIS I 24HORAS",CINE COMEDIA 12
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327638.m3u8
+#EXTINF:-1   tvg-name="CINE COMEDIA 14" tvg-logo="https://i.ibb.co/vkGJ9Kr/bc945159-2f51-4321-b055-d8dce6a2de42-14.jpg" group-title="CANAIS I 24HORAS",CINE COMEDIA 14
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327639.m3u8
+#EXTINF:-1   tvg-name="CINE FANTASIA 01" tvg-logo="https://i.ibb.co/25WHTrg/Whats-App-Image-2022-07-20-at-18-13-17-6.jpg" group-title="CANAIS I 24HORAS",CINE FANTASIA 01
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327650.m3u8
+#EXTINF:-1   tvg-name="CINE FANTASIA 02" tvg-logo="https://i.ibb.co/6rmt3H2/Whats-App-Image-2022-07-20-at-18-13-16.jpg" group-title="CANAIS I 24HORAS",CINE FANTASIA 02
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327651.m3u8
+#EXTINF:-1   tvg-name="CINE FANTASIA 03" tvg-logo="https://i.ibb.co/rGkjmNq/Whats-App-Image-2022-07-20-at-18-13-16-1.jpg" group-title="CANAIS I 24HORAS",CINE FANTASIA 03
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327652.m3u8
+#EXTINF:-1   tvg-name="CINE FANTASIA 04" tvg-logo="https://i.ibb.co/rGkjmNq/Whats-App-Image-2022-07-20-at-18-13-16-1.jpg" group-title="CANAIS I 24HORAS",CINE FANTASIA 04
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327653.m3u8
+#EXTINF:-1   tvg-name="CINE FANTASIA 05" tvg-logo="https://i.ibb.co/2YVg2jc/Whats-App-Image-2022-07-20-at-18-13-17-5.jpg" group-title="CANAIS I 24HORAS",CINE FANTASIA 05
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327654.m3u8
+#EXTINF:-1   tvg-name="CINE FANTASIA 06" tvg-logo="https://i.ibb.co/ZLnVSsW/Whats-App-Image-2022-07-20-at-18-13-17.jpg" group-title="CANAIS I 24HORAS",CINE FANTASIA 06
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327655.m3u8
+#EXTINF:-1   tvg-name="CINE FANTASIA 08: MAGIA 02" tvg-logo="https://i.ibb.co/3dkfnnM/Fantasia-567852345-08.jpg" group-title="CANAIS I 24HORAS",CINE FANTASIA 08: MAGIA 02
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327656.m3u8
+#EXTINF:-1   tvg-name="CINE FANTASIA 09: TERROR 01" tvg-logo="https://i.ibb.co/RQcp9Nv/Fantasia-567852345-09.jpg" group-title="CANAIS I 24HORAS",CINE FANTASIA 09: TERROR 01
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327657.m3u8
+#EXTINF:-1   tvg-name="CINE MARVEL 02" tvg-logo="https://i.ibb.co/tmw6vzy/marvel56785.png" group-title="CANAIS I CINEFLIX",CINE MARVEL 02
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327660.m3u8
+#EXTINF:-1   tvg-name="CINE MARVEL 03" tvg-logo="https://i.ibb.co/tmw6vzy/marvel56785.png" group-title="CANAIS I 24HORAS",CINE MARVEL 03
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327661.m3u8
+#EXTINF:-1   tvg-name="CINE DC 01" tvg-logo="https://i.ibb.co/MVH6qJD/Cine-DC.png" group-title="CANAIS I 24HORAS",CINE DC 01
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327662.m3u8
+#EXTINF:-1   tvg-name="CINE DC 02" tvg-logo="https://i.ibb.co/MVH6qJD/Cine-DC.png" group-title="CANAIS I 24HORAS",CINE DC 02
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327663.m3u8
+#EXTINF:-1   tvg-name="CINE DC 03" tvg-logo="https://i.ibb.co/MVH6qJD/Cine-DC.png" group-title="CANAIS I 24HORAS",CINE DC 03
+http://pepeca-plusone.shop/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/12327664.m3u8
 
 
 
