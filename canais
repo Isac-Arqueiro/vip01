@@ -113,8 +113,12 @@ https://stream1.freetv.fun/globo-rj-2-1.m3u8
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/1.m3u8
+#EXTINF:-1 tvg-name="GNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Gnt_logo.jpg" group-title="Canal aberto",GNT
+https://d1muf25xa12so8hp09.s27-usa-cloudfront-net.online/token/4820bcb5455294172d68218d5b86827b/gnt.m3u8
 #EXTINF:-1 tvg-name="Receitas_Fast" tvg-logo="https://set.org.br/wp-content/uploads/2023/03/Receitas-FAST-Globo.jpg" group-title="Canal aberto",Receitas_Fast
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
+#EXTINF:-1 tvg-name="VIVA" tvg-logo="https://i.pinimg.com/474x/2e/18/6b/2e186b5cbbd3c7a3498d5142721348fd.jpg" group-title="Canal aberto",VIVA
+https://d1muf25xa12so8hp10.s27-usa-cloudfront-net.online/token/dd2df3632a9f16c2367594c72fefc06e/viva.m3u8
 #EXTINF:-1 tvg-name="Jovem Pan News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png" group-title="Canal aberto",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-name="Jovem Pan News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png" group-title="Canal aberto",Jovem Pan News
@@ -179,6 +183,8 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/111.m3u8
 -----------------------------------------Variedades------------------------------------
 
 
+#EXTINF:-1 tvg-name="MultShow" tvg-logo="https://images.seeklogo.com/logo-png/9/2/multishow-logo-png_seeklogo-96008.png" group-title="Variedade",Pluto TV Vida Real (720p)
+https://stream1.freetv.fun/0e41cfb0a6409f4585435f7e28cf14d411b36316df458d7710d070a651038c32.ctv
 #EXTINF:-1 tvg-name="Vida Real" tvg-logo="https://i.imgur.com/dRbBbxP.png" group-title="Variedade",Pluto TV Vida Real (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-name="Documentários" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="Variedade",Documentários | Pluto TV Brasil
@@ -309,6 +315,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
 #EXTINF:-1 tvg-name="Motorvision"tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="Esporte",Motorvision | Brasil 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
+#EXTINF:-1 tvg-name="Premiere"tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="Esporte",Premiere
+https://d1muf25xa12so8hp10.s27-usa-cloudfront-net.online/token/cf841c2fd15e83567d39861cf8f15a15/premiere8.m3u8
 
 
 
@@ -398,6 +406,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8
 ------------------------------------FILMES-------------------------------------------
 
 
+#EXTINF:-1 tvg-name="Telecine Pipoca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="Filmes",Telecine Pipoca
+https://d1muf25xa12so8hp09.s27-usa-cloudfront-net.online/token/327eb1ceb6c955573e838002bfb9d537/telecinepipoca.m3u8
+#EXTINF:-1 tvg-name="Telecine Oction" tvg-logo="https://images.seeklogo.com/logo-png/18/1/telecine-action-logo-png_seeklogo-188853.png" group-title="Filmes",Telecine oction
+https://stream1.freetv.fun/0604c70553606db7616c76e42dee573ad64c3c4b809080945531e45df23cdb94.ctv
+#EXTINF:-1 tvg-name="Telecine Oction" tvg-logo="https://images.seeklogo.com/logo-png/18/1/telecine-action-logo-png_seeklogo-188853.png" group-title="Filmes",Telecine oction
+https://d1muf25xa12so8hp09.s27-usa-cloudfront-net.online/token/0b1496bb64f099c1ae0afb4e6d79cb1f/telecineaction.m3u8
 #EXTINF:-1 tvg-name="Cine Clássicos" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="Filmes",Cine Clássicos | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-name="Cine Comédia" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="Filmes",Cine Comédia | Pluto TV Brasil
@@ -442,6 +456,8 @@ https://video04.logicahost.com.br/isonata/isonata/chunklist_w7914586.m3u8
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Bradoky" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/BRADOKY_-_logo_2_-_Transp_reduz_DEsfAZw.png" group-title="Filmes",Bradoky
 https://video01.soultv.com.br/bradoky/bradoky/playlist.m3u8
+#EXTINF:-1 tvg-name="MegaPix" tvg-logo="https://secure.gravatar.com/avatar/d34ffdd472d38ebd25be5f2d2f9589298ee20efa224abaa9444f566df9f284aa?s=2500&d=mm&r=g" group-title="Filmes",MegaPix
+https://d1muf25xa12so8hp09.s27-usa-cloudfront-net.online/token/18860f6bf8bffd662cbf2faf74b598b7/megapix.m3u8
 
 
 --------------------//SÉRIS//-----------
