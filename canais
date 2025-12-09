@@ -191,6 +191,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9e
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-name="Mistérios sem Solução" tvg-logo="https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png" group-title="Variedade",Mistérios sem Solução | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a064163d0007b2efe6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-name="MultShow" tvg-logo="https://images.seeklogo.com/logo-png/9/2/multishow-logo-png_seeklogo-96008.png" group-title="Variedade",MultShow
+https://stream1.freetv.fun/0e41cfb0a6409f4585435f7e28cf14d411b36316df458d7710d070a651038c32.ctv
 #EXTINF:-1 tvg-name="Natureza" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="Variedade",Natureza | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-name="Smithsonian Channel" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="Variedade",Smithsonian Channel | legendado | Pluto TV Brasil
@@ -289,6 +291,10 @@ https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 -------------------------------------ESPOTE--------------------------
 
 
+#EXTINF:-1 tvg-name="SporTv" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="Esporte",SporTv
+https://stream1.freetv.fun/7d5de8978932242751e549da92a6e37f9a485f856f218609b5c6c3c9dd70a2c6.ctv
+#EXTINF:-1 tvg-name="SporTv 2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="Esporte",SporTv 2
+http://79.127.243.211:14469
 #EXTINF:-1 tvg-name="SFT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC8mi_K5DiK57Av_ykPfM5-ImPS1UNCa6qQw&s" group-title="Esporte",SFT
 https://hrm-sftc.otteravision.com/hrm/sftc/sftc_720p_high.m3u8
 #EXTINF:-1 tvg-name="Cazé" tvg-logo="https://www.claro.com.br/files/104379/860x1440/9da5b62119/capa-assistir-caze-tv-online.png/m/filters:quality(75)" group-title="Esporte",Cazé
@@ -315,8 +321,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
 #EXTINF:-1 tvg-name="Motorvision"tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="Esporte",Motorvision | Brasil 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
-#EXTINF:-1 tvg-name="Premiere"tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="Esporte",Premiere
+#EXTINF:-1 tvg-name="Premiere 8"tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="Esporte",Premiere 8
 https://d1muf25xa12so8hp10.s27-usa-cloudfront-net.online/token/cf841c2fd15e83567d39861cf8f15a15/premiere8.m3u8
+#EXTINF:-1 tvg-name="Premiere 3"tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="Esporte",Premiere 3
+https://d1muf25xa12so8hp09.s27-usa-cloudfront-net.online/token/f3efae357427c254e762acdc3ce0be45/premiere3.m3u8
+#EXTINF:-1 tvg-name="Premiere 2"tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="Esporte",Premiere 2
+https://d1muf25xa12so8hp09.s27-usa-cloudfront-net.online/token/fd3e6cff5c0b7033820a07ca3ef95a38/premiere2.m3u8
 
 
 
@@ -324,6 +334,8 @@ https://d1muf25xa12so8hp10.s27-usa-cloudfront-net.online/token/cf841c2fd15e83567
 ----------------------------------ANIMAÇÃO------------------------------
 
 
+#EXTINF:-1 tvg-name="Gloob" tvg-logo="https://images.seeklogo.com/logo-png/51/1/gloob-logo-png_seeklogo-511195.png" group-title="Animação",Gloob
+http://79.127.243.211:14436/
 #EXTINF:-1 tvg-name="Yu-Gi-Oh!" tvg-logo="http://images.pluto.tv/channels/63988a50be012600070f5db3/colorLogoPNG.png" group-title="Animação",Yu-Gi-Oh! | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988a50be012600070f5db3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-name="Super Onze" tvg-logo="http://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" group-title="Animação",Super Onze | Brasil: infanto-juvenis
