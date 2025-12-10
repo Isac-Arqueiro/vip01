@@ -4,6 +4,7 @@
 
 
 
+
 ------------------------------Canal Aberto--------------------------
 
 #EXTINF:-1 tvg-name="GLOBO RIO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO RIO
@@ -232,10 +233,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
 #EXTINF:-1 tvg-name="Premiere 8"tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="Esporte",Premiere 8
 https://d1muf25xa12so8hp10.s27-usa-cloudfront-net.online/token/cf841c2fd15e83567d39861cf8f15a15/premiere8.m3u8
-#EXTINF:-1 tvg-name="Premiere 3"tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="Esporte",Premiere 3
-https://d1muf25xa12so8hp09.s27-usa-cloudfront-net.online/token/f3efae357427c254e762acdc3ce0be45/premiere3.m3u8
-#EXTINF:-1 tvg-name="Premiere 2"tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="Esporte",Premiere 2
-https://d1muf25xa12so8hp09.s27-usa-cloudfront-net.online/token/fd3e6cff5c0b7033820a07ca3ef95a38/premiere2.m3u8
 
 
 
