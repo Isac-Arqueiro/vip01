@@ -10,6 +10,10 @@ https://stream1.freetv.fun/0e41cfb0a6409f4585435f7e28cf14d411b36316df458d7710d07
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 #EXTINF:-1 tvg-name="GLOBO Portalegre" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="VLC TvBox",GLOBO Portalegre
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18246.m3u8
+#EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="VLC TvBox",GLOBO
+http://200.77.176.130:8000/udp/224.0.0.1:49152
+#EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="VLC TvBox",GLOBO
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18246.ts
 #EXTINF:-1 tvg-name="GLOBO BAHIA" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="VLC TvBox",GLOBO BHAIA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-name="SporTv" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="VLC TvBox",SporTv
