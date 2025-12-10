@@ -20,7 +20,7 @@ https://stream1.freetv.fun/7d5de8978932242751e549da92a6e37f9a485f856f218609b5c6c
 http://79.127.243.211:14469
 #EXTINF:-1 tvg-name="ESPN 5 port" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="VLC TvBox",ESPN 5 port
 http://magiz.net:25461/frank/frank/334
-#EXTINF:-1 tvg-name="VLC TvBox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN port
+#EXTINF:-1 tvg-name="VLC TvBox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="VLC TvBox",ESPN port
 http://magiz.net:25461/frank/frank/338
 
 
