@@ -11,6 +11,10 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_
 #EXTINF:-1 tvg-name="GLOBO Portalegre" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="VLC TvBox",GLOBO Portalegre
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18246.m3u8
 #EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="VLC TvBox",GLOBO
+http://tv.mapfibra.com.br:8555/live/11042/123456/70.m3u8 
+#EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="VLC TvBox",GLOBO
+http://tv.mapfibra.com.br:8555/live/1012/123456/70.m3u8 
+#EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="VLC TvBox",GLOBO
 http://200.77.176.130:8000/udp/224.0.0.1:49152
 #EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="VLC TvBox",GLOBO
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18246.ts
@@ -20,6 +24,10 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 https://stream1.freetv.fun/7d5de8978932242751e549da92a6e37f9a485f856f218609b5c6c3c9dd70a2c6.ctv
 #EXTINF:-1 tvg-name="SporTv 2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="VLC TvBox",SporTv 2
 http://79.127.243.211:14469
+#EXTINF:-1 tvg-name="ESPN 5 port" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="VLC TvBox",ESPN 5 port
+http://magiz.net:25461/frank/frank/334
+#EXTINF:-1 tvg-name="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="VLC TvBox",ESPN port
+http://magiz.net:25461/frank/frank/338
 #EXTINF:-1 tvg-name="espn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="VLC TvBox",ESPN 2 port
 http://79.127.243.211:14506/
 #EXTINF:-1 tvg-name="espn 3 inglês" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="VLC TvBox",ESPN 3 ingles
@@ -32,7 +40,26 @@ http://79.127.243.211:14497/
 http://79.127.243.211:14493/
 #EXTINF:-1 tvg-name="premiere" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="VLC TvBox",Premiere
 http://79.127.243.211:14501/
-
+#EXTINF:-1 tvg-name="BAND" tvg-logo="https://seeklogo.com/images/B/band-logo-B923FE7226-seeklogo.com.png" group-title="VLC TvBox",BAND
+http://tv.mapfibra.com.br:8555/live/11042/123456/19.m3u8 
+#EXTINF:-1 tvg-name="BAND" tvg-logo="https://seeklogo.com/images/B/band-logo-B923FE7226-seeklogo.com.png" group-title="VLC TvBox",BAND
+http://tv.mapfibra.com.br:8555/live/1012/123456/19.m3u8 
+#EXTINF:-1 tvg-name="CANÇÂO NOVA" tvg-logo="https://images.seeklogo.com/logo-png/18/1/cancao-nova-logo-png_seeklogo-188603.png" group-title="VLC TvBox",CANÇÂO NOVA
+http://tv.mapfibra.com.br:8555/live/1012/123456/25.m3u8 
+#EXTINF:-1 tvg-name="CANÇÂO NOVA" tvg-logo="https://images.seeklogo.com/logo-png/18/1/cancao-nova-logo-png_seeklogo-188603.png" group-title="VLC TvBox",CANÇÂO NOVA
+http://tv.mapfibra.com.br:8555/live/11042/123456/25.m3u8 
+#EXTINF:-1 tvg-name="CHESPIRITO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Chespirito.png" group-title="VLC TvBox",CHESPIRITO
+http://tv.mapfibra.com.br:8555/live/11042/123456/159.m3u8 
+#EXTINF:-1 tvg-name="CHESPIRITO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Chespirito.png" group-title="VLC TvBox",CHESPIRITO
+http://tv.mapfibra.com.br:8555/live/1012/123456/159.m3u8 
+#EXTINF:-1 tvg-name="FISH TV" tvg-logo="https://i.pinimg.com/736x/a6/19/c5/a619c5c1b63a12cbaf1e8c6b73de25d5.jpg" group-title="VLC TvBox",FISH TV
+http://tv.mapfibra.com.br:8555/live/11042/123456/62.m3u8 
+#EXTINF:-1 tvg-name="FISH TV" tvg-logo="https://i.pinimg.com/736x/a6/19/c5/a619c5c1b63a12cbaf1e8c6b73de25d5.jpg" group-title="VLC TvBox",FISH TV
+http://tv.mapfibra.com.br:8555/live/1012/123456/62.m3u8 
+#EXTINF:-1 tvg-name="JOVEN PAN NES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Jovem_Pan_News.png" group-title="VLC TvBox",JOVEN PAN NEWS
+http://tv.mapfibra.com.br:8555/live/11042/123456/161.m3u8 
+#EXTINF:-1 tvg-name="JOVEN PAN NES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Jovem_Pan_News.png" group-title="VLC TvBox",JOVEN PAN NEWS
+http://tv.mapfibra.com.br:8555/live/1012/123456/161.m3u8 
 
 
 
