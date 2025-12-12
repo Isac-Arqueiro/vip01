@@ -20,12 +20,20 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 https://stream1.freetv.fun/7d5de8978932242751e549da92a6e37f9a485f856f218609b5c6c3c9dd70a2c6.ctv
 #EXTINF:-1 tvg-name="SporTv 2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="VLC TvBox",SporTv 2
 http://79.127.243.211:14469
-#EXTINF:-1 tvg-name="ESPN 5 port" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="VLC TvBox",ESPN 5 port
-http://magiz.net:25461/frank/frank/334
-#EXTINF:-1 tvg-name="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="VLC TvBox",ESPN port
-http://magiz.net:25461/frank/frank/338
+#EXTINF:-1 tvg-name="espn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="VLC TvBox",ESPN 2 port
+http://79.127.243.211:14506/
+#EXTINF:-1 tvg-name="espn 3 inglês" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="VLC TvBox",ESPN 3 ingles
+http://79.127.243.211:14510/
+#EXTINF:-1 tvg-name="espn 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="VLC TvBox",ESPN 4
+http://79.127.243.211:14514/
 #EXTINF:-1 tvg-name="premiere" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="VLC TvBox",Premiere
 http://79.127.243.211:14497/
+#EXTINF:-1 tvg-name="premiere" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="VLC TvBox",Premiere
+http://79.127.243.211:14493/
+#EXTINF:-1 tvg-name="premiere" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="VLC TvBox",Premiere
+http://79.127.243.211:14501/
+
+
 
 
 
@@ -117,6 +125,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a06
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Variedade",Animal Planet
 https://fl1.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-name="wildearth" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyg2s-zMHieuGYpiSTr0T57Dj4tC3QeFKRTw&s" group-title="Variedade",wildearth
+https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-name="Smithsonian Channel" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="Variedade",Smithsonian Channel | legendado | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-name="Turbo" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="Variedade",Turbo | Pluto TV Brasil
@@ -339,6 +349,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8
 ------------------------------------FILMES-------------------------------------------
 
 
+#EXTINF:-1 tvg-name="AMC ESPANHOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Filmes",AMC ESPANHOL
+https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Cine Clássicos" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="Filmes",Cine Clássicos | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-name="Cine Comédia" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="Filmes",Cine Comédia | Pluto TV Brasil
