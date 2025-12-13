@@ -1,6 +1,7 @@
 #EXTM3U
 
  
+ 
 ------------------------------Canal Aberto--------------------------
 
 
@@ -266,10 +267,6 @@ http://79.127.243.211:14469/Sportv
 http://45.235.0.78/SporTV_2/playlist.m3u8
 #EXTINF:-1 tvg-name="SporTv 3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="Esporte",SporTv 3
 http://45.235.0.78/SporTV_3/playlist.m3u8
-#EXTINF:-1 tvg-name="ESPN 5 port" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN 5 port
-http://magiz.net:25461/frank/frank/334
-#EXTINF:-1 tvg-name="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN port
-http://magiz.net:25461/frank/frank/338
 #EXTINF:-1 tvg-name="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN
 http://45.235.0.78/ESPN/playlist.m3u8
 #EXTINF:-1 tvg-name="espn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN 2 port
