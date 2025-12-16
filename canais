@@ -36,8 +36,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 #EXTINF:-1 tvg-id="5b7f3c45ab7c2"tvg-name="TV Arapuan" tvg-logo="https://i.imgur.com/3395A2h.png" group-title="Canal aberto",TV Arapuan 
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:-1 tvg-id="PortaldaTropical02"tvg-name="TV Tv Troical" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bc/Logotipo_da_TV_Tropical_%28Natal%29.png" group-title="Canal aberto",TV Tropical 
-https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklist_w1589932685.m3u8
 #EXTINF:-1 tvg-id="ComBrasil"tvg-name="Com brasil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW4vqcd-CpOKheB4c1nKkQSJvTigALw0fsQQ&s" group-title="Canal aberto",Com brasil
 https://br5093.streamingdevideo.com.br:8081/abc/abc/index.m3u8
 #EXTINF:-1 tvg-id="TvBrasil"tvg-name="TVBrasil.br" tvg-logo="https://i.imgur.com/faZEzAh.png" group-title="Canal aberto",TV Brasil
