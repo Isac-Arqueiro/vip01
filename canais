@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/brazil.xml,https://i.mjh.nz/PlutoTV/br.xml"
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml,https://www.bevy.be/bevyfiles/brazil.xml"
 
  
  
@@ -82,6 +82,8 @@ http://tv.mapfibra.com.br:8555/live/1021/123456/318.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
 #EXTINF:-1 tvg-id="CidadeVerdeNovo" tvg-name="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canal aberto",SBT | TV Cidade Verde | Piauí
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/master.m3u8
+#EXTINF:-1 tvg-id="SBT.NEWS" tvg-name="SBT NES" tvg-logo="https://i.ytimg.com/vi/Ziq7XKAlr6E/maxresdefault.jpg" group-title="Canal aberto",SBT NEWS 
+https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canal aberto",SBT
 http://tv.mapfibra.com.br:8555/live/1012/123456/291.m3u8 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canal aberto",SBT
@@ -219,14 +221,9 @@ http://tv.mapfibra.com.br:8555/live/1021/123456/342.m3u8
 
 --------------------RELIGIOSO-------------------------
 
-#EXTINF:-1 tvg-id="ADORAR"tvg-name="ADORAR" tvg-logo="https://res.cloudinary.com/adorartv/images/c_scale,w_155,h_134,dpr_2/f_auto,q_auto/v1611521386/LogoAdorarTVst/LogoAdorarTVst.png?_i=AA" group-title="Religioso",ADORAR
-http://tv.mapfibra.com.br:8555/live/1012/123456/328.m3u8 
-#EXTINF:-1 tvg-id="ADORAR"tvg-name="ADORAR" tvg-logo="https://res.cloudinary.com/adorartv/images/c_scale,w_155,h_134,dpr_2/f_auto,q_auto/v1611521386/LogoAdorarTVst/LogoAdorarTVst.png?_i=AA" group-title="Religioso",ADORAR
-http://tv.mapfibra.com.br:8555/live/1021/123456/328.m3u8 
-#EXTINF:-1 tvg-id="SBN"tvg-name="SBN" tvg-logo="https://t3.ftcdn.net/jpg/04/73/99/08/360_F_473990876_LKBnN1ZJUlC6IefIUncLnsmr9Ls7svoS.jpg" group-title="Religioso",SBN
-http://tv.mapfibra.com.br:8555/live/1012/123456/329.m3u8 
-#EXTINF:-1 tvg-id="SBN"tvg-name="SBN" tvg-logo="https://t3.ftcdn.net/jpg/04/73/99/08/360_F_473990876_LKBnN1ZJUlC6IefIUncLnsmr9Ls7svoS.jpg" group-title="Religioso",SBN
-http://tv.mapfibra.com.br:8555/live/1021/123456/329.m3u8 
+
+#EXTINF:-1 tvg-id="APPTV"tvg-name="APP TV" tvg-logo="https://i.ytimg.com/vi/N0FTn1v27Rc/hq720.jpg?v=68dc057a&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC_8mCRhBS-GWPu_CHXkqt3tVqC0Q?_i=AA" group-title="Religioso",APP TV
+https://www.youtube.com/embed/N0FTn1v27Rc
 #EXTINF:-1 tvg-id="RedeGenese"tvg-name="REDE GENEGÊS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d1/Rede_genesis.jpg" group-title="Religioso",REDE GENEÊS
 http://tv.mapfibra.com.br:8555/live/1012/123456/287.m3u8 
 #EXTINF:-1 tvg-id="RedeGenese"tvg-name="REDE GENEGÊS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d1/Rede_genesis.jpg" group-title="Religioso",REDE GENEÊS
