@@ -150,6 +150,8 @@ http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/10589.ts
 https://stream1.freetv.fun/0e41cfb0a6409f4585435f7e28cf14d411b36316df458d7710d070a651038c32.ctv
 #EXTINF:-1 tvg-id="FreeTvMultShow" tvg-name="MultShow" tvg-logo="https://images.seeklogo.com/logo-png/9/2/multishow-logo-png_seeklogo-96008.png" group-title="Variedade",multshow
 http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/10624.ts
+#EXTINF:-1 tvg-id="ALWAYS FNNY" tvg-name="MultShow" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWXVe7ylJnE7NC9lcaiNQgjoXg8Bo3HSrT0A&s" group-title="Variedade",FANNY
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="62b5c5a064163d0007b2efe6"tvg-name="Mistérios sem Solução" tvg-logo="https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png" group-title="Variedade",Mistérios sem Solução | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a064163d0007b2efe6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f"tvg-name="Natureza" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="Variedade",Natureza | Pluto TV Brasil 
@@ -220,8 +222,8 @@ https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 https://video01.kshost.com.br/rede1250/rede1250/playlist.m3u8
 #EXTINF:-1 tvg-id="SamsungTvPlusCRBR"tvg-name="CANAL RURAL" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT5sodeAokl394_CiT6sMdPVpP54s2hI8ewwyog2Q=s512-c-k-c0x00ffffff-no-rj" group-title="Variedade",CANAL RURAL
 https://brn-crbr-samsungtvplus-br.otteravision.com/brn/crbr/crbr.m3u8
-#EXTINF:-1 tvg-id="SamsungTvPlusCRBR"tvg-name="CANAL RURAL" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT5sodeAokl394_CiT6sMdPVpP54s2hI8ewwyog2Q=s512-c-k-c0x00ffffff-no-rj" group-title="Variedade",CANAL RURAL
-http://206.212.244.71:8080/5Xchzg/411017/159952
+#EXTINF:-1 tvg-id="PlayTv"tvg-name="Play TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/PlayTV_logomarca.jpg" group-title="Variedade", Play Tv
+http://tv.mapfibra.com.br:8555/live/1012/123456/342.m3u8 
 #EXTINF:-1 tvg-id="PlayTv"tvg-name="Play TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/PlayTV_logomarca.jpg" group-title="Variedade", Play Tv
 http://tv.mapfibra.com.br:8555/live/1021/123456/342.m3u8 
 
@@ -230,6 +232,8 @@ http://tv.mapfibra.com.br:8555/live/1021/123456/342.m3u8
 --------------------RELIGIOSO-------------------------
 
 
+#EXTINF:-1 tvg-id="APPTV"tvg-name="APP TV" tvg-logo="https://i.ytimg.com/vi/N0FTn1v27Rc/hq720.jpg?v=68dc057a&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC_8mCRhBS-GWPu_CHXkqt3tVqC0Q?_i=AA" group-title="Religioso",APP TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766003969/ei/ocBCadrVCeWi-LAPzsXHwAQ/ip/2804%3A14d%3Abe81%3A8347%3A2ce5%3Ad953%3A50eb%3Abd74/id/N0FTn1v27Rc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AYUSA3AXuLEy72-PAeviE9EjIR-SVLVZSakaG9zvo4lHoNOPxv3hWyZkx1QwwtXuPdhCcxuHAg/spc/wH4QqwitiFIo21HEp9vssuPGxZLfNiolTkPtXT3lTO0xuLkvQnHn/vprv/1/go/1/ns/gfHvbRuGAvsumv36BYEdXDcR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/-UtP7EhERxfezkQ-4Y7/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALrXEoqdulN3n6royiZVbo-sCqxvlnxzpx9OJbIwrsYEAiEAxBOZACoUQuea2XMsNUUFUnKtPwzKwZAJw0K9gMiZuhc%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="RedeGenese"tvg-name="REDE GENEGÊS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d1/Rede_genesis.jpg" group-title="Religioso",REDE GENEÊS
 http://tv.mapfibra.com.br:8555/live/1012/123456/287.m3u8 
 #EXTINF:-1 tvg-id="RedeGenese"tvg-name="REDE GENEGÊS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d1/Rede_genesis.jpg" group-title="Religioso",REDE GENEÊS
@@ -311,6 +315,8 @@ https://hrm-sftc.otteravision.com/hrm/sftc/sftc_720p_high.m3u8
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="FIFA_PLUS" tvg-name="FIFA" tvg-logo="https://icon2.cleanpng.com/lnd/20241222/jb/5f86fa00f0d96411dd912694a63f9b.webp" group-title="Esporte",FIFA
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66634bd2ca7b22f4c3a2d731.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=9TF71jbaGr158x9XmXQo
+#EXTINF:-1 tvg-id="FIFA_PLUS" tvg-name="FIFA B" tvg-logo="https://icon2.cleanpng.com/lnd/20241222/jb/5f86fa00f0d96411dd912694a63f9b.webp" group-title="Esporte",FIFA
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="BeinSportsXtra"tvg-name="Bein Sports Xtra" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/Bein.jpg/Zz1mNmExMWMyZWVlNmExMWVmOWJhNjRhYzEwMjk2ODg1YQ==?width=1200" group-title="Esporte",Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BeinSports2"tvg-name="Bein 2" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/Bein.jpg/Zz1mNmExMWMyZWVlNmExMWVmOWJhNjRhYzEwMjk2ODg1YQ==?width=1200" group-title="Esporte",Bein 2
@@ -591,6 +597,8 @@ http://tv.mapfibra.com.br:8555/live/1021/123456/326.m3u8
 
 #EXTINF:-1 tvg-id="SeriesClassicas" tvg-name="Séries Classicas" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p1/7997045-marrom-classico-televisao-com-retro-reproduzir-botao-adequado-fot-canal-logo-t-camiseta-grafico-etc-vetor.jpg" group-title="Series",Séries Classicas
 http://tv.mapfibra.com.br:8555/live/1012/123456/307.m3u8 
+#EXTINF:-1 tvg-id="Series Espnhol" tvg-name="Séries Epanhol" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWXVe7ylJnE7NC9lcaiNQgjoXg8Bo3HSrT0A&s" group-title="Series",Séries 
+https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 #EXTINF:-1 tvg-id="SeriesClassicas" tvg-name="Séries Classicas" tvg-logo="https://static.vecteezy.com/ti/vetor-gratis/p1/7997045-marrom-classico-televisao-com-retro-reproduzir-botao-adequado-fot-canal-logo-t-camiseta-grafico-etc-vetor.jpg" group-title="Series",Séries Classicas
 http://tv.mapfibra.com.br:8555/live/1021/123456/307.m3u8 
 #EXTINF:-1 tvg-id="PlayPcaSerie" tvg-name="PlayPoca Série" tvg-logo="https://play-lh.googleusercontent.com/oNdNIDoyiC2-DAFW5gWo8qnX5k3zLGtKUW0Yn-E-VLKSBb-LLdFvDCKDzI0nNFPXyMtK=s150-rw" group-title="Series",PlayPoca Série
