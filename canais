@@ -230,8 +230,6 @@ http://tv.mapfibra.com.br:8555/live/1021/123456/342.m3u8
 --------------------RELIGIOSO-------------------------
 
 
-#EXTINF:-1 tvg-id="APPTV"tvg-name="APP TV" tvg-logo="https://i.ytimg.com/vi/N0FTn1v27Rc/hq720.jpg?v=68dc057a&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC_8mCRhBS-GWPu_CHXkqt3tVqC0Q?_i=AA" group-title="Religioso",APP TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766003969/ei/ocBCadrVCeWi-LAPzsXHwAQ/ip/2804%3A14d%3Abe81%3A8347%3A2ce5%3Ad953%3A50eb%3Abd74/id/N0FTn1v27Rc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AYUSA3AXuLEy72-PAeviE9EjIR-SVLVZSakaG9zvo4lHoNOPxv3hWyZkx1QwwtXuPdhCcxuHAg/spc/wH4QqwitiFIo21HEp9vssuPGxZLfNiolTkPtXT3lTO0xuLkvQnHn/vprv/1/go/1/ns/gfHvbRuGAvsumv36BYEdXDcR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/-UtP7EhERxfezkQ-4Y7/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALrXEoqdulN3n6royiZVbo-sCqxvlnxzpx9OJbIwrsYEAiEAxBOZACoUQuea2XMsNUUFUnKtPwzKwZAJw0K9gMiZuhc%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="RedeGenese"tvg-name="REDE GENEGÊS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d1/Rede_genesis.jpg" group-title="Religioso",REDE GENEÊS
 http://tv.mapfibra.com.br:8555/live/1012/123456/287.m3u8 
 #EXTINF:-1 tvg-id="RedeGenese"tvg-name="REDE GENEGÊS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d1/Rede_genesis.jpg" group-title="Religioso",REDE GENEÊS
