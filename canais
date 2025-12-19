@@ -10,6 +10,8 @@
 http://tv.mapfibra.com.br:8555/live/1021/123456/276.m3u8 
 #EXTINF:-1 tvg-id="Band" tvg-name="Bande" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Canal aberto",BAND
 http://tv.mapfibra.com.br:8555/live/1012/123456/276.m3u8 
+#EXTINF:-1 tvg-id="GloboPortalegre" tvg-name="GLOBO Portalegre" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO Portalegre
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18246.m3u8
 #EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO NEWS
 http://67.220.85.156:14139
 #EXTINF:-1 tvg-id="UDPChannel49152" tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO
@@ -534,6 +536,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6479ff764
 https://stream1.freetv.fun/0604c70553606db7616c76e42dee573ad64c3c4b809080945531e45df23cdb94.ctv
 #EXTINF:-1 tvg-id="Telecine_Oction_Channel" tvg-name="Telecine Oction" tvg-logo="https://images.seeklogo.com/logo-png/18/1/telecine-action-logo-png_seeklogo-188853.png" group-title="Filmes",Telecine oction
 http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/10645.m3u8
+#EXTINF:-1 tvg-id="HBO_Channel" tvg-name="HBO" tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-logo-png_seeklogo-65764.png" group-title="Filmes",HBO
+http://148.113.160.49:14187/HBO
 #EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-name="Cine Drama" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Filmes",Cine Drama | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-name="Cine Família" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="Filmes",Cine Família | Brasil
@@ -578,6 +582,8 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 https://video01.soultv.com.br/bradoky/bradoky/playlist.m3u8
 #EXTINF:-1 tvg-id="Universal_Channel" tvg-name="Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="Filmes",Universal
 http://67.220.85.156:14053
+#EXTINF:-1 tvg-id="CINEMAX_Channel" tvg-name="CINMAX" tvg-logo="https://images.seeklogo.com/logo-png/30/2/cinemax-logo-png_seeklogo-302185.png" group-title="Filmes",CINEMAX
+http://148.113.160.49:14198/CINEMAX
 #EXTINF:-1 tvg-id="Universal_Channel" tvg-name="Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="Filmes",Universal
 http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/10642.ts
 #EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo.jpg" group-title="Filmes",Space
