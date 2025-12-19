@@ -10,8 +10,6 @@
 http://tv.mapfibra.com.br:8555/live/1021/123456/276.m3u8 
 #EXTINF:-1 tvg-id="Band" tvg-name="Bande" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Canal aberto",BAND
 http://tv.mapfibra.com.br:8555/live/1012/123456/276.m3u8 
-#EXTINF:-1 tvg-id="GloboPortalegre" tvg-name="GLOBO Portalegre" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO Portalegre
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18246.m3u8
 #EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO NEWS
 http://67.220.85.156:14139
 #EXTINF:-1 tvg-id="UDPChannel49152" tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO
@@ -105,9 +103,7 @@ https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
 #EXTINF:-1 tvg-id="SoulTvCnnBrasil"tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Canal aberto",CNN Brasil | Soul TV
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="Futura"tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="Canal aberto",Futura
-http://tv.mapfibra.com.br:8555/live/1012/123456/280.m3u8 
-#EXTINF:-1 tvg-id="Futura"tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="Canal aberto",Futura
-http://tv.mapfibra.com.br:8555/live/1021/123456/280.m3u8 
+http://tv.mapfibra.com.br:8555/live/1012/123456/280.m3u8  
 
 
 -----------------//-URBAN-//--------------------------
