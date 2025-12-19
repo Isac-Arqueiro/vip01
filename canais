@@ -144,6 +144,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9e
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="SuaTvDiscoveryChannel"tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Variedade",Discovery Channel
 http://hls1.sua.tv:80/live/discoverychannelfhd/s.m3u8
+#EXTINF:-1 tvg-id="History2"tvg-name="History2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOy4pV0n1pI_0_xIjFg0sKQ7gQt6cobO1Xw&s" group-title="Variedade",Hitory 2
+http://67.220.85.156:14534/History 2
+#EXTINF:-1 tvg-id="H&H"tvg-name="H&H" tvg-logo="https://i.pinimg.com/736x/cb/ee/51/cbee5187a24efc4d11c0bd3d19181f3d.jpg" group-title="Variedade",H&H
+http://79.127.243.211:14769/H&H
 #EXTINF:-1 tvg-id="SuaTvDiscoveryChannel"tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Variedade",Discovery Channel
 http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/10589.ts
 #EXTINF:-1 tvg-id="FreeTvMultShow" tvg-name="MultShow" tvg-logo="https://images.seeklogo.com/logo-png/9/2/multishow-logo-png_seeklogo-96008.png" group-title="Variedade",multshow
@@ -182,6 +186,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6077045b6
 http://45.235.0.78/Food_Network/playlist.m3u8
 #EXTINF:-1 tvg-id="GloboReceitasFastBR"tvg-name="Receita" tvg-logo="https://s3.glbimg.com/v1/AUTH_05f06ca986b54d6e9c5df94927ccf7fc/receitas/imgs/thumb-redes-sociais-amarelo.png" group-title="Variedade",Receita
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
+#EXTINF:-1 tvg-id="TraceBrasil"tvg-name="Trace Brasil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ0qR7mac2ZA8jG5mrRaF2habWbCbdkIXTXg&s" group-title="Variedade"Trace Brasil
+https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/ts-us-e2-n1/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="6474aadc8e3c0a0008b98493"tvg-name="Curiosidade" tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png" group-title="Variedade",Curiosidade | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aadc8e3c0a0008b98493/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="638df93ae2f2a3000737c168"tvg-name="Detetives Médicos" tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png" group-title="Variedade",Detetives Médicos | Pluto TV Brasil
@@ -232,8 +238,6 @@ http://tv.mapfibra.com.br:8555/live/1021/123456/342.m3u8
 --------------------RELIGIOSO-------------------------
 
 
-#EXTINF:-1 tvg-id="APPTV"tvg-name="APP TV" tvg-logo="https://i.ytimg.com/vi/N0FTn1v27Rc/hq720.jpg?v=68dc057a&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC_8mCRhBS-GWPu_CHXkqt3tVqC0Q?_i=AA" group-title="Religioso",APP TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766003969/ei/ocBCadrVCeWi-LAPzsXHwAQ/ip/2804%3A14d%3Abe81%3A8347%3A2ce5%3Ad953%3A50eb%3Abd74/id/N0FTn1v27Rc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AYUSA3AXuLEy72-PAeviE9EjIR-SVLVZSakaG9zvo4lHoNOPxv3hWyZkx1QwwtXuPdhCcxuHAg/spc/wH4QqwitiFIo21HEp9vssuPGxZLfNiolTkPtXT3lTO0xuLkvQnHn/vprv/1/go/1/ns/gfHvbRuGAvsumv36BYEdXDcR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/-UtP7EhERxfezkQ-4Y7/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALrXEoqdulN3n6royiZVbo-sCqxvlnxzpx9OJbIwrsYEAiEAxBOZACoUQuea2XMsNUUFUnKtPwzKwZAJw0K9gMiZuhc%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="RedeGenese"tvg-name="REDE GENEGÊS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d1/Rede_genesis.jpg" group-title="Religioso",REDE GENEÊS
 http://tv.mapfibra.com.br:8555/live/1012/123456/287.m3u8 
 #EXTINF:-1 tvg-id="RedeGenese"tvg-name="REDE GENEGÊS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d1/Rede_genesis.jpg" group-title="Religioso",REDE GENEÊS
@@ -382,6 +386,8 @@ http://79.127.243.211:14449/COMBATE
 #EXTINF:-1 tvg-id="Combate"tvg-name="COMBATE" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE
 http://67.220.85.156:14510/COMBATE
 #EXTINF:-1 tvg-id="Combate"tvg-name="COMBATE" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE
+http://67.220.85.156:14508/COMBATE
+#EXTINF:-1 tvg-id="Combate"tvg-name="COMBATE" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE
 http://67.220.85.156:14509/COMBATE
 #EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE B" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE
 http://45.235.0.78/Combate/playlist.m3u8
@@ -399,7 +405,8 @@ http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/10581.ts
 ----------------------------------ANIMAÇÃO------------------------------
 
 
-
+#EXTINF:-1 tvg-id="ToonCast" tvg-name="Bob Esponja" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png" group-title="Animação",ToonCat
+http://67.220.85.156:14605/ToonCast
 #EXTINF:-1 tvg-id="5f1aca0b4e448e00075e7c5e" tvg-name="Bob Esponja" tvg-logo="http://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Animação",Bob Esponja 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f1aca0b4e448e00075e7c5e" tvg-name="Bob Esponja" tvg-logo="http://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Animação",Bob Esponja
