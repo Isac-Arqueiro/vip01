@@ -10,8 +10,6 @@
 http://tv.mapfibra.com.br:8555/live/1021/123456/276.m3u8 
 #EXTINF:-1 tvg-id="Band" tvg-name="Bande" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Canal aberto",BAND
 http://tv.mapfibra.com.br:8555/live/1012/123456/276.m3u8 
-#EXTINF:-1 tvg-id="GloboPortalegre" tvg-name="GLOBO Portalegre" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO Portalegre
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18246.m3u8
 #EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO NEWS
 http://67.220.85.156:14139
 #EXTINF:-1 tvg-id="UDPChannel49152" tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO
