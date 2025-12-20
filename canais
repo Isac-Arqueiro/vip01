@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://pluto.freechannels.me/epg.xml,https://i.mjh.nz/PlutoTV/br.xml"
+#EXTM3U x-tvg-url="https://pluto.freechannels.me/epg.xml,https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
 
  
  
@@ -6,31 +6,31 @@
 
 
 
-#EXTINF:-1 tvg-id="Band" tvg-name="Bande" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Canal aberto",BAND
+#EXTINF:-1 tvg-id="Band_Channel" tvg-name="Bande" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Canal aberto",BAND
 http://tv.mapfibra.com.br:8555/live/1021/123456/276.m3u8 
-#EXTINF:-1 tvg-id="Band" tvg-name="Bande" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Canal aberto",BAND
+#EXTINF:-1 tvg-id="Band_Channel" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Canal aberto",BAND
 http://tv.mapfibra.com.br:8555/live/1012/123456/276.m3u8 
-#EXTINF:-1 tvg-id="GloboPortalegre" tvg-name="GLOBO Portalegre" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO Portalegre
+#EXTINF:-1 tvg-id="GloboPortalegre_Channel" tvg-name="GLOBO Portalegre" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO Portalegre
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18246.m3u8
-#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO NEWS
+#EXTINF:-1 tvg-id="GloboNews_Channel" tvg-name="GLOBO NEWS" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO NEWS
 http://67.220.85.156:14139
-#EXTINF:-1 tvg-id="UDPChannel49152" tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO
+#EXTINF:-1 tvg-id="Globo_Chanel" tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO
 http://200.77.176.130:8000/udp/224.0.0.1:49152
-#EXTINF:-1 tvg-id="GloboMinas" tvg-name="GLOBO MINAS" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO MINAS
+#EXTINF:-1 tvg-id="GloboMinas_Channel" tvg-name="GLOBO MINAS" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO MINAS
 http://tv.mapfibra.com.br:8555/live/1012/123456/282.m3u8 
-#EXTINF:-1 tvg-id="GloboMinas" tvg-name="GLOBO MINAS" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO MINAS
+#EXTINF:-1 tvg-id="GloboMinas_Channel" tvg-name="GLOBO MINAS" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO MINAS
 http://tv.mapfibra.com.br:8555/live/1021/123456/282.m3u8 
-#EXTINF:-1 tvg-id="SinalPrivado18246"tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO
+#EXTINF:-1 tvg-id="Globo_Channel"tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18246.ts
-#EXTINF:-1 tvg-id="GloboBahiaFHD" tvg-name="GLOBO BAHIA" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO BHAIA
+#EXTINF:-1 tvg-id="GloboBahia_Channel" tvg-name="GLOBO BAHIA" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO BHAIA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 tvg-id="Canal14011" tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO
+#EXTINF:-1 tvg-id="Glob_Channel" tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO
 http://79.127.243.211:14011/Globo
-#EXTINF:-1 tvg-id="Canal14027"tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO
+#EXTINF:-1 tvg-id="Globo_Channel"tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO
 http://79.127.243.211:14027/Globo
-#EXTINF:-1 tvg-id="GloboRJ2" tvg-name="GLOBO RIO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO RIO
+#EXTINF:-1 tvg-id="Globorj_Channel" tvg-name="GLOBO RIO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO RIO
 https://stream1.freetv.fun/globo-rj-2-1.m3u8
-#EXTINF:-1 tvg-id="VivaPadrao"tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO
+#EXTINF:-1 tvg-id="Globo_Channel"tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/1.m3u8
 #EXTINF:-1 tvg-id="JovemPanNews" tvg-name="Jovem Pan News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png" group-title="Canal aberto",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
@@ -357,45 +357,45 @@ http://79.127.243.211:14469/Sportv
 http://45.235.0.78/SporTV_2/playlist.m3u8
 #EXTINF:-1 tvg-id="FreeTvSporTv3" tvg-name="SporTv 3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="Esporte",SporTv 3
 http://45.235.0.78/SporTV_3/playlist.m3u8
-#EXTINF:-1 tvg-id="ENPN"tvg-name="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN
+#EXTINF:-1 tvg-id="ESPN"tvg-name="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN
 http://45.235.0.78/ESPN/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN2"tvg-name="espn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN 2 port
 http://79.127.243.211:14506/
-#EXTINF:-1 tvg-id="ESPN3"tvg-name="espn 3 inglês" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN 3 ingles
+#EXTINF:-1 tvg-id="ESPN3"tvg-name="espn 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN 3 ingles
 http://79.127.243.211:14510/
-#EXTINF:-1 tvg-id="ESPN3"tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3"tvg-name="eson 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN 3
 http://45.235.0.78/ESPN_3/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN4"tvg-name="espn 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN 4
 http://79.127.243.211:14514/
-#EXTINF:-1 tvg-id="PremiereClube" tvg-name="premiere Club" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere Clube
+#EXTINF:-1 tvg-id="Premiere_Clube" tvg-name="premiere Club" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere Clube
 http://45.235.0.78/Premiere_Clubes/playlist.m3u8
-#EXTINF:-1 tvg-id="PremiereClube" tvg-name="premiere Club" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere Clube
+#EXTINF:-1 tvg-id="Premiere_Clube" tvg-name="premiere Club" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere Clube
 http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/10632.ts
-#EXTINF:-1 tvg-id="Premiere" tvg-name="premiere" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere
+#EXTINF:-1 tvg-id="Channel_Premiere" tvg-name="premiere" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere
 http://79.127.243.211:14497/PREMIRE
-#EXTINF:-1 tvg-id="Premiere" tvg-name="premiere" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere
+#EXTINF:-1 tvg-id="Chanel_Premiere" tvg-name="premiere" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere
 http://79.127.243.211:14493/PREMIRE
-#EXTINF:-1 tvg-id="Premiere2" tvg-name="premiere 2" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere 2
+#EXTINF:-1 tvg-id="Channel_Premiere2" tvg-name="premiere 2" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere 2
 http://45.235.0.78/Premiere_2/playlist.m3u8
-#EXTINF:-1 tvg-id="Premiere3" tvg-name="premiere 3" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere 3
-http://45.235.0.78/Premiere_3/playlist.m3u8
-#EXTINF:-1 tvg-id="Premiere4" tvg-name="premiere 4" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere 4
+#EXTINF:-1 tvg-id="Channel_Premiere3" tvg-name="premiere 3" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere 3
+http://45.235.0.78/Chanl_Premiere_3/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel_Premiere4" tvg-name="premiere 4" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere 4
 http://45.235.0.78/Premiere_4/playlist.m3u8
-#EXTINF:-1 tvg-id="Combate"tvg-name="COMBATE A" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE
+#EXTINF:-1 tvg-id="Channel_Combate"tvg-name="COMBATE A" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE
 http://79.127.243.211:14449/COMBATE
-#EXTINF:-1 tvg-id="Combate"tvg-name="COMBATE" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE
+#EXTINF:-1 tvg-id="Combate_Channel"tvg-name="COMBATE" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE
 http://67.220.85.156:14510/COMBATE
-#EXTINF:-1 tvg-id="Combate"tvg-name="COMBATE" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE
+#EXTINF:-1 tvg-id="Combate_Channel"tvg-name="COMBATE" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE
 http://67.220.85.156:14508/COMBATE
-#EXTINF:-1 tvg-id="Combate"tvg-name="COMBATE" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE
+#EXTINF:-1 tvg-id="Combate_Chanel"tvg-name="COMBATE" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE
 http://67.220.85.156:14509/COMBATE
-#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE B" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE
+#EXTINF:-1 tvg-id="Combate_Channe" tvg-name="COMBATE B" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE
 http://45.235.0.78/Combate/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSporte"tvg-name="Fox Sport 2" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",Fox Sport 2
+#EXTINF:-1 tvg-id="FoxSporte_Channel"tvg-name="Fox Sport 2" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",Fox Sport 2
 http://45.235.0.78/Fox_Sports_2/playlist.m3u8
-#EXTINF:-1 tvg-id="BandSport"tvg-name="Bamd Sport" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",Bande Sport
-http://45.235.0.78/Band_Sports/playlist.m3u8
-#EXTINF:-1 tvg-id="BandSport"tvg-name="Bamd Sport" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",Bande Sport
+#EXTINF:-1 tvg-id="BandSport_Channe"tvg-name="Bamd Sport" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",Bande Sport
+http://45.235.0.78/Band_Sports_Channel/playlist.m3u8
+#EXTINF:-1 tvg-id="BandSport_Channe"tvg-name="Bamd Sport" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",Bande Sport
 http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/10581.ts
 
 
