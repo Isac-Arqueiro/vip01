@@ -80,8 +80,10 @@ http://tv.mapfibra.com.br:8555/live/1012/123456/318.m3u8
 http://tv.mapfibra.com.br:8555/live/1021/123456/318.m3u8 
 #EXTINF:-1 tvg-id="Ottera5431" tvg-name="Record News | RunTime Brasil" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Canal aberto",Record News | RunTime Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
-#EXTINF:-1 tvg-id="CidadeVerdeNovo" tvg-name="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canal aberto",SBT | TV Cidade Verde | Piauí
+#EXTINF:-1 tvg-id="CidadeVerde_Channel" tvg-name="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canal aberto",SBT | TV Cidade Verde | Piauí
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/master.m3u8
+#EXTINF:-1 tvg-id="Cidade_SP_Channel" tvg-name="SBT SP" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canal aberto",SBT SP
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="SBT.NEWS" tvg-name="SBT NES" tvg-logo="https://i.ytimg.com/vi/Ziq7XKAlr6E/maxresdefault.jpg" group-title="Canal aberto",SBT NEWS 
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canal aberto",SBT
@@ -94,8 +96,10 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1094980537.m3u8
 #EXTINF:-1 tvg-id="SbtPara"tvg-name="SBTPara.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canal aberto",SBT | TV Guajará | Tailândia | PA
 https://video05.logicahost.com.br/tvguajara/tvguajara/master.m3u8
-#EXTINF:-1 tvg-id="RedeTvParana" tvg-name"redetvparana" tvg-name="REDE TV" tvg-logo="https://www.publicitarioscriativos.com/wp-content/uploads/2019/11/redetv1-768x432.png" group-title="Canal aberto",REDE TV paraná
+#EXTINF:-1 tvg-id="Redetv_Parana_Channel" tvg-name"redetvparana" tvg-name="REDE TV" tvg-logo="https://www.publicitarioscriativos.com/wp-content/uploads/2019/11/redetv1-768x432.png" group-title="Canal aberto",REDE TV paraná
 https://tv01.zas.media:1936/redetvparana/redetvparana/index.m3u8
+#EXTINF:-1 tvg-id="Redetv_Parana_Channel" tvg-name="REDE TV SP" tvg-logo="https://www.publicitarioscriativos.com/wp-content/uploads/2019/11/redetv1-768x432.png" group-title="Canal aberto",REDE SP
+https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1074634538.m3u8
 #EXTINF:-1 tvg-id="RedeTvParana" tvg-name"RedeTv" tvg-name="REDE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/05/Logotipo_da_RedeTV%21_%282015%E2%80%932019%29.png" group-title="Canal aberto",REDE TV
 http://tv.mapfibra.com.br:8555/live/1012/123456/289.m3u8 
 #EXTINF:-1 tvg-id="RedeTvParana" tvg-name"RedeTv" tvg-name="REDE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/05/Logotipo_da_RedeTV%21_%282015%E2%80%932019%29.png" group-title="Canal aberto",REDE TV
@@ -700,6 +704,8 @@ https://011news.akamaized.net/011news/011news/playlist.m3u8
 https://cdn.lincemedia.com.br/BH_CHANNEL/index.m3u8?token=KG_0nYulChvS5UWiNUZEbVsVDnx
 #EXTINF:-1 tvg-id="RedeMeio" tvg-name="Rede meio" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="News",Rede meio
 https://isaocorp.cloudecast.com/redemeio/index.m3u8
+#EXTINF:-1 tvg-id="TvGov_Chanel" tvg-name="Tv Gov" tvg-logo="https://www.otempo.com.br/content/dam/otempo/editorias/politica/governo/2023/7/politica-canal-gov-governo-federal-executivo-1708802990.jpeg" group-title="News",Tv Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
 
 ----------------CLASSIC-----------
 
