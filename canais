@@ -129,10 +129,12 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/110.m3u8
 #EXTINF:-1 tvg-id="VivaTele111" tvg-name="URBAN TRAVEL" tvg-logo="https://www.urbanplay.com.br/archives/23-urban-travel-png_22814-vwd27n3oby/retrieve" group-title="URBAN",URBAN TRAVEL
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/111.m3u8
 
+
 -----------------------------------------Variedades------------------------------------
 
 
-
+#EXTINF:-1 tvg-id="COZI.TV"tvg-name="COZI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcj_XCTEQdRkc9_Uqk5S0FACk-ut8ZW9wKAg&s" group-title="Variedade",COZI TV
+http://84.17.40.25/COZI_TV/mono.m3u8
 #EXTINF:-1 tvg-id="ISTV"tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" group-title="Variedade",ISTV
 http://tv.mapfibra.com.br:8555/live/1012/123456/348.m3u8 
 #EXTINF:-1 tvg-id="ISTV"tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" group-title="Variedade",ISTV
