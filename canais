@@ -207,6 +207,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef2302
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Food_Network"tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Variedade",Food_Network
 http://45.235.0.78/Food_Network/playlist.m3u8
+#EXTINF:-1 tvg-id="Food.Network.usa"tvg-name="Food Network USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Variedade",Food_Network USA
+https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="GloboReceitasFastBR"tvg-name="Receita" tvg-logo="https://s3.glbimg.com/v1/AUTH_05f06ca986b54d6e9c5df94927ccf7fc/receitas/imgs/thumb-redes-sociais-amarelo.png" group-title="Variedade",Receita
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 #EXTINF:-1 tvg-id="TraceBrasil"tvg-name="Trace Brasil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ0qR7mac2ZA8jG5mrRaF2habWbCbdkIXTXg&s" group-title="Variedade"Trace Brasil
@@ -289,8 +291,10 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 http://tv.mapfibra.com.br:8555/live/1012/123456/302.m3u8 
 #EXTINF:-1 tvg-id="NovoTempo"tvg-name="Novo Tempo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="Religioso",Novo Tempo
 http://tv.mapfibra.com.br:8555/live/1021/123456/302.m3u8 
-#EXTINF:-1 tvg-id="RitTv" tvg-name="RIT TV" tvg-logo="https://i.imgur.com/Unjs1wi.png" group-title="Religioso",RIT TV 
+#EXTINF:-1 tvg-id="Rit.Tv" tvg-name="RIT TV" tvg-logo="https://i.imgur.com/Unjs1wi.png" group-title="Religioso",RIT TV 
 https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 tvg-id="Rit.Tv" tvg-name="RIT TV" tvg-logo="https://i.imgur.com/Unjs1wi.png" group-title="Religioso",RIT TV
+https://cdn-1.nxplay.com.br/RIT_TV/index.m3u8
 #EXTINF:-1 tvg-id="CancaoNova"tvg-name="Cancao Nova" tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="Religioso",TV Cancao Nova 
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CancaoNova"tvg-name="TV Cancao Nova" tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="Religioso",TV Cancao Nova 
@@ -438,10 +442,8 @@ http://67.220.85.156:14509/COMBATE
 http://45.235.0.78/Combate/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSporte_Channel"tvg-name="Fox Sport 2" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",Fox Sport 2
 http://45.235.0.78/Fox_Sports_2/playlist.m3u8
-#EXTINF:-1 tvg-id="BandSport_Channe"tvg-name="Bamd Sport" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",Bande Sport
-http://45.235.0.78/Band_Sports_Channel/playlist.m3u8
-#EXTINF:-1 tvg-id="BandSport_Channe"tvg-name="Bamd Sport" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",Bande Sport
-http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/10581.ts
+ tvg-id="BandSport_Channe"tvg-name="Bamd Sport" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",Bande Sport
+
 
 
 
