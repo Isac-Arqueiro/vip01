@@ -754,7 +754,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f6
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Malhacao_Channel" tvg-name="Malhação" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4f/Logotipo_de_Malha%C3%A7%C3%A3o_%282002-2005%29.png" group-title="Series",Malhação
 https://amg00716-globo-amg00716c4-tcl-br-9499.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva" tvg-logo="https://imagem.natelinha.uol.com.br/original/canalviva2_59de2e17c2cd9a1f7a709d0fdafeea4b2eddb7e1.jpeg" group-title="Series", Viva
+#EXTINF:-1 tvg-id="ReViva.br" tvg-name="ReViva tv" tvg-logo="https://imagem.natelinha.uol.com.br/original/canalviva2_59de2e17c2cd9a1f7a709d0fdafeea4b2eddb7e1.jpeg" group-title="Series", ReViva Tv
 https://stmv.webtvninjas.com.br/webtvni1/webtvni1/chunklist_w1869807793.m3u8
 #EXTINF:-1 tvg-id="MrBean_Channel" tvg-name="Mr. Bean" tvg-logo="https://toppng.com/uploads/preview/mr-bean-logo-mr-bea-11563004365gokvge016x.png" group-title="Series",Mr. Bean
 https://amg00627-banijay-amg00627c48-tcl-us-8096.playouts.now.amagi.tv/playlist.m3u8
@@ -772,8 +772,7 @@ https://cdn.live.br1.jmvstream.com/webtv/tvacessochannel/playlist/playlist.m3u8
 https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w903940777.m3u8
 #EXTINF:-1 tvg-id="AnosIncriveis" tvg-name="Anos incriveis" tvg-logo="https://pm1.aminoapps.com/6788/6735b67cdf4b6299c67b8320b5afa3519056cf7cv2_hq.jpg" group-title="Series", Anos incriveis
 https://video04.logicahost.com.br/isonata/isonata/index.m3u8
-#EXTINF:-1 tvg-id="Netmovies" tvg-name="Netmovies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOMcOpw0cS8vnr50WaEX6SD0l18a9Vt_Cxjg&s" group-title="Series", Netmovies
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/663b9de4f999220008230fa8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
 
 
 ------------//-RunTime----------------------
