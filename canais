@@ -133,7 +133,7 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/111.m3u8
 -----------------------------------------Variedades------------------------------------
 
 
-#EXTINF:-1 tvg-id="CaracolMix"tvg-name="Caracol Mix Esp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" group-title="Variedade"Caracol mix
+#EXTINF:-1 tvg-id="CaracolMix"tvg-name="Caracol Mix Esp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" group-title="Variedade",Caracol mix
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Caracol/Caracol_Mix_MX/Caracol_Mix.m3u8
 #EXTINF:-1 tvg-id="COZI.TV"tvg-name="COZI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcj_XCTEQdRkc9_Uqk5S0FACk-ut8ZW9wKAg&s" group-title="Variedade",COZI TV
 http://84.17.40.25/COZI_TV/mono.m3u8
@@ -223,9 +223,9 @@ http://45.235.0.78/Food_Network/playlist.m3u8
 https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="GloboReceitasFastBR"tvg-name="Receita" tvg-logo="https://s3.glbimg.com/v1/AUTH_05f06ca986b54d6e9c5df94927ccf7fc/receitas/imgs/thumb-redes-sociais-amarelo.png" group-title="Variedade",Receita
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
-#EXTINF:-1 tvg-id="TraceBrasil"tvg-name="Trace Brasil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ0qR7mac2ZA8jG5mrRaF2habWbCbdkIXTXg&s" group-title="Variedade"Trace Brasil
+#EXTINF:-1 tvg-id="TraceBrasil"tvg-name="Trace Brasil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ0qR7mac2ZA8jG5mrRaF2habWbCbdkIXTXg&s" group-title="Variedade",Trace Brasil
 https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/ts-us-e2-n1/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceBrasil"tvg-name="Trace Brasil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ0qR7mac2ZA8jG5mrRaF2habWbCbdkIXTXg&s" group-title="Variedade"Trace Brasil
+#EXTINF:-1 tvg-id="TraceBrasil"tvg-name="Trace Brasil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ0qR7mac2ZA8jG5mrRaF2habWbCbdkIXTXg&s" group-title="Variedade",Trace Brasil
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="6474aadc8e3c0a0008b98493"tvg-name="Curiosidade" tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png" group-title="Variedade",Curiosidade | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aadc8e3c0a0008b98493/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
