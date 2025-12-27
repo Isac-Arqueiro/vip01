@@ -773,7 +773,7 @@ https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w903940777
 #EXTINF:-1 tvg-id="AnosIncriveis" tvg-name="Anos incriveis" tvg-logo="https://pm1.aminoapps.com/6788/6735b67cdf4b6299c67b8320b5afa3519056cf7cv2_hq.jpg" group-title="Series", Anos incriveis
 https://video04.logicahost.com.br/isonata/isonata/index.m3u8
 #EXTINF:-1 tvg-id="Netmovies" tvg-name="Netmovies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOMcOpw0cS8vnr50WaEX6SD0l18a9Vt_Cxjg&s" group-title="Series", Netmovies
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/663b9de4f999220008230fa8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/663b9de4f999220008230fa8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 
 ------------//-RunTime----------------------
