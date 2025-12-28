@@ -611,15 +611,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="Filmes",Adrenalina Freezone | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="AXN_Channel" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/1200px-AXN_Movies_logo.jpg" group-title="Filmes",AXN
-http://79.127.238.228:14563/14009/AXN
-#EXTINF:-1 tvg-id="AXN_Channel" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/1200px-AXN_Movies_logo.jpg" group-title="Filmes",AXN
-http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/10578.ts
-#EXTINF:-1 tvg-id="AXN_Channel" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/1200px-AXN_Movies_logo.jpg" group-title="Filmes",AXN
-http://79.127.238.228:14563/14007/AXN
-#EXTINF:-1 tvg-id="AXN_Channel_Espanhol" tvg-name="AMC ESPANHOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Filmes",AMC ESPANHOL
+#EXTINF:-1 tvg-id="AMC_Channel_Espanhol" tvg-name="AMC ESPANHOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Filmes",AMC ESPANHOL
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AXN_Channel_USA" tvg-name="AMC USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Filmes",AMC USA
+#EXTINF:-1 tvg-id="AMC_Channel_USA" tvg-name="AMC USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Filmes",AMC USA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="AMC_Channel" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Filmes",AMC
 http://45.235.0.78/AMC/playlist.m3u8
@@ -633,8 +627,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3d
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="TelecineOction_Channel" tvg-name="Telecine Oction" tvg-logo="https://images.seeklogo.com/logo-png/18/1/telecine-action-logo-png_seeklogo-188853.png" group-title="Filmes",Telecine oction
 https://stream1.freetv.fun/0604c70553606db7616c76e42dee573ad64c3c4b809080945531e45df23cdb94.ctv
-#EXTINF:-1 tvg-id="TelecineOction_Channel" tvg-name="Telecine Oction" tvg-logo="https://images.seeklogo.com/logo-png/18/1/telecine-action-logo-png_seeklogo-188853.png" group-title="Filmes",Telecine oction
-http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/10645.m3u8
 #EXTINF:-1 tvg-id="HBO_Channel" tvg-name="HBO" tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-logo-png_seeklogo-65764.png" group-title="Filmes",HBO
 http://148.113.160.49:14187/HBO
 #EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-name="Cine Drama" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Filmes",Cine Drama | Pluto TV Brasil
@@ -770,8 +762,7 @@ https://d185afac7321401888ff3bb2fae7ccfc.mediatailor.us-east-1.amazonaws.com/v1/
 https://cdn.live.br1.jmvstream.com/webtv/tvacessochannel/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="serieclassic" tvg-name="Séries Clássicas" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/240/240_img_bg_image_293x165_small.jpg" group-title="Series",Sésrie Clássicas
 https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w903940777.m3u8
-#EXTINF:-1 tvg-id="AnosIncriveis" tvg-name="Anos incriveis" tvg-logo="https://pm1.aminoapps.com/6788/6735b67cdf4b6299c67b8320b5afa3519056cf7cv2_hq.jpg" group-title="Series", Anos incriveis
-https://video04.logicahost.com.br/isonata/isonata/index.m3u8
+
 
 
 
@@ -811,16 +802,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 
 ---------//-NEWS-//-------------------------
 
-#EXTINF:-1 tvg-id="011news" tvg-name="011 News" tvg-logo="https://i.imgur.com/ZO2qtTH.png" group-title="News",011 News | Brasil
-https://011news.akamaized.net/011news/011news/playlist.m3u8
+
 #EXTINF:-1 tvg-id="011news" tvg-name="011 News | Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ZO2qtTH.png" group-title="News",011 News | Brasil
 https://011news.akamaized.net/011news/011news/playlist.m3u8
 #EXTINF:-1 tvg-id="Ultra_tv" tvg-name="Ultra tv" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="News",Ultra tv
 https://cdn.lincemedia.com.br/BH_CHANNEL/index.m3u8?token=KG_0nYulChvS5UWiNUZEbVsVDnx
 #EXTINF:-1 tvg-id="RedeMeio" tvg-name="Rede meio" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="News",Rede meio
 https://isaocorp.cloudecast.com/redemeio/index.m3u8
-#EXTINF:-1 tvg-id="TvGov_Chanel" tvg-name="Tv Gov" tvg-logo="https://www.otempo.com.br/content/dam/otempo/editorias/politica/governo/2023/7/politica-canal-gov-governo-federal-executivo-1708802990.jpeg" group-title="News",Tv Gov
-https://canalgov-stream.ebc.com.br/index.m3u8
+
 
 ----------------CLASSIC-----------
 
@@ -828,8 +817,6 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="ngt" tvg-name="Rede NGT" tvg-logo="https://i.imgur.com/ZFN1R4B.png" group-title="Classic",Rede NGT 
 https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1  tvg-id="AWTV" tvg-name="AWTV" tvg-logo="https://awtv.com.br/wp-content/uploads/2025/05/AWTV-STREAMING-300x138.png" group-title="Classic",AWTV
-https://streaming.cloudecast.com/hls/awtv/index.m3u8
 #EXTINF:-1  tvg-id="AWTV" tvg-name="AWTV" tvg-logo="https://awtv.com.br/wp-content/uploads/2025/05/AWTV-STREAMING-300x138.png" group-title="Classic",AWTV
 http://tv.mapfibra.com.br:8555/live/1012/123456/315.m3u8 
 #EXTINF:-1  tvg-id="ClassiqueTv" tvg-name="Classique Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQMt8ROzYSMXc-3LGk3ynTnA0tt6yZmLmdQ&s" group-title="Classic",ClassiqueTv
