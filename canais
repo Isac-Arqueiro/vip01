@@ -459,8 +459,6 @@ http://45.235.0.78/ESPN_3/playlist.m3u8
 http://79.127.243.211:14514/
 #EXTINF:-1 tvg-id="Premiere_Clube" tvg-name="premiere Club" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere Clube
 http://45.235.0.78/Premiere_Clubes/playlist.m3u8
-#EXTINF:-1 tvg-id="Premiere_Clube" tvg-name="premiere Club" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere Clube
-http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/10632.ts
 #EXTINF:-1 tvg-id="Channel_Premiere" tvg-name="premiere" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere
 http://79.127.243.211:14497/PREMIRE
 #EXTINF:-1 tvg-id="Chanel_Premiere" tvg-name="premiere" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere
@@ -481,9 +479,7 @@ http://67.220.85.156:14508/COMBATE
 http://67.220.85.156:14509/COMBATE
 #EXTINF:-1 tvg-id="Combate_Channe" tvg-name="COMBATE B" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE
 http://45.235.0.78/Combate/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSporte_Channel"tvg-name="Fox Sport 2" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",Fox Sport 2
-http://45.235.0.78/Fox_Sports_2/playlist.m3u8
- tvg-id="BandSport_Channe"tvg-name="Bamd Sport" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",Bande Sport
+
 
 
 
