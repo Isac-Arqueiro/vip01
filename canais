@@ -130,7 +130,7 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/110.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/111.m3u8
 
 
------------------------------------------Variedades------------------------------------
+-------------------Variedades------------------------------------
 
 
 #EXTINF:-1 tvg-id="CaracolMix"tvg-name="Caracol Mix Esp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" group-title="Variedade",Caracol mix
@@ -357,7 +357,7 @@ http://tv.mapfibra.com.br:8555/live/1012/123456/300.m3u8
 
 
 
--------------------------------------ESPORTE--------------------------
+--------------------------ESPORTE--------------------------
 
 
 
@@ -407,10 +407,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66997e8d3a4ad20008e50b
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-id="BeinSportsXtra"tvg-name="Bein Sports Xtra" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/Bein.jpg/Zz1mNmExMWMyZWVlNmExMWVmOWJhNjRhYzEwMjk2ODg1YQ==?width=1200" group-title="Esporte",Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BeinSportsXtra"tvg-name="Bein Sports" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/Bein.jpg/Zz1mNmExMWMyZWVlNmExMWVmOWJhNjRhYzEwMjk2ODg1YQ==?width=1200" group-title="Esporte",Bein Sports
-http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BeinSports2"tvg-name="Bein 2" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/Bein.jpg/Zz1mNmExMWMyZWVlNmExMWVmOWJhNjRhYzEwMjk2ODg1YQ==?width=1200" group-title="Esporte",Bein 2
-https://live.streamgatos.top/hls/883/stream.m3u8
 #EXTINF:-1 tvg-id="nsports" tvg-name="NSPORTs" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/323/img_background_image_web.jpg" group-title="Esporte",NSPORTs
 https://video01.soultv.com.br/nsports/nsports/chunklist_w2062411981.m3u8
 #EXTINF:-1 tvg-id="64df7ab4dfa32400083c517b"tvg-name="DAZN Combate" tvg-logo="https://images.pluto.tv/channels/64df7ab4dfa32400083c517b/colorLogoPNG.png" group-title="Esporte",DAZN Combat - inglês e português | Pluto TV Brasil
