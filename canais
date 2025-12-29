@@ -175,8 +175,6 @@ http://67.220.85.156:14534/History 2
 http://104.255.88.155/history/index.m3u8
 #EXTINF:-1 tvg-id="H&H"tvg-name="H&H" tvg-logo="https://i.pinimg.com/736x/cb/ee/51/cbee5187a24efc4d11c0bd3d19181f3d.jpg" group-title="Variedade",H&H
 http://79.127.243.211:14769/H&H
-#EXTINF:-1 tvg-id="SuaTvDiscoveryChannel"tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Variedade",Discovery Channel
-http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/10589.ts
 #EXTINF:-1 tvg-id="FreeTvMultShow" tvg-name="MultShow" tvg-logo="https://images.seeklogo.com/logo-png/9/2/multishow-logo-png_seeklogo-96008.png" group-title="Variedade",multshow
 https://stream1.freetv.fun/0e41cfb0a6409f4585435f7e28cf14d411b36316df458d7710d070a651038c32.ctv
 #EXTINF:-1 tvg-id="FreeTvMultShow" tvg-name="MultShow" tvg-logo="https://images.seeklogo.com/logo-png/9/2/multishow-logo-png_seeklogo-96008.png" group-title="Variedade",multshow
@@ -189,8 +187,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a06
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="MoveOnjoyAnimalPlanet"tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Variedade",Animal Planet
 https://fl1.moveonjoy.com/Animal_Planet/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Variedade",Animal Planet
-http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/10577.ts
 #EXTINF:-1 tvg-id=""tvg-name="in wild tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYjYfrzAx-o2crQ17H0Z5obVvBBNtdSGyTrQ&s" group-title="Variedade", in wild tv
 https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="45235078AnimalPlanet"tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Variedade",Animal Planet
@@ -203,8 +199,6 @@ https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="6014761dfb91870008ea6463" tvg-name="Turbo" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="Variedade",Turbo | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="Dicovey Turbo" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="Variedade",Dicvery Turbo
-https://tvsen6.aynaott.com/discovery_turbo/index.m3u8
 #EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8"tvg-name="Investigação" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="Variedade",Investigação | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="656e2a4b4261ca00083aa99e"tvg-name="Acumuladores Obsessivos" tvg-logo="https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png" group-title="Variedade",Acumuladores Obsessivos | Pluto TV Brasil 
@@ -273,12 +267,9 @@ https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafric
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 #EXTINF:-1 tvg-id="rede1250" tvg-name="tv brasil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAhpwQfoMewimGa30moDYXf80oPR8_-Z4BCA&s" group-title="Variedade",Tv Brasil
 https://video01.kshost.com.br/rede1250/rede1250/playlist.m3u8
-#EXTINF:-1 tvg-id="SamsungTvPlusCRBR"tvg-name="CANAL RURAL" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT5sodeAokl394_CiT6sMdPVpP54s2hI8ewwyog2Q=s512-c-k-c0x00ffffff-no-rj" group-title="Variedade",CANAL RURAL
-https://brn-crbr-samsungtvplus-br.otteravision.com/brn/crbr/crbr.m3u8
 #EXTINF:-1 tvg-id="PlayTv"tvg-name="Play TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/PlayTV_logomarca.jpg" group-title="Variedade", Play Tv
 http://tv.mapfibra.com.br:8555/live/1012/123456/342.m3u8 
-#EXTINF:-1 tvg-id="PlayTv"tvg-name="Play TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/PlayTV_logomarca.jpg" group-title="Variedade", Play Tv
-http://tv.mapfibra.com.br:8555/live/1021/123456/342.m3u8 
+ 
 
 
 
@@ -486,7 +477,7 @@ http://45.235.0.78/Combate/playlist.m3u8
 
 
 
-----------------------------------ANIMAÇÃO------------------------------
+-------------------ANIMAÇÃO------------------------------
 
 
 #EXTINF:-1 tvg-id=""tvg-name="Os Padrinhos Mágicos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Os_padrinhos_m%C3%A1gicos_logo.png" group-title="Animação",Os Padrihos Mágicos
@@ -552,7 +543,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41a
 
 
 
------------------------------------KIDs-------------------------------------
+----------------------KIDs-------------------------------------
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Pocoyo" tvg-logo="https://i.pinimg.com/736x/30/35/9d/30359d80071638c043ae1d7b53a292e1.jpg" group-title="Kids", Pocoyo
@@ -606,7 +597,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8
 
 
 
-------------------------------------FILMES-------------------------------------------
+------------------FILMES-------------------------------------------
 
 
 
@@ -709,7 +700,7 @@ http://tv.mapfibra.com.br:8555/live/1021/123456/326.m3u8
 
 
 
---------------------//SÉRIS//-----------
+--------------------//SÉRIES//-----------
 
 #EXTINF:-1 tvg-id="620ff46e0a576e0007dc2f89" tvg-name="iCarly" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="Animação",iCarly | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
