@@ -362,8 +362,7 @@ http://tv.mapfibra.com.br:8555/live/1012/123456/300.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Racer Brasil" tvg-id="Racer Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/NascarBrasil_Primary-main.png" group-title="Esporte", Racer Brasil
-https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Hard Knocks Fight Championship" tvg-id="Hard Knocks Fight Championship" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mK6g_wkxcJhSrCRwaW5t4NW5gSQD8hLQrttEmB3lO9uA=s900-c-k-c0x00ffffff-no-rj" group-title="Esporte", Hard Knocks Fight Championship
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="Glory Kickboxing" tvg-logo="https://i.pinimg.com/736x/96/57/c7/9657c787f70fffcc00975bc4b8b233d4.jpg" group-title="Esporte", Glory Kickboxing
@@ -373,7 +372,7 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="Desimpedidos" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/460d91174548417.Y3JvcCwxMDc5LDg0NCw2MSww.png" group-title="Esporte", Desimpedidos
 https://ogc-desi-tcl-roku-syndication.otteravision.com/ogc/desi/desi_h265.m3u8
 #EXTINF:-1 tvg-id="EuroSort_Channel" tvg-id="EuroSport" tvg-logo="https://cdn.awsli.com.br/400x300/1785/1785030/logo/logo-branco-1gjh6hwq7n.JPG" group-title="Esporte", EuroSport
-http://62.131.195.211:8086/8.ts
+http://62.131.195.211:8086/8.m3u8
 #EXTINF:-1 tvg-id="MaxSport1" tvg-id="Max Sport" tvg-logo="https://static.wikia.nocookie.net/the-fake-logos-of-the-world/images/0/06/1_0_19_2BF_0_0_1862F7C_0_0_0.png/revision/latest?cb=20230711013438&path-prefix=bg" group-title="Esporte", Max Sport
 http://77.46.130.252:99/maxsport1
 #EXTINF:-1 tvg-id="MaxSport2" tvg-id="Max Sport2" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/max-sport-2-hd-371x230-new-logo.png" group-title="Esporte", Max Sport 2
