@@ -23,8 +23,6 @@ http://tv.mapfibra.com.br:8555/live/1021/123456/282.m3u8
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18246.ts
 #EXTINF:-1 tvg-id="Globo.Bahia.br" tvg-name="GLOBO BAHIA" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO BHAIA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 tvg-id="Glob.br" tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO
-http://79.127.243.211:14011/Globo
 #EXTINF:-1 tvg-id="Globo.br"tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO
 http://79.127.243.211:14027/Globo
 #EXTINF:-1 tvg-id="Globo.rj.br" tvg-name="GLOBO RIO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO RIO
@@ -109,8 +107,7 @@ https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="Futura"tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="Canal aberto",Futura
 http://tv.mapfibra.com.br:8555/live/1012/123456/280.m3u8 
-#EXTINF:-1 tvg-id="Futura"tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="Canal aberto",Futura
-http://tv.mapfibra.com.br:8555/live/1021/123456/280.m3u8 
+ 
 
 
 -----------------//-URBAN-//--------------------------
@@ -126,8 +123,6 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/107.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/108.m3u8
 #EXTINF:-1 tvg-id="VivaTele110" tvg-name="URBAN SERIES" tvg-logo="https://www.urbanplay.com.br/archives/21-urban-series-png_21570-1uxfpsxoedh/retrieve" group-title="URBAN",URBAN SERIES
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/110.m3u8
-#EXTINF:-1 tvg-id="VivaTele111" tvg-name="URBAN TRAVEL" tvg-logo="https://www.urbanplay.com.br/archives/23-urban-travel-png_22814-vwd27n3oby/retrieve" group-title="URBAN",URBAN TRAVEL
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/111.m3u8
 
 
 -------------------Variedades------------------------------------
