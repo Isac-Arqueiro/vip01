@@ -166,9 +166,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8c
 #EXTINF:-1 tvg-id="SuaTvDiscoveryChannel"tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Variedade",Discovery Channel
 http://hls1.sua.tv:80/live/discoverychannelfhd/s.m3u8
 #EXTINF:-1 tvg-id="SuaTvDiscoveryChannel"tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Variedade",Discovery Channel
+http://104.255.88.155/discovery/index.m3u8
+#EXTINF:-1 tvg-id="SuaTvDiscoveryChannel"tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Variedade",Discovery Channel
 https://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-id="History2"tvg-name="History2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOy4pV0n1pI_0_xIjFg0sKQ7gQt6cobO1Xw&s" group-title="Variedade",Hitory 2
 http://67.220.85.156:14534/History 2
+#EXTINF:-1 tvg-id="History.usa"tvg-name="History USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOy4pV0n1pI_0_xIjFg0sKQ7gQt6cobO1Xw&s" group-title="Variedade",Hitory US
+http://104.255.88.155/history/index.m3u8
 #EXTINF:-1 tvg-id="H&H"tvg-name="H&H" tvg-logo="https://i.pinimg.com/736x/cb/ee/51/cbee5187a24efc4d11c0bd3d19181f3d.jpg" group-title="Variedade",H&H
 http://79.127.243.211:14769/H&H
 #EXTINF:-1 tvg-id="SuaTvDiscoveryChannel"tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Variedade",Discovery Channel
@@ -193,6 +197,8 @@ https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg008
 http://45.235.0.78/Animal_Planet/playlist.m3u8
 #EXTINF:-1 tvg-name="wildearth" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyg2s-zMHieuGYpiSTr0T57Dj4tC3QeFKRTw&s" group-title="Variedade",wildearth
 https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-name="wildearth" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyg2s-zMHieuGYpiSTr0T57Dj4tC3QeFKRTw&s" group-title="Variedade",wildearth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-id="6298bd10d88ef000073f16b7" tvg-name="Smithsonian Channel" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="Variedade",Smithsonian Channel | legendado | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="6014761dfb91870008ea6463" tvg-name="Turbo" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="Variedade",Turbo | Pluto TV Brasil
@@ -354,6 +360,8 @@ http://tv.mapfibra.com.br:8555/live/1012/123456/300.m3u8
 -------------------------------------ESPORTE--------------------------
 
 
+
+
 #EXTINF:-1 tvg-id="Racer Brasil" tvg-id="Racer Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/NascarBrasil_Primary-main.png" group-title="Esporte", Racer Brasil
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Hard Knocks Fight Championship" tvg-id="Hard Knocks Fight Championship" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mK6g_wkxcJhSrCRwaW5t4NW5gSQD8hLQrttEmB3lO9uA=s900-c-k-c0x00ffffff-no-rj" group-title="Esporte", Hard Knocks Fight Championship
@@ -366,6 +374,12 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 https://ogc-desi-tcl-roku-syndication.otteravision.com/ogc/desi/desi_h265.m3u8
 #EXTINF:-1 tvg-id="EuroSort_Channel" tvg-id="EuroSport" tvg-logo="https://cdn.awsli.com.br/400x300/1785/1785030/logo/logo-branco-1gjh6hwq7n.JPG" group-title="Esporte", EuroSport
 http://62.131.195.211:8086/8.ts
+#EXTINF:-1 tvg-id="MaxSport1" tvg-id="Max Sport" tvg-logo="https://static.wikia.nocookie.net/the-fake-logos-of-the-world/images/0/06/1_0_19_2BF_0_0_1862F7C_0_0_0.png/revision/latest?cb=20230711013438&path-prefix=bg" group-title="Esporte", Max Sport
+http://77.46.130.252:99/maxsport1
+#EXTINF:-1 tvg-id="MaxSport2" tvg-id="Max Sport2" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/max-sport-2-hd-371x230-new-logo.png" group-title="Esporte", Max Sport 2
+http://77.46.130.252:99/maxsport2
+#EXTINF:-1 tvg-id="MaxSport3" tvg-id="Max Sport3" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/max-sport-3-hd-371x230-new-logo.png" group-title="Esporte", Max Sport 3
+http://77.46.130.252:99/maxsport3
 #EXTINF:-1 tvg-id="63dac28760bc8f0008a7654b" tvg-id="RealMadrid" tvg-logo="https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png" group-title="Esporte",RealMadrid TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="" tvg-id="RealMadrid" tvg-logo="https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png" group-title="Esporte",RealMadrid TV | Pluto TV Brasil
@@ -615,6 +629,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b98
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC_Channel_USA" tvg-name="AMC USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Filmes",AMC USA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="AMC_Channel_USA" tvg-name="AMC USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Filmes",AMC USA
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC_Channel" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Filmes",AMC
 http://45.235.0.78/AMC/playlist.m3u8
 #EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-name="Cine Clássicos" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="Filmes",Cine Clássicos | Pluto TV Brasil
@@ -629,6 +645,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6479ff764
 https://stream1.freetv.fun/0604c70553606db7616c76e42dee573ad64c3c4b809080945531e45df23cdb94.ctv
 #EXTINF:-1 tvg-id="HBO_Channel" tvg-name="HBO" tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-logo-png_seeklogo-65764.png" group-title="Filmes",HBO
 http://148.113.160.49:14187/HBO
+#EXTINF:-1 tvg-id="HBO_Channel" tvg-name="HBO" tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-logo-png_seeklogo-65764.png" group-title="Filmes",HBO
+http://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-name="Cine Drama" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Filmes",Cine Drama | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-name="Cine Família" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="Filmes",Cine Família | Brasil
@@ -821,4 +839,3 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8
 http://tv.mapfibra.com.br:8555/live/1012/123456/315.m3u8 
 #EXTINF:-1  tvg-id="ClassiqueTv" tvg-name="Classique Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQMt8ROzYSMXc-3LGk3ynTnA0tt6yZmLmdQ&s" group-title="Classic",ClassiqueTv
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
-
