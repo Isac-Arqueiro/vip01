@@ -9,6 +9,10 @@
 http://tv.mapfibra.com.br:8555/live/1021/123456/276.m3u8 
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Canal aberto",BAND
 http://tv.mapfibra.com.br:8555/live/1012/123456/276.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Cabugi Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canal aberto",Inter TV Cabugi FHD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Cabugi Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canal aberto",Inter TV Cabugi HD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18031.m3u8
 #EXTINF:-1 tvg-id="Globo.Portalegre.br" tvg-name="GLOBO Portalegre" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO Portalegre
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18246.m3u8
 #EXTINF:-1 tvg-id="Globo.news.br" tvg-name="GLOBO NEWS" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO NEWS
@@ -23,6 +27,8 @@ http://tv.mapfibra.com.br:8555/live/1021/123456/282.m3u8
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18246.ts
 #EXTINF:-1 tvg-id="Globo.Bahia.br" tvg-name="GLOBO BAHIA" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO BHAIA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-id="Glob.br" tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO
+http://79.127.243.211:14011/Globo
 #EXTINF:-1 tvg-id="Globo.br"tvg-name="GLOBO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO
 http://79.127.243.211:14027/Globo
 #EXTINF:-1 tvg-id="Globo.rj.br" tvg-name="GLOBO RIO" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO RIO
@@ -107,7 +113,8 @@ https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="Futura"tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="Canal aberto",Futura
 http://tv.mapfibra.com.br:8555/live/1012/123456/280.m3u8 
- 
+#EXTINF:-1 tvg-id="Futura"tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="Canal aberto",Futura
+http://tv.mapfibra.com.br:8555/live/1021/123456/280.m3u8 
 
 
 -----------------//-URBAN-//--------------------------
@@ -123,11 +130,17 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/107.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/108.m3u8
 #EXTINF:-1 tvg-id="VivaTele110" tvg-name="URBAN SERIES" tvg-logo="https://www.urbanplay.com.br/archives/21-urban-series-png_21570-1uxfpsxoedh/retrieve" group-title="URBAN",URBAN SERIES
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/110.m3u8
+#EXTINF:-1 tvg-id="VivaTele111" tvg-name="URBAN TRAVEL" tvg-logo="https://www.urbanplay.com.br/archives/23-urban-travel-png_22814-vwd27n3oby/retrieve" group-title="URBAN",URBAN TRAVEL
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/111.m3u8
 
 
--------------------Variedades------------------------------------
+-----------------------------------------Variedades------------------------------------
 
 
+#EXTINF:-1 tvg-id="86" tvg-name="A&E Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/ae.png" group-title="Variedade",A&E FHD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12000.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/ae.png" group-title="Variedade",A&E FHD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12002.m3u8
 #EXTINF:-1 tvg-id="CaracolMix"tvg-name="Caracol Mix Esp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" group-title="Variedade",Caracol mix
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Caracol/Caracol_Mix_MX/Caracol_Mix.m3u8
 #EXTINF:-1 tvg-id="COZI.TV"tvg-name="COZI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcj_XCTEQdRkc9_Uqk5S0FACk-ut8ZW9wKAg&s" group-title="Variedade",COZI TV
@@ -160,6 +173,10 @@ https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="SuaTvDiscoveryChannel"tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Variedade",Discovery Channel
 http://hls1.sua.tv:80/live/discoverychannelfhd/s.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="Discovery H&H Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryhh.png" group-title="Canais | Variedade",Discovery H&H FHD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12012.m3u8
+#EXTINF:-1 tvg-id="H&H" tvg-name="Discovery H&H Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryhh.png" group-title="Canais | Variedade",Discovery H&H HD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12013.m3u8
 #EXTINF:-1 tvg-id="SuaTvDiscoveryChannel"tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Variedade",Discovery Channel
 http://104.255.88.155/discovery/index.m3u8
 #EXTINF:-1 tvg-id="SuaTvDiscoveryChannel"tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Variedade",Discovery Channel
@@ -170,6 +187,8 @@ http://67.220.85.156:14534/History 2
 http://104.255.88.155/history/index.m3u8
 #EXTINF:-1 tvg-id="H&H"tvg-name="H&H" tvg-logo="https://i.pinimg.com/736x/cb/ee/51/cbee5187a24efc4d11c0bd3d19181f3d.jpg" group-title="Variedade",H&H
 http://79.127.243.211:14769/H&H
+#EXTINF:-1 tvg-id="SuaTvDiscoveryChannel"tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Variedade",Discovery Channel
+http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/10589.ts
 #EXTINF:-1 tvg-id="FreeTvMultShow" tvg-name="MultShow" tvg-logo="https://images.seeklogo.com/logo-png/9/2/multishow-logo-png_seeklogo-96008.png" group-title="Variedade",multshow
 https://stream1.freetv.fun/0e41cfb0a6409f4585435f7e28cf14d411b36316df458d7710d070a651038c32.ctv
 #EXTINF:-1 tvg-id="FreeTvMultShow" tvg-name="MultShow" tvg-logo="https://images.seeklogo.com/logo-png/9/2/multishow-logo-png_seeklogo-96008.png" group-title="Variedade",multshow
@@ -182,6 +201,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a06
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="MoveOnjoyAnimalPlanet"tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Variedade",Animal Planet
 https://fl1.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Variedade",Animal Planet
+http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/10577.ts
 #EXTINF:-1 tvg-id=""tvg-name="in wild tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYjYfrzAx-o2crQ17H0Z5obVvBBNtdSGyTrQ&s" group-title="Variedade", in wild tv
 https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="45235078AnimalPlanet"tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Variedade",Animal Planet
@@ -194,6 +215,8 @@ https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="6014761dfb91870008ea6463" tvg-name="Turbo" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="Variedade",Turbo | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="Dicovey Turbo" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="Variedade",Dicvery Turbo
+https://tvsen6.aynaott.com/discovery_turbo/index.m3u8
 #EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8"tvg-name="Investigação" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="Variedade",Investigação | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="656e2a4b4261ca00083aa99e"tvg-name="Acumuladores Obsessivos" tvg-logo="https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png" group-title="Variedade",Acumuladores Obsessivos | Pluto TV Brasil 
@@ -214,6 +237,10 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/681111be5e0764e297fb2
 https://amg01391-sbtinfast-amg01391c6-tcl-us-5081.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Food_Network"tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Variedade",Food_Network
 http://45.235.0.78/Food_Network/playlist.m3u8
+#EXTINF:-1 tvg-id="Food_Network" tvg-name="Food Network Fre" tvg-logo="http://www.fontedecanais.tv/logos/canais/foodnetwork.png" group-title="Variedade",Food Network FHD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12024.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="Food Network Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/foodnetwork.png" group-title="Variedade",Food Network HD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12025.m3u8
 #EXTINF:-1 tvg-id="Food.Network.usa"tvg-name="Food Network USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Variedade",Food_Network USA
 https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="GloboReceitasFastBR"tvg-name="Receita" tvg-logo="https://s3.glbimg.com/v1/AUTH_05f06ca986b54d6e9c5df94927ccf7fc/receitas/imgs/thumb-redes-sociais-amarelo.png" group-title="Variedade",Receita
@@ -262,9 +289,12 @@ https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafric
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 #EXTINF:-1 tvg-id="rede1250" tvg-name="tv brasil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAhpwQfoMewimGa30moDYXf80oPR8_-Z4BCA&s" group-title="Variedade",Tv Brasil
 https://video01.kshost.com.br/rede1250/rede1250/playlist.m3u8
+#EXTINF:-1 tvg-id="SamsungTvPlusCRBR"tvg-name="CANAL RURAL" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT5sodeAokl394_CiT6sMdPVpP54s2hI8ewwyog2Q=s512-c-k-c0x00ffffff-no-rj" group-title="Variedade",CANAL RURAL
+https://brn-crbr-samsungtvplus-br.otteravision.com/brn/crbr/crbr.m3u8
 #EXTINF:-1 tvg-id="PlayTv"tvg-name="Play TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/PlayTV_logomarca.jpg" group-title="Variedade", Play Tv
 http://tv.mapfibra.com.br:8555/live/1012/123456/342.m3u8 
- 
+#EXTINF:-1 tvg-id="PlayTv"tvg-name="Play TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/PlayTV_logomarca.jpg" group-title="Variedade", Play Tv
+http://tv.mapfibra.com.br:8555/live/1021/123456/342.m3u8 
 
 
 
@@ -343,20 +373,27 @@ http://tv.mapfibra.com.br:8555/live/1012/123456/300.m3u8
 
 
 
---------------------------ESPORTE--------------------------
+-------------------------------------ESPORTE--------------------------
 
 
 
 
-
+#EXTINF:-1 tvg-id="Racer Brasil" tvg-id="Racer Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/NascarBrasil_Primary-main.png" group-title="Esporte", Racer Brasil
+https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Hard Knocks Fight Championship" tvg-id="Hard Knocks Fight Championship" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mK6g_wkxcJhSrCRwaW5t4NW5gSQD8hLQrttEmB3lO9uA=s900-c-k-c0x00ffffff-no-rj" group-title="Esporte", Hard Knocks Fight Championship
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="Glory Kickboxing" tvg-logo="https://i.pinimg.com/736x/96/57/c7/9657c787f70fffcc00975bc4b8b233d4.jpg" group-title="Esporte", Glory Kickboxing
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-id="Glory" tvg-logo="https://i.pinimg.com/736x/96/57/c7/9657c787f70fffcc00975bc4b8b233d4.jpg" group-title="Esporte", Glory
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-id="GeTv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GE_TV.svg/1200px-Logo_GE_TV.svg.png" group-title="Esporte", GeTv
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="Desimpedidos" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/460d91174548417.Y3JvcCwxMDc5LDg0NCw2MSww.png" group-title="Esporte", Desimpedidos
 https://ogc-desi-tcl-roku-syndication.otteravision.com/ogc/desi/desi_h265.m3u8
+#EXTINF:-1 tvg-id="EuroSort_Channel" tvg-id="EuroSport" tvg-logo="https://cdn.awsli.com.br/400x300/1785/1785030/logo/logo-branco-1gjh6hwq7n.JPG" group-title="Esporte", EuroSport
+http://62.131.195.211:8086/8.ts
+#EXTINF:-1 tvg-id="EuroSort_Channel" tvg-id="EuroSport 2" tvg-logo="https://cdn.awsli.com.br/400x300/1785/1785030/logo/logo-branco-1gjh6hwq7n.JPG" group-title="Esporte", EuroSport 2
+http://41.205.93.154:80/EUROSPORT2/playlist.m3u8
 #EXTINF:-1 tvg-id="MaxSport1" tvg-id="Max Sport" tvg-logo="https://static.wikia.nocookie.net/the-fake-logos-of-the-world/images/0/06/1_0_19_2BF_0_0_1862F7C_0_0_0.png/revision/latest?cb=20230711013438&path-prefix=bg" group-title="Esporte", Max Sport
 http://77.46.130.252:99/maxsport1
 #EXTINF:-1 tvg-id="MaxSport2" tvg-id="Max Sport2" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/max-sport-2-hd-371x230-new-logo.png" group-title="Esporte", Max Sport 2
@@ -393,8 +430,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66997e8d3a4ad20008e50b
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-id="BeinSportsXtra"tvg-name="Bein Sports Xtra" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/Bein.jpg/Zz1mNmExMWMyZWVlNmExMWVmOWJhNjRhYzEwMjk2ODg1YQ==?width=1200" group-title="Esporte",Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BeinSportsXtra"tvg-name="Bein Sports" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/Bein.jpg/Zz1mNmExMWMyZWVlNmExMWVmOWJhNjRhYzEwMjk2ODg1YQ==?width=1200" group-title="Esporte",Bein Sports
+http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BeinSports2"tvg-name="Bein 2" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/Bein.jpg/Zz1mNmExMWMyZWVlNmExMWVmOWJhNjRhYzEwMjk2ODg1YQ==?width=1200" group-title="Esporte",Bein 2
+https://live.streamgatos.top/hls/883/stream.m3u8
 #EXTINF:-1 tvg-id="nsports" tvg-name="NSPORTs" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/323/img_background_image_web.jpg" group-title="Esporte",NSPORTs
 https://video01.soultv.com.br/nsports/nsports/chunklist_w2062411981.m3u8
+#EXTINF:-1 tvg-id="114" tvg-name="Combate Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/combate.png" group-title="Esporte",Combate FHD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19006.m3u8
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/combate.png" group-title="Esporte",Combate HD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19007.m3u8
 #EXTINF:-1 tvg-id="64df7ab4dfa32400083c517b"tvg-name="DAZN Combate" tvg-logo="https://images.pluto.tv/channels/64df7ab4dfa32400083c517b/colorLogoPNG.png" group-title="Esporte",DAZN Combat - inglês e português | Pluto TV Brasil
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64df7ab4dfa32400083c517b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="64df7ab4dfa32400083c517b"tvg-name="DAZN Combate" tvg-logo="https://images.pluto.tv/channels/64df7ab4dfa32400083c517b/colorLogoPNG.png" group-title="Esporte",DAZN Combat - inglês e português | Pluto TV Brasil
@@ -423,6 +468,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
 #EXTINF:-1 tvg-id="OtteraTv1676" tvg-name="Motorvision"tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="Esporte",Motorvision | Brasil 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
+#EXTINF:-1 tvg-id="30" tvg-name="SporTV Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="Esporte",SporTV FHD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21000.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="Esporte",SporTV HD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21001.m3u8
 #EXTINF:-1 tvg-id="FreeTvSporTv" tvg-name="SporTv" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="Esporte",SporTv
 https://stream1.freetv.fun/7d5de8978932242751e549da92a6e37f9a485f856f218609b5c6c3c9dd70a2c6.ctv
 #EXTINF:-1 tvg-id="FreeTvSporTv" tvg-name="SporTv" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="Esporte",SporTv
@@ -433,8 +482,12 @@ http://79.127.243.211:14469/Sportv
 http://45.235.0.78/SporTV_2/playlist.m3u8
 #EXTINF:-1 tvg-id="FreeTvSporTv3" tvg-name="SporTv 3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="Esporte",SporTv 3
 http://45.235.0.78/SporTV_3/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPNU"tvg-name="espnu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPNU
+http://41.205.93.154:80/ESPNU/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN"tvg-name="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN
 http://45.235.0.78/ESPN/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN"tvg-name="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN
+http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2"tvg-name="espn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN 2 port
 http://79.127.243.211:14506/
 #EXTINF:-1 tvg-id="ESPN3"tvg-name="espn 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN 3 ingles
@@ -443,8 +496,14 @@ http://79.127.243.211:14510/
 http://45.235.0.78/ESPN_3/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN4"tvg-name="espn 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN 4
 http://79.127.243.211:14514/
+#EXTINF:-1 tvg-id="107" tvg-name="﻿Premiere 1 Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Esporte",﻿Premiere 1 FHD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20000.m3u8
+#EXTINF:-1 tvg-id="Premiere 1" tvg-name="Premiere 1 Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Esporte",Premiere 1 HD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20001.m3u8
 #EXTINF:-1 tvg-id="Premiere_Clube" tvg-name="premiere Club" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere Clube
 http://45.235.0.78/Premiere_Clubes/playlist.m3u8
+#EXTINF:-1 tvg-id="Premiere_Clube" tvg-name="premiere Club" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere Clube
+http://tv.zapping.life:8080/live/Juniorprdr/Pedroqui/10632.ts
 #EXTINF:-1 tvg-id="Channel_Premiere" tvg-name="premiere" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere
 http://79.127.243.211:14497/PREMIRE
 #EXTINF:-1 tvg-id="Chanel_Premiere" tvg-name="premiere" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere
@@ -465,14 +524,16 @@ http://67.220.85.156:14508/COMBATE
 http://67.220.85.156:14509/COMBATE
 #EXTINF:-1 tvg-id="Combate_Channe" tvg-name="COMBATE B" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE
 http://45.235.0.78/Combate/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSporte_Channel"tvg-name="Fox Sport 2" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",Fox Sport 2
+http://45.235.0.78/Fox_Sports_2/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSporte_Channel"tvg-name="Fox Sport" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",Fox Sport 
+https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 
 
 
 
-
-
--------------------ANIMAÇÃO------------------------------
+----------------------------------ANIMAÇÃO------------------------------
 
 
 #EXTINF:-1 tvg-id=""tvg-name="Os Padrinhos Mágicos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Os_padrinhos_m%C3%A1gicos_logo.png" group-title="Animação",Os Padrihos Mágicos
@@ -538,7 +599,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41a
 
 
 
-----------------------KIDs-------------------------------------
+-----------------------------------KIDs-------------------------------------
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Pocoyo" tvg-logo="https://i.pinimg.com/736x/30/35/9d/30359d80071638c043ae1d7b53a292e1.jpg" group-title="Kids", Pocoyo
@@ -592,7 +653,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8
 
 
 
-------------------FILMES-------------------------------------------
+------------------------------------FILMES-------------------------------------------
 
 
 
@@ -600,6 +661,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="Filmes",Adrenalina Freezone | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/amc.png" group-title="Filmes",AMC FHD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13000.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="AMC Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/amc.png" group-title="Filmes",AMC HD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13001.m3u8
 #EXTINF:-1 tvg-id="AMC_Channel_Espanhol" tvg-name="AMC ESPANHOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Filmes",AMC ESPANHOL
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC_Channel_USA" tvg-name="AMC USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Filmes",AMC USA
@@ -616,8 +681,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="6479ff764f5ba5000878dfe2" tvg-name="Cine Crime" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="Filmes",Cine Crime | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="69" tvg-name="Telecine Action Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecineaction.png" group-title="Filmes",Telecine Action FHD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/15000.m3u8
+#EXTINF:-1 tvg-id="TelecineOction_Channel" tvg-name="Telecine Action HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecineaction.png" group-title="Filmes",Telecine Action HD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/15001.m3u8
 #EXTINF:-1 tvg-id="TelecineOction_Channel" tvg-name="Telecine Oction" tvg-logo="https://images.seeklogo.com/logo-png/18/1/telecine-action-logo-png_seeklogo-188853.png" group-title="Filmes",Telecine oction
 https://stream1.freetv.fun/0604c70553606db7616c76e42dee573ad64c3c4b809080945531e45df23cdb94.ctv
+#EXTINF:-1 tvg-id="260" tvg-name="HBO Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo.png" group-title="Filmes",HBO FHD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/14000.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo.png" group-title="Filmes",HBO HD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/14001.m3u8
 #EXTINF:-1 tvg-id="HBO_Channel" tvg-name="HBO" tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-logo-png_seeklogo-65764.png" group-title="Filmes",HBO
 http://148.113.160.49:14187/HBO
 #EXTINF:-1 tvg-id="HBO_Channel" tvg-name="HBO" tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-logo-png_seeklogo-65764.png" group-title="Filmes",HBO
@@ -674,8 +747,16 @@ https://video04.logicahost.com.br/isonata/isonata/chunklist_w7914586.m3u8
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="bradoky_Channel" tvg-name="Bradoky" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/BRADOKY_-_logo_2_-_Transp_reduz_DEsfAZw.png" group-title="Filmes",Bradoky
 https://video01.soultv.com.br/bradoky/bradoky/playlist.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="Studio Universal Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/studiouniversal.png" group-title="Filmes",Studio Universal FHD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13048.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal" tvg-name="Studio Universal Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/studiouniversal.png" group-title="Filmes",Studio Universal HD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13049.m3u8
 #EXTINF:-1 tvg-id="Universal_Channel" tvg-name="Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="Filmes",Universal
 http://67.220.85.156:14053
+#EXTINF:-1 tvg-id="178" tvg-name="Cinemax Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinemax.png" group-title="Filmes",Cinemax FHD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13009.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinemax.png" group-title="Filmes",Cinemax HD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13010.m3u8
 #EXTINF:-1 tvg-id="CINEMAX_Channel" tvg-name="CINMAX" tvg-logo="https://images.seeklogo.com/logo-png/30/2/cinemax-logo-png_seeklogo-302185.png" group-title="Filmes",CINEMAX
 http://148.113.160.49:14198/CINEMAX
 #EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo.jpg" group-title="Filmes",Space
@@ -695,7 +776,7 @@ http://tv.mapfibra.com.br:8555/live/1021/123456/326.m3u8
 
 
 
---------------------//SÉRIES//-----------
+--------------------//SÉRIS//-----------
 
 #EXTINF:-1 tvg-id="620ff46e0a576e0007dc2f89" tvg-name="iCarly" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="Animação",iCarly | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -814,3 +895,27 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8
 http://tv.mapfibra.com.br:8555/live/1012/123456/315.m3u8 
 #EXTINF:-1  tvg-id="ClassiqueTv" tvg-name="Classique Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQMt8ROzYSMXc-3LGk3ynTnA0tt6yZmLmdQ&s" group-title="Classic",ClassiqueTv
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
+
+
+----------/SKY/---
+#EXTINF:-1 tvg-id="" tvg-name="Free SKY 01" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 01
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/16000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Free SKY 02" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 02
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/16001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Free SKY 03" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 03
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/16002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Free SKY 04" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 04
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/16003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Free SKY 05" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 05
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/16004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Free SKY 06" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 06
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/16005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Free SKY 07" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 07
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/16006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Free SKY 08" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 08
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/16007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Free SKY 09" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 09
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/16008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Free SKY 10" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 10
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/16009.m3u8
+
