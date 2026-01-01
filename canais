@@ -172,14 +172,16 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/maste
 #EXTINF:-1 tvg-id="JAZZ" tvg-name="JAZZ" tvg-logo="https://www.shutterstock.com/image-vector/jazz-music-live-logo-template-260nw-2254460787.jpg" group-title="Variedade",JAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="JAZZ" tvg-name="JAZZ" tvg-logo="https://www.shutterstock.com/image-vector/jazz-music-live-logo-template-260nw-2254460787.jpg" group-title="Variedade",JAZZ
-https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="Stingray Smooth Jazz" tvg-name="Stingray Smooth Jazz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUW2aYO9o55MaV7N55EdHufbd7IgeLtnZlGA&s" group-title="Variedade",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="5f1ef1a8cec6be00072a7ac9"tvg-name="Documentários" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="Variedade",Documentários | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="SuaTvDiscoveryChannel"tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Variedade",Discovery Channel
 http://hls1.sua.tv:80/live/discoverychannelfhd/s.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="Discovery H&H Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryhh.png" group-title="Canais | Variedade",Discovery H&H FHD
+#EXTINF:-1 tvg-id="8" tvg-name="Discovery H&H Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryhh.png" group-title="Variedade",Discovery H&H FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12012.m3u8
-#EXTINF:-1 tvg-id="H&H" tvg-name="Discovery H&H Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryhh.png" group-title="Canais | Variedade",Discovery H&H HD
+#EXTINF:-1 tvg-id="H&H" tvg-name="Discovery H&H Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryhh.png" group-title="Variedade",Discovery H&H HD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12013.m3u8
 #EXTINF:-1 tvg-id="SuaTvDiscoveryChannel"tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Variedade",Discovery Channel
 http://104.255.88.155/discovery/index.m3u8
@@ -203,6 +205,8 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a064163d0007b2efe6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f"tvg-name="Natureza" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="Variedade",Natureza | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="MoveOnjoyAnimalPlanet"tvg-name="Animal.planet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Variedade",Animal Planet US
+http://217.20.112.199:8888/animalplanet/index.m3u8
 #EXTINF:-1 tvg-id="MoveOnjoyAnimalPlanet"tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Variedade",Animal Planet
 https://fl1.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Variedade",Animal Planet
