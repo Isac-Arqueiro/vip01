@@ -141,14 +141,16 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/111.m3u8
 -----------------------------------------Variedades------------------------------------
 
 
+#EXTINF:-1 tvg-id="" tvg-name="GameShow" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="Variedade", Game Show
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/GSN/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GameShow" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="Variedade", Game Show
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GameShow" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="Variedade", Game Show
+https://streamer1.nexgen.bz/GSN/index.m3u8
 #EXTINF:-1 tvg-id="86" tvg-name="A&E Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/ae.png" group-title="Variedade",A&E ( Free )
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12000.m3u8
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/ae.png" group-title="Variedade",A&E ( Free )
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12002.m3u8
-#EXTINF:-1 tvg-id="CaracolMix"tvg-name="Caracol Mix Esp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" group-title="Variedade",Caracol mix
-https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Caracol/Caracol_Mix_MX/Caracol_Mix.m3u8
-#EXTINF:-1 tvg-id="COZI.TV"tvg-name="COZI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcj_XCTEQdRkc9_Uqk5S0FACk-ut8ZW9wKAg&s" group-title="Variedade",COZI TV
-http://84.17.40.25/COZI_TV/mono.m3u8
 #EXTINF:-1 tvg-id="ISTV"tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" group-title="Variedade",ISTV
 http://tv.mapfibra.com.br:8555/live/1012/123456/348.m3u8 
 #EXTINF:-1 tvg-id="ISTV"tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" group-title="Variedade",ISTV
