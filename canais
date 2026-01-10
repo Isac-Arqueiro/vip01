@@ -3,8 +3,6 @@
  
 ------------------------------Canal Aberto--------------------------
 
-#EXTINF:-1 xui-id="24" tvg-id="" tvg-name="Band Ceará HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png" group-title="Canal aberto",TESTE Band Ceará HD
-http://tigeragile.uk:80/play/c71OHfXApFPLk6ATZ4tDUUaVlo885koafyGpndQT-lI/m3u8
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Canal aberto",BAND
 http://tv.mapfibra.com.br:8555/live/1021/123456/276.m3u8 
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Canal aberto",BAND
