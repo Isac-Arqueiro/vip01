@@ -3,8 +3,6 @@
  
 ------------------------------Canal Aberto--------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="teste" tvg-logo="" group-title="Canal aberto",TESTE
-http://38.46.218.85/auth/767.m3u8?token=XJel5fyNKWHy5D_V-PNmKLilQRA5jvXCmpbBb9aI4LrdKAB35OMUCjgHx4d7ahkt5ljKvfueyve2LBiCqoY9fslv1PZsswkAlbC3sknDP5YYapPosRUsl6KHDPjIaCn-T0ZGYvVs_VIgptD6MMRaDmEBTam2PHsja7_Z9bq2-CZXTbEkVxIRt5Cnyxol6oQSBX_1_pXhZSEP14KVmlM45JXR3j0OCNKpZqj5igT4K6mq1faKvVFGwIo97m4W55LNb5RyTv8fqWYuZfhwxNl4Xblu9mBymJ6glIg5W1PYXbwHz2u9WD2CZyVeFLOmhVHOqgaLUzLkod3NLuv3f8R1AP219L3QB2KdPc2KLE1u-buvkXapkYflguV7F4uC5FdeRqgU8tK5Moc9oO9GQZWH0tI4jv6QtFiO7s7xIXOGJYBYA5oGyqjdmOY-8J49HKD50rOT3fHEai5tb9_IUhR5mD_rOaJOwPb4Ld-XQ2MHGuflRm3wS5pDe8b6cYFfqR9RuWK8eZLK6SatqJHV2HV4MP5K1mXgs_oJwaNIP5EcfF7k6ZeFE6nL57dKPIPq8KNqy_8s1NZB_Ecpu7AVLyWZ4JAkM5alsLooxfN-sQJJSmA
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Canal aberto",BAND
 http://tv.mapfibra.com.br:8555/live/1021/123456/276.m3u8 
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Canal aberto",BAND
