@@ -4,7 +4,7 @@
 ------------------------------Canal Aberto--------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="teste" tvg-logo="" group-title="Canal aberto",TESTE
-http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/976776.m3u8
+http://38.46.218.85/auth/770.m3u8?token=Yb7w07cZ3FvEYVehQT-Y40c2tQ5oOmBb82_74x6lfeGV3c_Dh3fKgmfm7fOE-h5TzWo648ir_TLAJ9NM_Kk-6WftNdYBMsjVu3iJtlvKTWpRMBg9k1M5kielpNdR9xLUE8bUV5LHazcnTlJ3Mr6fmaksGkas-U21qVZzqLjtB4Wa9jmoW1WbNBi5qwoPsgXDlnO72IfXlYEAZgku0pBfBL94ZCpKahYpxsDYt8t_qoe4idncYhpEBZBfqNLJhCZuDzxEqj1B_Q2h2pBcM7D72__LoN9QRPigewqi24SusQoZggj7HNdquzyDeIZzVKjR4TviEeN9DYtsT8ed9CV6zKAaGzkd1dG2WhxI1fUyURQtRID7F7q3yGbehHm7gFAMgxZfr0Z78fUA9NQBfoNDfWITCiMhW53k7XkCgglpvlXCLKen3LRq-wAg47r9OOZ33som82lD72cIN-20w_YSNoHgvSDhSwoRJy9RVVmyID1HDgBw7nGDbMfSQ1mx7XrHKpwp1RAZrsW9w-VlEBvW8iTe-QSDLIFborrxUScLkvOanBZ_PLIL9H5kA-FegeFZbewmybHDsiAR7VyQ5rNP3Rx_IIOdfFQKbmcL0ZBMtnc
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Canal aberto",BAND
 http://tv.mapfibra.com.br:8555/live/1021/123456/276.m3u8 
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Canal aberto",BAND
