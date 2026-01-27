@@ -3,10 +3,12 @@
  
 ------------------------------Canal Aberto--------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV TESTE" tvg-logo="" group-title="Canal aberto",SPORTV TESTE
-http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/395.m3u8
+
+
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Canal aberto",BAND
-http://tv.mapfibra.com.br:8555/live/1021/123456/276.m3u8 
+http://tv.mapfibra.com.br:8555/live/1021/123456/276.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Canal aberto",BAND ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/20.m3u8 
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Canal aberto",BAND
 http://tv.mapfibra.com.br:8555/live/1012/123456/276.m3u8 
 #EXTINF:-1 tvg-id="GlobalNews" tvg-name="Global News" tvg-logo="https://yt3.googleusercontent.com/0HLQQOWZ7NCOsJIicFg_3UgyWCg4C_LK27PIAqReZlvkVYY0dp8QzGhp57FON4QeJTH5IrYlCw=s900-c-k-c0x00ffffff-no-rj" group-title="Canal aberto", Global News
@@ -15,6 +17,8 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18030.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter TV Cabugi Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canal aberto",Inter TV Cabugi ( Free )
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18031.m3u8
+#EXTINF:-1 tvg-id="720" tvg-name="Inter TV Cabugi" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canal aberto",Inter TV Cabugi ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/720.m3u8
 #EXTINF:-1 tvg-id="Globo.Portalegre.br" tvg-name="GLOBO Portalegre" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO Portalegre ( Free )
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18246.m3u8
 #EXTINF:-1 tvg-id="Globo.news.br" tvg-name="GLOBO NEWS" tvg-logo="https://images.seeklogo.com/logo-png/39/2/globo-logo-png_seeklogo-398350.png" group-title="Canal aberto",GLOBO NEWS ( A )
@@ -45,6 +49,8 @@ http://tv.mapfibra.com.br:8555/live/1021/123456/308.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Canal aberto",Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-id="360" tvg-name="Record News" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Canal aberto",Record ( Ulr )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/360.m3u8
 #EXTINF:-1 tvg-id="Record.br" tvg-name="Record br" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Canal aberto",Record
 http://tv.mapfibra.com.br:8555/live/1012/123456/285.m3u8
 #EXTINF:-1 tvg-id="Record.br" tvg-name="Record News" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Canal aberto",Record News
@@ -97,6 +103,8 @@ http://tv.mapfibra.com.br:8555/live/1021/123456/291.m3u8
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1366217477.m3u8
 #EXTINF:-1 tvg-id="CidadeVerdeNovo" tvg-name="SBT" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canal aberto",SBT
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1094980537.m3u8
+#EXTINF:-1 tvg-id="372" tvg-name="SBTUlt" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canal aberto",SBT ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/372.m3u8
 #EXTINF:-1 tvg-id="SbtPara"tvg-name="SBTPara.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Canal aberto",SBT | TV Guajará | Tailândia | PA
 https://video05.logicahost.com.br/tvguajara/tvguajara/master.m3u8
 #EXTINF:-1 tvg-id="Redetv_Parana_Channel" tvg-name"redetvparana" tvg-name="REDE TV" tvg-logo="https://www.publicitarioscriativos.com/wp-content/uploads/2019/11/redetv1-768x432.png" group-title="Canal aberto",REDE TV paraná
@@ -140,13 +148,13 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/111.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="GameShow" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="Variedade", Game Show
-http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/GSN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GameShow" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="Variedade", Game Show
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="86" tvg-name="A&E Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/ae.png" group-title="Variedade",A&E ( Free )
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12000.m3u8
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/ae.png" group-title="Variedade",A&E ( Free )
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12002.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/ae.png" group-title="Variedade",A&E ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/2.m3u8
 #EXTINF:-1 tvg-id="gnt"tvg-name="gnt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Gnt_logo.jpg" group-title="Variedade", GNT
 http://79.127.238.228:14402/GNT
 #EXTINF:-1 tvg-id="ISTV"tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" group-title="Variedade",ISTV
@@ -179,8 +187,14 @@ https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="SuaTvDiscoveryChannel"tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Variedade",Discovery Channel
 http://hls1.sua.tv:80/live/discoverychannelfhd/s.m3u8
+#EXTINF:-1 tvg-id="12013"tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Variedade",Discovery Channel ( Free )
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12013.m3u8
+#EXTINF:-1 tvg-id="98"tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Variedade",Discovery Channel ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/98.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="Discovery H&H Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryhh.png" group-title="Variedade",Discovery H&H ( Free )
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12012.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Discovery H&H Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryhh.png" group-title="Variedade",Discovery H&H ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/101.m3u8
 #EXTINF:-1 tvg-id="H&H" tvg-name="Discovery H&H Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryhh.png" group-title="Variedade",Discovery H&H ( Free )
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12013.m3u8
 #EXTINF:-1 tvg-id="SuaTvDiscoveryChannel"tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Variedade",Discovery Channel
@@ -191,14 +205,22 @@ https://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 http://67.220.85.156:14534/History 2
 #EXTINF:-1 tvg-id="History2"tvg-name="History2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOy4pV0n1pI_0_xIjFg0sKQ7gQt6cobO1Xw&s" group-title="Variedade",Hitory 2 ( A )
 http://67.220.85.156:14533
+#EXTINF:-1 tvg-id="218"tvg-name="History2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOy4pV0n1pI_0_xIjFg0sKQ7gQt6cobO1Xw&s" group-title="Variedade",Hitory 2 ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/218.m3u8
 #EXTINF:-1 tvg-id="History.usa"tvg-name="History USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOy4pV0n1pI_0_xIjFg0sKQ7gQt6cobO1Xw&s" group-title="Variedade",Hitory US
 http://104.255.88.155/history/index.m3u8
+#EXTINF:-1 tvg-id="220"tvg-name="History USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOy4pV0n1pI_0_xIjFg0sKQ7gQt6cobO1Xw&s" group-title="Variedade",Hitory ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/220.m3u8
 #EXTINF:-1 tvg-id="H&H"tvg-name="H&H" tvg-logo="https://i.pinimg.com/736x/cb/ee/51/cbee5187a24efc4d11c0bd3d19181f3d.jpg" group-title="Variedade",H&H ( C )
 http://79.127.243.211:14769/H&H
 #EXTINF:-1 tvg-id="ALWAYSFNNY" tvg-name="ALWAYS FNNY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWXVe7ylJnE7NC9lcaiNQgjoXg8Bo3HSrT0A&s" group-title="Variedade",FANNY
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MoveOnjoyAnimalPlanet"tvg-name="Animal.planet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Variedade",Animal Planet US
 http://217.20.112.199:8888/animalplanet/index.m3u8
+#EXTINF:-1 tvg-id="23000"tvg-name="Animal.planet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Variedade",Animal Planet ( Free )
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23000.m3u8
+#EXTINF:-1 tvg-id="11"tvg-name="Animal.planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Variedade",Animal Planet ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/11.m3u8
 #EXTINF:-1 tvg-id="45235078AnimalPlanet"tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Variedade",Animal Planet
 http://45.235.0.78/Animal_Planet/playlist.m3u8
 #EXTINF:-1 tvg-name="wildearth" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyg2s-zMHieuGYpiSTr0T57Dj4tC3QeFKRTw&s" group-title="Variedade",wildearth
@@ -309,7 +331,10 @@ http://tv.mapfibra.com.br:8555/live/1012/123456/300.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="Ufc" tvg-id="UFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/1280px-UFC_Logo.svg.png" group-title="Esporte" UFC
+https://live-manifest.production-public.tubi.io/live/dd6d627f-f0f8-48bb-b627-7f7c4fceec37/playlist.m3u8
+#EXTINF:-1 tvg-id="1788341" tvg-id="UFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/1280px-UFC_Logo.svg.png" group-title="Esporte" UFC ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/1788341.m3u8
 #EXTINF:-1 tvg-id="Racer Brasil" tvg-id="Racer Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/NascarBrasil_Primary-main.png" group-title="Esporte", Racer Brasil
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Hard Knocks Fight Championship" tvg-id="Hard Knocks Fight Championship" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mK6g_wkxcJhSrCRwaW5t4NW5gSQD8hLQrttEmB3lO9uA=s900-c-k-c0x00ffffff-no-rj" group-title="Esporte", Hard Knocks Fight Championship
@@ -338,6 +363,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://hrm-sftc.otteravision.com/hrm/sftc/sftc_720p_high.m3u8
 #EXTINF:-1 tvg-id="AmagiTvCazeTv"tvg-name="Cazé" tvg-logo="https://www.claro.com.br/files/104379/860x1440/9da5b62119/capa-assistir-caze-tv-online.png/m/filters:quality(75)" group-title="Esporte",Cazé
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="3068809"tvg-name="Cazé" tvg-logo="https://www.claro.com.br/files/104379/860x1440/9da5b62119/capa-assistir-caze-tv-online.png/m/filters:quality(75)" group-title="Esporte",Cazé ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/3068809.m3u8
 #EXTINF:-1 tvg-id="AmagiTvCazeTv"tvg-name="Cazé" tvg-logo="https://www.claro.com.br/files/104379/860x1440/9da5b62119/capa-assistir-caze-tv-online.png/m/filters:quality(75)" group-title="Esporte",Cazé
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="FIFA_PLUS" tvg-name="FIFA" tvg-logo="https://icon2.cleanpng.com/lnd/20241222/jb/5f86fa00f0d96411dd912694a63f9b.webp" group-title="Esporte",FIFA
@@ -356,6 +383,8 @@ https://video01.soultv.com.br/nsports/nsports/chunklist_w2062411981.m3u8
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19006.m3u8
 #EXTINF:-1 tvg-id="Combate" tvg-name="Combate Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/combate.png" group-title="Esporte",Combate ( Free )
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19007.m3u8
+#EXTINF:-1 tvg-id="576" tvg-name="Combate Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/combate.png" group-title="Esporte",Combate ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/576.m3u8
 #EXTINF:-1 tvg-id="GOLF" tvg-name="GOLF" tvg-logo="https://cdn.vectorstock.com/i/1000v/87/73/golf-player-logo-vector-39748773.jpg" group-title="Esporte",GOLF
 http://212.102.60.10/GOLF/index.m3u8
 #EXTINF:-1 tvg-id="nsports" tvg-name="NSPORTs" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/323/img_background_image_web.jpg" group-title="Esporte",NSPORTs
@@ -376,44 +405,66 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21000.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="Esporte",SporTV ( Free )
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21001.m3u8
+#EXTINF:-1 tvg-id="395" tvg-name="SporTV" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="Esporte",SporTV ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/395.m3u8
 #EXTINF:-1 tvg-id="FreeTvSporTv" tvg-name="SporTv" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="Esporte",SporTv
 https://stream1.freetv.fun/7d5de8978932242751e549da92a6e37f9a485f856f218609b5c6c3c9dd70a2c6.ctv
 #EXTINF:-1 tvg-id="FreeTvSporTv" tvg-name="SporTv" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="Esporte",SporTv
 http://45.235.0.78/SporTV/playlist.m3u8
 #EXTINF:-1 tvg-id="FreeTvSporTv2" tvg-name="SporTv 2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="Esporte",SporTv 2 ( C )
 http://79.127.243.211:14469/Sportv
+#EXTINF:-1 tvg-id="397" tvg-name="SporTv 2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="Esporte",SporTv 2 ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/397.m3u8
 #EXTINF:-1 tvg-name="SporTv 2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="Esporte",SporTv 2
 http://45.235.0.78/SporTV_2/playlist.m3u8
 #EXTINF:-1 tvg-id="FreeTvSporTv3" tvg-name="SporTv 3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="Esporte",SporTv 3
 http://45.235.0.78/SporTV_3/playlist.m3u8
+#EXTINF:-1 tvg-id="400" tvg-name="SporTv 3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="Esporte",SporTv 3 ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/400.m3u8
 #EXTINF:-1 tvg-id="ESPNU"tvg-name="espnu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPNU
 http://41.205.93.154:80/ESPNU/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN"tvg-name="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN
 http://45.235.0.78/ESPN/playlist.m3u8
+#EXTINF:-1 tvg-id="121"tvg-name="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/121.m3u8
 #EXTINF:-1 tvg-id="ESPN"tvg-name="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2"tvg-name="espn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN 2 port ( C )
 http://79.127.243.211:14506/
+#EXTINF:-1 tvg-id="123"tvg-name="espn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN 2 ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/123.m3u8
 #EXTINF:-1 tvg-id="ESPN3"tvg-name="espn 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN 3 inglês ( C )
 http://79.127.243.211:14510/
 #EXTINF:-1 tvg-id="ESPN3"tvg-name="eson 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN 3
 http://45.235.0.78/ESPN_3/playlist.m3u8
+#EXTINF:-1 tvg-id="127"tvg-name="espn 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN 3 ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/127.m3u8
 #EXTINF:-1 tvg-id="ESPN4"tvg-name="espn 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN 4 ( C )
 http://79.127.243.211:14514/
+#EXTINF:-1 tvg-id="131"tvg-name="espn 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN 4 ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/131.m3u8
+#EXTINF:-1 tvg-id="135"tvg-name="espn 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Esporte",ESPN 5 ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/135.m3u8
 #EXTINF:-1 tvg-id="107" tvg-name="﻿Premiere 1 Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Esporte",﻿Premiere 1 ( Free )
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20000.m3u8
 #EXTINF:-1 tvg-id="Premiere 1" tvg-name="Premiere 1 Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Esporte",Premiere 1 ( Free )
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20001.m3u8
-#EXTINF:-1 tvg-id="Premiere_Clube" tvg-name="premiere Club" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere Clube
-http://45.235.0.78/Premiere_Clubes/playlist.m3u8
+#EXTINF:-1 tvg-id="477" tvg-name="Premiere 1" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Esporte",Premiere 1 ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/477.m3u8
+#EXTINF:-1 tvg-id="1197" tvg-name="premiere Club" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere Clube ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/1197.m3u8
 #EXTINF:-1 tvg-id="Channel_Premiere" tvg-name="premiere" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere ( C )
 http://79.127.243.211:14497/PREMIRE
 #EXTINF:-1 tvg-id="Chanel_Premiere" tvg-name="premiere" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere ( C ) 
 http://79.127.243.211:14493/PREMIRE
 #EXTINF:-1 tvg-id="Channel_Premiere2" tvg-name="premiere 2" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere 2
 http://45.235.0.78/Premiere_2/playlist.m3u8
+#EXTINF:-1 tvg-id="303" tvg-name="premiere 2" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere 2 ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/303.m3u8
 #EXTINF:-1 tvg-id="Channel_Premiere3" tvg-name="premiere 3" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere 3
 http://45.235.0.78/Chanl_Premiere_3/playlist.m3u8
+#EXTINF:-1 tvg-id="307" tvg-name="premiere 3" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere 3 ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/307.m3u8
 #EXTINF:-1 tvg-id="Channel_Premiere4" tvg-name="premiere 4" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere 4
 http://45.235.0.78/Premiere_4/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel_Combate"tvg-name="COMBATE A" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE ( C )
@@ -776,9 +827,5 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38032.m3u8
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38033.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H Filmes Lancamentos" tvg-logo="http://www.fontedecanais.tv/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Filmes Lancamentos
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38034.m3u8
-
-
-
-----------------------------ULTRA----------------
 
 
