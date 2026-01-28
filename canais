@@ -229,6 +229,8 @@ https://wildearth-plex.amagi.tv/master.m3u8
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-id="Food_Network"tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Variedade",Food_Network
 https://fl41.moveonjoy.com/FOOD_NETWORK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="153"tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Variedade",Food_Network ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/153.m3u8
 #EXTINF:-1 tvg-id="Food_Network"tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Variedade",Food_Network
 http://45.235.0.78/Food_Network/playlist.m3u8
 #EXTINF:-1 tvg-id="Food_Network" tvg-name="Food Network Fre" tvg-logo="http://www.fontedecanais.tv/logos/canais/foodnetwork.png" group-title="Variedade",Food Network ( Free )
@@ -275,6 +277,8 @@ https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NovoTempo"tvg-name="Novo Tempo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="Religioso",Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="26001"tvg-name="Novo Tempo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="Religioso",Novo Tempo ( Ult )
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/26001.m3u8
 #EXTINF:-1 tvg-id="NovoTempo"tvg-name="Novo Tempo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="Religioso",Novo Tempo
 http://tv.mapfibra.com.br:8555/live/1012/123456/302.m3u8 
 #EXTINF:-1 tvg-id="NovoTempo"tvg-name="Novo Tempo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="Religioso",Novo Tempo
@@ -467,14 +471,18 @@ http://45.235.0.78/Chanl_Premiere_3/playlist.m3u8
 http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/307.m3u8
 #EXTINF:-1 tvg-id="Channel_Premiere4" tvg-name="premiere 4" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="Esporte",Premiere 4
 http://45.235.0.78/Premiere_4/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel_Combate"tvg-name="COMBATE A" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE ( C )
+#EXTINF:-1 tvg-id="Channel_Combate"tvg-name="COMBATE C" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE ( C )
 http://79.127.243.211:14449/COMBATE
+#8EXTINF:-1 tvg-id="114" tvg-name="Combate" tvg-logo="http://www.fontedecanais.tv/logos/canais/combate.png" group-title="Canais | Esportes",Combate ( Free )
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19006.m3u8
 #EXTINF:-1 tvg-id="Combate_Channel"tvg-name="COMBATE" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE ( A )
 http://67.220.85.156:14510/COMBATE
 #EXTINF:-1 tvg-id="Combate_Channel"tvg-name="COMBATE" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE ( A )
 http://67.220.85.156:14508/COMBATE
 #EXTINF:-1 tvg-id="Combate_Chanel"tvg-name="COMBATE" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE ( A )
 http://67.220.85.156:14509/COMBATE
+#EXTINF:-1 tvg-id="578"tvg-name="COMBATE" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/578.m3u8
 #EXTINF:-1 tvg-id="Combate_Channe" tvg-name="COMBATE B" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",COMBATE
 http://45.235.0.78/Combate/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSporte_Channel"tvg-name="Fox Sport 2" tvg-logo="https://i.imgur.com/7nclxg5.png" group-title="Esporte",Fox Sport 2
@@ -549,14 +557,20 @@ https://fl1.moveonjoy.com/FX/tracks-v1a1/mono.m3u8
 https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/amc.png" group-title="Filmes",AMC ( Free )
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13000.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/amc.png" group-title="Filmes",AMC ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/8.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="AMC Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/amc.png" group-title="Filmes",AMC ( Free )
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13001.m3u8
 #EXTINF:-1 tvg-id="AMC_Channel_Espanhol" tvg-name="AMC ESPANHOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Filmes",AMC ESPANHOL
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="AXN" tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGuEUcGZOZIZquvDCse0wD0ez_Se3glfQlMw&s" group-title="Filmes", AXN ( ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/17.m3u8
 #EXTINF:-1 tvg-id="AMC_Channel_USA" tvg-name="AMC USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Filmes",AMC USA
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC_Channel" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Filmes",AMC
 http://45.235.0.78/AMC/playlist.m3u8
+#EXTINF:-1 tvg-id="247" tvg-name="Megapix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="Filmes", Megapix (Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/247.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="Telecine Action Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecineaction.png" group-title="Filmes",Telecine Action ( Free )
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/15000.m3u8
 #EXTINF:-1 tvg-id="TelecineOction_Channel" tvg-name="Telecine Action HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecineaction.png" group-title="Filmes",Telecine Action ( Free )
@@ -603,12 +617,18 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13049.m3u8
 http://67.220.85.156:14053
 #EXTINF:-1 tvg-id="178" tvg-name="Cinemax Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinemax.png" group-title="Filmes",Cinemax ( Free )
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13009.m3u8
+#EXTINF:-1 tvg-id="178" tvg-name="Cinemax Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinemax.png" group-title="Filmes",Cinemax ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/85.m3u8
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax Free" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinemax.png" group-title="Filmes",Cinemax ( Free )
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13010.m3u8
 #EXTINF:-1 tvg-id="CINEMAX_Channel" tvg-name="CINMAX" tvg-logo="https://images.seeklogo.com/logo-png/30/2/cinemax-logo-png_seeklogo-302185.png" group-title="Filmes",CINEMAX
 http://148.113.160.49:14198/CINEMAX
 #EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo.jpg" group-title="Filmes",Space
 http://45.235.0.78/Space/playlist.m3u8
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo.jpg" group-title="Filmes",Space ( Ult )
+http://tiguer.oimax.sbs/live/JbXtEA/Uv4fTA/393.m3u8
+#EXTINF:-1 tvg-id="13028" tvg-name="Space" tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo.jpg" group-title="Filmes",Space ( Free )
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13028.m3u8
 #EXTINF:-1 tvg-id="TCN_Channel" tvg-name="TCN" tvg-logo="https://www.tcn.com/wp-content/themes/tcn/assets/media/tcn-secondary.svg" group-title="Filmes",TCN ( A )
 http://67.220.85.156:14049
 #EXTINF:-1 tvg-id="CineBrasil" tvg-name="Cine Brasil" tvg-logo="https://www.cine.org.br/wp-content/uploads/2021/05/logos/logotipo2_brancoPreto.png" group-title="Filmes",Cine Brasil
